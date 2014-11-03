@@ -1,0 +1,201 @@
+	Attended Patricia Solvignon's technical talk
+	Attended Patricia Solvignon's Colloqium
+	Read P. Hoodbhoy et al., Nucl. Phys. B312, 571 (1989)
+	Got in touch with Hazardous Waste Manangement -- They are going to pick up the oil later today
+	Read A. Airapetian, et al., PRL 95, 242001 (2005)
+	Read LOI for b1 at PAC 37
+	Meeting for b1
+	b1 Meeting
+	Set up git for the b1 proposal at https://github.com/ellie-long/b1_documents.git
+	Began looking through the rates information from Patricia
+	b1 Meeting
+	Inquired about structure of b1_rates folder from Patricia
+	Skype call with Patricia to go over how the rates code works
+	Attempting to translate fortran code to C++ so that I can read it easily
+	Played with b1_rates 
+	Played with b1 rates code -- succesfully translated qvec.f to qvec.cpp
+	Attempted to install GEMC to play with SoLID in GEANT4 -- failed
+	Continuing attempt to get GEMC working
+	Playing around with b1 rates, trying to match those in proposal
+	ptrates.f isn't compiling -- reloading from tar file to see if I can fix it
+	Recording labels from all of the output files of ptrates.f and incorporating them into LibreOffice Calc to understand how the outputs work
+	Continuing to play with b1 rates and add comments to the FORTRAN code as I figure out how it works
+	Added rates and time bar graphs to rates/scripts/new_proj_b1.sh
+	Worked on rates plots
+	Comparing existing ND3 rates to LiD rates -- this needs to be updated
+	Edited b1 wiki for meeting
+	b1 meeting
+	Worked on 'setting the board' for playing with rates -- added kinematics plots to projection plot analysis
+	Finished "Setting the Board" for the b1 rates game
+	Began playing with the rates to get a sense of where we want to be
+	Seeing how rates change when adjusting Q^2
+	Created animated *.gif files to show how the rates change with a scan over Q^2
+	Found best-case physics rates for x=0.1, 0.3, 0.5, and 0.625 (assuming that ptrates.f is working correctly)
+	Created b1 wiki site for rates update
+	Implemented PAC time into b1 rates code
+	Began figuring out how to implement total rates into b1 rates code
+	Began implementing total rates into b1 rates code
+	Working on adding QE peak to b1 rates code
+	Got the b1 rates code to accept x values up to x=0.9
+	Got quasi-elastic peak kind of working in b1 code (can get up to x=0.98)
+	Added dx error bars in b1 rates code
+	Trying to double-check that the cross section part of the code is working correctly -- I think there's a problem
+	Made sure the cross section calculations in the b1 rates code works correctly
+	Making a copy of the rates script in a spreadsheet so that I understand absolute everything that it's doing
+	Made website for b1 meeting
+	b1 Meeting
+	Completely understand what the b1 rates code is doing (Finally!! :-D )
+	Matched up back-of-envelope calculation of rates to the b1 rates code -- they are within the same order of magnitude! :-D (Off by about 0.6, but that could be due to kinematic clipping that the b1 rates code does that the quick estimate doesn't take into account)
+	Playing with b1 rates spreadsheet
+	Updated labbook with the work I've been doing
+	Began implementing He and N cross sections into spreadsheet
+	Working on figuring out how dAzz is calculated from the rates
+	Added He-4 and N-14 rates to spreadsheet
+	Added Mott and unpolarized cross sections for He-3 and N-14 into the b1 rates FORTRAN script -- haven't included in the total yet
+	Changed the b1 rates FORTRAN script so that it uses absolute error bars instead of relative ones
+	Added He-4 and N-14 rates into the b1 rates code
+	Finalized x=0.1 to x=1.0 rates at total rate=1kHz and 50kHz
+	Included total rates in the output of the b1 rates code
+	Fixed the time calculation (it was in days, I switched it to hours)
+	Began playing the rates game in two parts: 1) with total rate < 1kHz, 2) with total rate < 50kHz
+	Ran rates code for 50kHz and 500 kHz total rates
+	b1 Meeting
+	Added spectrometer theta and E' limits to b1 rates code
+	Began working on switching the meaning of prec in b1 rates code -- currently, it's dAzz, but I want to make it time so that the code will be easier to run
+	Mapped out F1 for each of the x points we're looking at
+	Minimized db1 in rates plot
+	Wrote script to scan F1 over a large x range, within kinematics we can take
+	Worked on rates for b1 -- found a problem with the cross sections and dilution factors
+	b1 meeting
+	Working on the b1 cross sections so that they give a ratio of ~0.3 instead of ~0.0085
+	Finalized rates calculations, things look good!
+	Writing up what I did for the b1 meeting tomorrow
+	Worked on b1 rates with Azz containing a plus- and minus- tensor polarized target
+	b1 meeting
+	Added A_meas^(2) method to the b1 code
+	I've also been neglecting it in my daily reports, but I've spent a lot of time working on the A_zz formalism on the b1 wiki ( https://hallcweb.jlab.org/wiki/index.php/User:Ellie )
+	Put the total kinematic spread into the b1 rates code
+	Working on making the b1 kinematics plots acceptable for the proposal
+	Information on how I spent the weekend can be found here: https://hallcweb.jlab.org/wiki/index.php/User:Ellie
+	My rates and Patricia's differ by a factor of 4 -- trying to isolate it
+	Rates code fixed, it now matches Patricia's
+	Working on re-scanning over Q2 now that I have more accurate plots
+	Re-scanning over x bins
+	Played with cuts to improve Azz errors
+	Spent the evening (and the next two days) working on finalizing rates and working on the b1 proposal
+	Worked on finalizing rates
+	Worked on b1 proposal
+	Worked pretty much constantly on b1 proposal
+	Approaching midnight, the b1 proposal was submitted
+	Worked on finalizing rates
+	Worked on b1 proposal
+	Worked pretty much constantly on b1 proposal
+	Before midnight, b1 proposal was submitted
+	Going over b1 rates code once more before archiving them on-line for the future
+	Archived rates code at UNH website and linked to it from the b1 wiki
+	Fixed Azz systematic error bars
+	Double-checked the 9.2% systematic error bars -- they seem to be working fine
+	b1 meeting
+	Figured out flight information for PAC, still need to book
+	Reserved flight/car for PAC meeting
+	Looking into luminosity monitor
+	b1 meeting
+	Started writing up short paper on the extra asymmetries
+	Added systematic uncertainty bands on Azz and b1 estimates
+	Researched into luminosity monitor
+	Fixed full error bars on b1 wiki
+	b1 meeting
+	Worked on optimizing systematic uncertainty with Oscar
+	Changed how the b1 rates code works so that it output the number of events for each setting that fall in each x bin
+	Found and debugged some errors in the b1 rates code
+	Made Azz plots for Dustin that contain new drift estimates
+	Worked on averaging drift uncertainty in sysematic band
+	Incorporated the new drift estimates into the rebinned-x plots
+	Redid Azz and b1 plots for Pzz=20% and 40% for the TAC response
+	Worked on b1 Defense talk
+	b1 Meeting
+	Worked on updating the PAC defense talk
+	Worked on making new plot estimates -- having difficulty with the Pzz=30 plots (The systematic band doesn't seem right)
+	Worked over the weekend on putting together the b1 PAC defense presentation
+	Answering PAC questions on binning and the Kumano-Close Sum Rule
+	Recalculated plots for Dustin's PAC response
+	Worked on the b1 PAC defense presentation
+	Remade Azz and b1 plots for Karl
+	Included update plots in PAC defense talk
+	Worked on PAC defense talk
+	b1 Meeting and Proposal Defense Runthrough
+	Worked on finalizing b1 proposal
+	Worked on finalizing b1 proposal talk
+	Dry run of b1 proposal talk
+	Edited new plots for b1 proposal talk
+	Worked on finalizing b1 proposal talk
+	Worked on finalizing b1 proposal talk
+	Flew to Newport News, VA
+	Worked on finalizing b1 proposal talk
+	Incorporated Dustin's target slides into the talk
+	Attended JLab PAC 40 talks
+	Worked on finalizing b1 proposal talk
+	Final run-through of b1 proposal talk
+	Ran final calculations and plots for b1 proposal talk
+	Final preparations for b1 proposal talk
+	Attended and helped defend the b1 proposal
+	Flew from Norfolk, VA back to NH
+	Heard word on the proposal -- IT WAS ACCEPTED!! :-D (With conditional approval based on the target)
+	Looked into possibilities for dipping into medical research that uses a polarized target
+	Read through NSF funding programs to see what is applicable for our target system
+	Began writing the NPG status report on b1
+	Worked on NPG Update Report for b1
+	Finished a draft of the NPG update for b1
+	Read through some more medical DNP papers
+	Reading through DNP in medicine papers and keeping track of potentially useful information for a proposal
+	Read up on DNP theory
+	Read up on DNP
+	b1 Meeting
+	Local b1 meeting
+	Worked on b1 rates code to continue allowing for quasi-elastic and SRC-range physics
+	Added more x bins (up to 11) to b1 rates code
+	Edited b1 rates code to properly plot the kinematics when only a single spectrometer is being looked at
+	Studied b1 cross sections using F1 only simplified cs and F1 & F2 full cs
+	Updated b1 wiki with results
+	Compared cross sections to data
+	Uploaded cross section comparisons to b1 wiki
+	Began, but didn't finish, redoing estimates for b1 using the updated rates code
+	Repeated the same for b1
+	Put plots on the b1 wiki
+	Plotted b1 one last time without extra lines in the systematic uncertainties
+	Reading through older tensor-polarized papers
+	Began writing a document to put all tensor-polarized formalism in the same space
+	Meeting with Kathy Cataneo about MRI and grants
+	Read through and commented on Karl's proceedings for the XVth International Workshop on Polarized Sources, Targets, and Polarimetry
+	Remade *.eps versions of the most updated b1 plots for Karl
+	Worked on AMI magnet
+	Worked on AMI magnet
+	Cleaned up the lab some
+	Took a few measurements of the remaining LHe
+	Meeting with Karl about where we're headed in February
+	Reading G. Miller's recent b1 paper on six-quark, hidden color physics
+	Pulled information from G. Miller's paper to use in the b1 plots
+	Added G. Miller's new b16q calculation plots to the b1 estimates plot
+	Wrote wiki page on my updates to the b1 plots
+	Worked up separating R from m plots in b1 (G. Miller's b16q calculation)
+	Looking into different spectrometer settings to increase b1 statistics
+	Wrote up results from b1 HMS scan from last night	
+	Working on the b1 cross sections to add LiD and (He+D)D
+	Attempted to find the densities of LiD and ND3 -- failed (but did find NH3 and LiH)
+	Played around with the b1 rates code to check the cross section between LiD and (HeD)D
+	Added lumi*sig calculations to ptrates code to see where the difference in rates b/t LiD & He2D are coming from
+	Continued looking into rates difference between LiD & He2D
+	Fixed LiD/He2D rates in b1 code & wrote up conclusions with all things being the same
+	Looked into D and N cross sections again
+	Meeting with Karl on what to focus on this week for the b1 meeting
+	Finding out what we can do at Pzz=15% for a single x=0.4 point
+	Set up b1 and Azz meetings for later this week
+	Continued attempting to optimize a worst-case scenario for b1 with ND3 at Pzz=15%
+	Wrote up wiki about results in the worst-case scenario for b1
+	b1 meeting
+	Working on pulling the points from G. Miller's b1 calculations
+	Looked at b1 and compared to proposal, to make sure that everything matches what we said it did
+	Ran Pzz scan of x=0.4 optimized b1 code to find sigma from zero 
+	Got side-tracked back into reading papers to better understand tensor polarization
+	Double-checked b1 calculations for Karl's proceedings and for my 2-slide DNP LRP talk
+	Going through old papers by Teryaev

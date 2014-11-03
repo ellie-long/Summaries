@@ -1,0 +1,106 @@
+Monthly Summary
+
+8/2014
+
+
+EG4
+	EG4 meeting
+	Worked on comparing steg output to EG4 data for 2.2GeV using Golden Run 51111
+	Wrote up the comparison on the EG4 wiki
+
+
+g2p
+	Went over Toby and Ryan's GRC posters
+	g2p meeting
+	Long g2p meeting
+	g2p Meeting
+	Really long g2p meeting
+	g2p Meeting
+
+
+UNH Lab
+	UNH Collaboration Meeting
+	Read through SBIR/STTR call for proposals
+	Trying to source NMR parts
+	Meeting with Karl to discuss potential to apply for STTR grant
+	Set up the UVA fridge that arrived in the lab
+	Looking up prices and getting quotes for lab equipment
+	Put together diagram for the microwave subsystem
+	Put together an item list for the microwave subsystem
+	Pushed for Karl to place the order with Teledyne for the NMR cable
+	Prepping the UVA crate for shipping
+	Working with Millitech to get a quote for the microwave subsystem
+	Shipped the fridge crate back to UVA
+	UNH collaboration meeting
+	Put together english version of the fridge schematics
+	Sourced more equipment for the lab
+	Put together master list of the equipment we've purchased for the lab
+
+
+b1
+	Got side-tracked back into reading papers to better understand tensor polarization
+
+
+Azz
+	Summarized tensor polarization insight for Doug and put together *.gif for future talks
+
+
+Quasi-Elastic 3He
+	Getting auto_asym working on ifarm
+	Set up vncviewer on unh1 to make analysis not fill up my working screens
+	Worked on finishing automation of Ay0 analysis
+	Continued working on automating Ay0 analysis
+
+
+Papers and Grants
+	Working on Tensor Workshop Proceedings
+	Worked on editing Tensor Workshop proceedings
+	Worked on editing Tensor Workshop proceedings
+	Worked on editing more Tensor Workshop proceedings
+	Edited Tensor Workshop proceedings
+	Edited Tensor Workshop proceedings
+	Edited Tensor Workshop proceedings
+	Edited Tensor Workshop proceedings
+	Finished editing Tensor Workshop Proceedings that were submitted
+	Put together summary of STTR LOI process for Karl
+
+
+Conference Planning
+	Worked on GRC poster
+	Worked on GRC poster
+	Worked on GRC poster
+	Finalized poster and sent for printing
+	Picked up GRC poster
+	Traveled to Gordon Research Conference
+	Attended Gordon Research Conference
+	Attended Gordon Research Conference
+	Presented poster at GRC
+	Attended Gordon Research Conference
+	Attended Gordon Research Conference
+	Attended Gordon Research Conference
+	Returned home from Gordon Research Conference
+
+
+SysAdmin
+	Meeting with one of Karsten's students to help her get Vortex (Karsten's cluster in the server room) up and running
+	Brought back NPG network after it went down
+	Meeting with Tyler
+	Troubleshooting library problems that Ryan is having
+
+
+Job Issues
+	Install ROOT and analyzer on SL6
+	Put together monthly summary
+	Removed SL6 and installed Ubuntu 14.04 LTS
+	Setting up Ubuntu 14.04 LTS
+	Fixing Ubuntu from some problems I caused yesterday trying to get vncviewer working
+	Re-installed ROOT and analyzer on unh1
+	Caught up on daily summaries
+	Put together performance review summary
+
+
+Other
+	Reading and evaluating JSA proposals
+	Finished reading and evaluating JSA proposals
+
+

@@ -1,0 +1,13 @@
+Daily Summary
+
+7/9/2013
+
+EG4 Meeting
+Added yesterday's humidty data to the plot
+Editing the output of the 3He(e,e'n) Ay0 script to match that of 3He(e,e') so that the script I wrote yesterday is interchangable with each
+Attended Parry's defense
+Added proper uncertainty (instead of simple 1/sqrt(N)) to Ay0 run-by-run calculations
+oSTEM TWG Meeting
+Put together Quasi-Elastic website for tomorrow's meeting
+
+

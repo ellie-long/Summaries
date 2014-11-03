@@ -1,0 +1,13 @@
+Daily Summary
+
+7/15/2013
+
+Recorded humidity data from the weekend
+Local g2p meeting
+Added historical humidity and temperature data for April, May, and June
+Getting raw data files off of the cache
+Submitted oSTEM Proposal
+
+
+
+

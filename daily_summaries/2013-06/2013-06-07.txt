@@ -1,0 +1,8 @@
+Daily Summary
+
+6/7/2013
+
+Worked on updating the PAC defense talk
+Worked on making new plot estimates -- having difficulty with the Pzz=30 plots (The systematic band doesn't seem right)
+
+

@@ -1,0 +1,11 @@
+Daily Summary
+
+6/30/2014
+
+Checked status of Ay0 run test from Friday
+Double-checking results from steg simulation from last week
+Added recent EG4 success to wiki
+Planning UVA Cool-down trip
+Working on new submission script to make Ay0 analysis work faster
+
+

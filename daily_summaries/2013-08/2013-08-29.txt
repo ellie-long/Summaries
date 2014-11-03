@@ -1,0 +1,11 @@
+Daily Summary
+
+8/29/2013
+
+Ay0 farm anaylsis is still failing -- looked into figuring out why
+Made pretty Ay0 vs. Q2 plots for Simon
+Attempted to connect the electronics rack to the PC
+
+
+
+

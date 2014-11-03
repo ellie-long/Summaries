@@ -1,0 +1,11 @@
+Daily Summary
+
+10/12/2013
+
+Looked at results (errors) from EG4 submission last week and summarized them on the EG4 wiki
+EG4 Meeting
+Finished CAD design for the cryostat cap
+Finished going through the Spin96 Proceedings and saving useful papers from it
+Read through and commented on Karl's proceedings for the XVth International Workshop on Polarized Sources, Targets, and Polarimetry
+Put together a checklist for the installation of the AMI solenoid
+

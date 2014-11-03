@@ -1,0 +1,11 @@
+Daily Summary
+
+2/25/2013
+
+Called Facilities to move the magnet -- they're working on figuring out who's in charge of the crank hoist and will get back to me later to scheduling the pick up
+Inquired how to receive training to use the Machine Shop (DeMerritt 109)
+Put in key request form for DeMerritt 109
+Local g2p meeting
+Tried to change how QE analysis script runs so that I can run it from the UNH desktop
+Attempted to reinstall ROOT using gcc 4.6 so that I can use parallel threading (#pragma, openMP) -- Failed
+

@@ -1,0 +1,10 @@
+Daily Summary
+
+8/6/2013
+
+Recorded yesterday's temp/humidity data
+EG4 Meeting
+Found that *.root files were coming out large due to an old problem with outputting too many histograms -- This was fixed (the same way as in https://userweb.jlab.org/~ellie/QEA-meetings/2010-03-10.html )
+Worked on running the charge/lt locally
+
+

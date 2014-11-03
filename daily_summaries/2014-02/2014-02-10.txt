@@ -1,0 +1,11 @@
+Daily Summary
+
+2/10/2014
+
+Attempting to recover RAID from degraded status....
+Wrote python script to pull data from ELog (In case all is lost)
+Recovered the RAID!!! :-D :-D :-D
+Backing up all important files
+Checking HDDs for health status
+Played with Lamiaa's new eg4 environmental variables
+

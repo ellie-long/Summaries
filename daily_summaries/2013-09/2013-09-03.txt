@@ -1,0 +1,12 @@
+Daily Summary
+
+9/3/2013
+
+Recorded the weekend's temp/humidity data
+EG4 Meeting
+Continued attempting to get GPIB working (Installed updated drivers for PCI board)
+Picked up lift from John Wilderman 
+Set up lift and took magnet off the jack
+Installed LabView and associated software on UNH ultrabook in an attempt to get the GPIB-ENET device working
+
+

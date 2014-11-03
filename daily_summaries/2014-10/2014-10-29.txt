@@ -1,0 +1,9 @@
+Daily Summary
+
+10/29/2014
+
+g2p Meeting
+Worked on designing Helium fridge-to-Roots pump connector
+Worked on Hall A gemc simulation
+
+

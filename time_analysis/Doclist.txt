@@ -1,0 +1,57 @@
+	Edited Ay0 paper to include uncertainties from run-by-run flucuations
+	Added Oscar's corrections to the b1 rates note document
+	Worked on Tech Note for b1 rates calculations
+	Worked on rates tech note
+	Worked on b1 rates tech note
+	Worked on tech note on extra asymmetries that come into play in b1
+	Making edits to both b1 tech notes
+	Edited b1 tech notes to include systematic uncertainty bands
+	Added error table to b1 Rates tech note
+	Edited new systematics into Azz Rates technote
+	Submitted Rates technote to JLab's technote page
+	Began organizing NSF MRI proposal
+	Worked on NSF MRI proposal 
+	Worked on proposal for NSF MRI
+	Worked on Quasi-Elastic paper
+	Made further edits to the Ay0 paper
+	Finished current draft of Ay0 manuscript and sent it to the Hall A Collaboration
+	Meeting with Karl and Patricia to talk about the JSA proposal, MRI proposal, and equipment for the lab
+	Made corrections and edits to the Ay0 paper
+	Worked on Ay0 corrections
+	Worked on Ay0 paper corrections
+	Worked on Ay0 paper corrections
+	Worked on Ay0 paper corrections
+	Worked on Ay0 paper corrections
+	Meeting with Doug to discuss Ay0 paper
+	Read and commented on Miha's 3He(e,e'd) paper
+	Worked on UNH NPG grant update
+	Continued working on UNH NPG grant update
+	Edited contriution to the NPG Update document
+	Updated NPG grant update
+	Offered comments on the NPG DOE grant update
+	Working on Tensor Workshop Proceedings
+	Worked on editing Tensor Workshop proceedings
+	Worked on editing Tensor Workshop proceedings
+	Worked on editing more Tensor Workshop proceedings
+	Edited Tensor Workshop proceedings
+	Edited Tensor Workshop proceedings
+	Edited Tensor Workshop proceedings
+	Edited Tensor Workshop proceedings
+	Finished editing Tensor Workshop Proceedings that were submitted
+	Put together summary of STTR LOI process for Karl
+	Meeting with Karl about STTR
+	Double-checking LOI subission process in current STTR FOA
+	Put together breif statement on medical applications of DNP
+	Commented on the STTR
+	Edited Tensor Workshop proceedings
+	Edited Tensor Workshop proceedings
+	Worked on Tensor Workshop Proceedings
+	Worked on Tensor Workshop Proceedings
+	Worked on Tensor Workshop Proceedings
+	Finished and submitted Tensor Workshop Proceedings
+	Made edits to Ay0 paper
+	Worked on Ay0 paper
+	Meeting with Karl about the STTR grant that's due tomorrow
+	Read over the current draft of the STTR grant
+	Read through and commented on near-final draft of STTR grant proposal
+	Worked on finishing forms for STTR grant

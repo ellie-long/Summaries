@@ -1,0 +1,13 @@
+Daily Summary
+
+2/11/2014
+
+EG4 Meeting
+Wrote down all of my starting position for where I am in regards to the EG4 software
+Worked with Lamiaa a bit to see if I can get all of the Hall B software running
+Pulled some QE 3He raw data files to start debugging and re-coding Ay0
+Cleaned up my $PATH variable on the JLab ifarm to only include things I know I'm using
+Reinstalled analyzer on ifarm
+Wrote up the user_ana fix on the EG4 wiki 
+Worked on reloading everything in ellana on ifarm
+

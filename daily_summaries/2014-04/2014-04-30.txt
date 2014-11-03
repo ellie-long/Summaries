@@ -1,0 +1,11 @@
+Daily Summary
+
+4/30/2014
+
+g2p meeting
+Found dilution factor using unradiated Bosted code for g2p to compare with what Toby sees
+Continued to go through steg code to find bugs
+Working on understanding Frankfurt & Strikman's angular dependence Azz plot (Fig. 7.6)
+
+
+

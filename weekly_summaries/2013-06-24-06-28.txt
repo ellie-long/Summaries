@@ -1,0 +1,43 @@
+Weekly Summary
+
+6/24/2013 - 6/28/2013
+
+EG4/g2p
+Local g2p meeting
+EG4 Meeting
+Playing with EG4 data
+Mapped out EG4 masses for different particle tags
+Updated EG4 Wiki with what I was playing with yesterday
+g2p Meeting
+Continued looking at EG4 data
+Working more on EG4 kinematics
+Added more plots to EG4 site
+Double-checked 2GeV run plots against a previous talk -- they seem to make sense, so the variables I'm using seem correct
+Added new mass plots to EG4 wiki
+Began playing with GSIM
+
+
+b1
+Updated the backlog of lab temperature and humidity data
+
+
+Quasi-Elastic
+Recompiled ellana directory so that I can analyze runs locally
+Trying to figure out bbftp so that I can transfer raw data files from JLab to UNH
+Set up Globus Online to transfer data files from JLab to UNH
+Looked at Yawei's analysis to figure out if it's worth redoing my code
+Working on using awk to integrate counts and Ch/LT information so that I don't have to reply on copy/pasting it in OpenOffice spreadsheets
+
+
+Job Issues
+Updated LinkedIn CV
+
+
+Other
+Sent e-mail to all OutList members asking them to check their information
+
+
+
+
+
+

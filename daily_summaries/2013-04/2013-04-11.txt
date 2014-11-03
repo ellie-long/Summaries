@@ -1,0 +1,10 @@
+Daily Summary
+
+4/11/2013
+
+Created b1 wiki site for rates update
+Compared Nup, Ndown, ChargeUp, ChargeDown, LTup, and LTdown of my analysis and Yawei's
+Critiqued g2p student talks for the APS April Meeting
+Implemented PAC time into b1 rates code
+Began figuring out how to implement total rates into b1 rates code
+

@@ -1,0 +1,14 @@
+Daily Summary
+
+5/20/2014
+
+Answered Dustin's questions on our observable
+EG4 Meeting
+Hand-calculated the difference between rel & nonrel, since I can't make the theta=0 & 180 parts asymmetric
+Figured out correct definition of Azz in terms of F&S's ratios
+Meeting with Donal to try and figure out why Azz isn't asymmetric with theta
+Started working on creating a different R(k) that's unique from R(p)
+Meeting with Simonetta, who is excited for Azz!
+Put together example plots and tables of wavefunction for Simonetta
+
+

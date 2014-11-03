@@ -1,0 +1,10 @@
+Daily Summary
+
+3/27/2013
+
+Quasi-Elastic Analysis Meeting
+Made # of Pos/Neg Events vs Run # plots for Doug
+Helped John Dawson use Inkscape to extract information from a plot
+Figured out how to extract exact data points from a vector plot using XML information
+
+

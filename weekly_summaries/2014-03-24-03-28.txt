@@ -1,0 +1,65 @@
+Weekly Summary
+
+3/24/2014 - 3/28/2014
+
+
+EG4
+
+
+g2p
+g2p Meeting
+
+
+UNH Lab
+Meeting with Zain
+Cleaned up Zain's LabView software a bit and am letting it run for awhile
+Updated Karl on the work that Zain and Justin have been doing
+Maintainance run on the roots pumps
+Tested water chiller in the lab (to be used to cool the microwave) 
+
+
+b1
+Fixed LiD/He2D rates in b1 code & wrote up conclusions with all things being the same
+Looked into D and N cross sections again
+
+
+Azz
+Began looking into how Misak's code works
+Continued digging into Misak's code
+(5 hr) Worked on adapting Misak's code into the Azz code
+Continued working on implementing Misak's code into the Azz rates
+Phone meeting with Doug on Azz
+Wrote up summary of work in Azz wiki
+Trying to figure out parallel processing in FORTRAN
+Running Q^2 scan using Misak's code
+Began implementing parallel processing into ptrates
+
+
+Quasi-Elastic 3He
+
+
+Conference Planning
+Tensor Workshop Meeting
+
+
+SysAdmin
+Prepared interview questions for SysAdmin hire
+Held interview meeting for SysAdmin hire
+Wrote SysAdmin offer letter
+Sent offer letter to Tyler
+Meeting with Josh
+
+
+Job Issues
+Renewed APS membership
+Meeting with incoming grad students to show them the lab
+
+
+Other
+
+
+
+
+
+
+

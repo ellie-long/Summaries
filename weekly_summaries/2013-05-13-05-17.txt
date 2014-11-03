@@ -1,0 +1,48 @@
+Weekly Summary
+
+5/13/2013 - 5/17/2013
+
+EG4/g2p
+EG4 meeting
+g2p Meeting
+
+
+b1
+Found the magnet's central location in the lab
+Marked off 5-Gauss line around the magnet central location
+Worked on Tech Note for b1 rates calculations
+Worked on rates tech note
+Worked on b1 rates tech note
+b1 meeting
+
+
+Quasi-Elastic
+Wrote a python script to extract charge and LT information from Yawei's *.log files
+Comparing my information to Yawei's
+Nailed the problem causing a difference between my results and Yawei's -- the charge
+Checked charge script for bugs -- moving the initial counter to first event instead of second to see if that helps
+Prepared Quasi-Elastic website
+Quasi-elastic meeting
+Met with Yawei to diagnose issue with charge (happened to also find small issue with LT)
+Still working on reinstalling ROOT...
+
+
+Job Issues
+Fixed buzzing computer fan
+Working on reinstalling ROOT, since I apparently messed it up at some point
+Working on fixing ROOT because, like an idiot, I screwed it up :-(
+
+
+Other
+FGSA Survey posted to website
+Organized oSTEM interest group meeting
+Put together oSTEM-TWG minutes
+Doctor's appointment
+Got car registered in NH
+
+
+
+
+
+
+

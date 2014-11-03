@@ -1,0 +1,52 @@
+Weekly Summary
+
+8/26/2013 - 8/30/2013
+
+EG4
+Figured out why all of my EG4 runs from the weekend failed
+Fixed EG4 simulation problem and resubmitted the jobs to the farm
+EG4 Meeting
+
+
+g2p
+UNH Collaboration Meeting
+g2p Meeting
+
+
+b1
+Scheduled pick-up of the cryostat lift
+Opened ballast on the DUO pump and ran the pumps for ~30 minutes -- everything is running great
+Read up on DNP
+Organized new equipment in the lab
+Did dry run-through of magnet cool down
+Played with roots pump vacuum gauge to see if I could fix it -- no luck :-(
+Set up pegboard in the lab
+b1 Meeting
+Rearranged lab to prepare for cooldown
+Attempted to connect the electronics rack to the PC
+Attempted to get any piece on the rack to talk to the PC via GPIB
+
+
+Quasi-Elastic
+Set up an analysis account so that I can run QE analysis without having hundreds of windows popping up on me drawing histograms
+Tested QE analysis account to make sure that it's working correctly
+Running analysis locally is taking forever (one run is still going from last night)
+Re-setup globusconnect because it was having problems
+Sent Q2=0.1 Ay0 files to JLab for farm analysis
+Submitted Ay0 Q2=0.1 jobs to the farm
+Ay0 farm anaylsis is still failing -- looked into figuring out why
+Made pretty Ay0 vs. Q2 plots for Simon
+
+
+Job Issues
+Recorded the past week's temp/humidity data
+Sent request on UT85 cabling and accessories to Microstock
+
+
+Other
+Took care of OutList items
+
+
+
+
+

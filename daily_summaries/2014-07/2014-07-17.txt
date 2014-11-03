@@ -1,0 +1,9 @@
+Daily Summary
+
+7/17/2014
+
+Continuing to debug problem with the Ay0 charge/lt information
+Working through steg to find out why the farm submissions aren't working
+Trying to figure out how the Q-meter works
+
+

@@ -1,0 +1,60 @@
+Weekly Summary
+
+3/31/2014 - 4/4/2014
+
+
+EG4
+Catching up with the last thing I worked on for EG4
+EG4 Meeting
+Continuing running through steg job steps to see where the hold-ups are
+
+
+g2p
+g2p Meeting
+
+
+UNH Lab
+Read through and commented on Zain's URA paper draft
+UNH Collaboration Meeting
+Inquired Microstock about the tools needed for UT-85 cable handling
+
+
+b1
+
+
+Azz
+Worked on parallelization of ptrates again
+Found that parallelization of Bosted & Sargsian codes is untenable for the gains received -- abandoning project
+Ran Sargsian code for ND3 Azz
+Running Q2 scan for LiD Azz
+Running Q2 scan for LiD Azz with no Q2 cut
+Running Q2 scan of ND3 Azz with no Q2 cut
+Organized Tensor Workshop presentations to make it easier to refer to when writing the Azz proposal
+Worked on seeing how many Q2 points we can squeeze out of an Azz measurement
+Fixed Q^2=0.3 Azz issues
+Wrote up Azz Q^2 scan measurements on wiki and contacted collaborators to organize a meeting
+
+
+Quasi-Elastic 3He
+
+
+Conference Planning
+Wrote abstract for GRC
+
+
+SysAdmin
+Meeting with Tyler to show him around our computer systems
+
+
+Job Issues
+Put together monthly summary
+Wrote up state & CV for JLab User's Group Board of Directors
+
+
+Other
+Pulled trigger on PTHC table and ad
+Worked on lgbt+physicists BPG
+oSTEM TWG Meeting
+Meeting for the President's Commission on the Status of GLBT Issues 
+
+

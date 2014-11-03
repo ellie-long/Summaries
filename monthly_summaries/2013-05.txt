@@ -1,0 +1,136 @@
+Monthly Summary
+
+5/2013
+
+EG4
+	EG4 meeting
+	EG4 Meeting
+	EG4 Meeting 
+	Played with EG4 data, attempted to create Q^2 and x
+
+
+g2p
+	g2p Meeting
+	g2p Meeting
+	g2p meeting
+	g2p Meeting
+
+
+UNH Lab
+	Local g2p meeting
+	Found the magnet's central location in the lab
+	Marked off 5-Gauss line around the magnet central location
+	Trying to find a smaller pallet lift for the new magnet
+	Rearranged lab to open up a wide space in the center of the room
+	Showed the lab to the magnet safety people
+	Magent Safety Training
+	Found out that we can't move the new magnet in the lab because it's on too small of a palette
+
+
+b1
+	Worked on b1 rates with Azz containing a plus- and minus- tensor polarized target
+	b1 meeting
+	Added A_meas^(2) method to the b1 code
+	I've also been neglecting it in my daily reports, but I've spent a lot of time working on the A_zz formalism on the b1 wiki ( https://hallcweb.jlab.org/wiki/index.php/User:Ellie )
+	Put the total kinematic spread into the b1 rates code
+	Working on making the b1 kinematics plots acceptable for the proposal
+	Information on how I spent the weekend can be found here: https://hallcweb.jlab.org/wiki/index.php/User:Ellie
+	My rates and Patricia's differ by a factor of 4 -- trying to isolate it
+	Rates code fixed, it now matches Patricia's
+	Working on re-scanning over Q2 now that I have more accurate plots
+	Re-scanning over x bins
+	Played with cuts to improve Azz errors
+	Spent the evening (and the next two days) working on finalizing rates and working on the b1 proposal
+	Worked on finalizing rates
+	Worked on b1 proposal
+	Worked pretty much constantly on b1 proposal
+	Approaching midnight, the b1 proposal was submitted
+	Worked on finalizing rates
+	Worked on b1 proposal
+	Worked pretty much constantly on b1 proposal
+	Before midnight, b1 proposal was submitted
+	Going over b1 rates code once more before archiving them on-line for the future
+	Archived rates code at UNH website and linked to it from the b1 wiki
+	Fixed Azz systematic error bars
+	Double-checked the 9.2% systematic error bars -- they seem to be working fine
+	b1 meeting
+	Figured out flight information for PAC, still need to book
+	Reserved flight/car for PAC meeting
+	Looking into luminosity monitor
+	b1 meeting
+	Started writing up short paper on the extra asymmetries
+	Added systematic uncertainty bands on Azz and b1 estimates
+	Researched into luminosity monitor
+	Fixed full error bars on b1 wiki
+	b1 meeting
+	Worked on optimizing systematic uncertainty with Oscar
+	Changed how the b1 rates code works so that it output the number of events for each setting that fall in each x bin
+	Found and debugged some errors in the b1 rates code
+
+
+Azz
+
+
+Quasi-Elastic 3He
+	Wrote a python script to extract charge and LT information from Yawei's *.log files
+	Comparing my information to Yawei's
+	Nailed the problem causing a difference between my results and Yawei's -- the charge
+	Checked charge script for bugs -- moving the initial counter to first event instead of second to see if that helps
+	Prepared Quasi-Elastic website
+	Quasi-elastic meeting
+	Met with Yawei to diagnose issue with charge (happened to also find small issue with LT)
+	Still working on reinstalling ROOT...
+	Put together Quasi-Elastic website
+	Worked on reinstalling the analyzer
+	Quasi-Elastic Meeting
+	Put together plots for the Hall A Collaboration meeting
+	Continued trying to install Hall A Analyzer
+	Working on figuring out what's wrong with the ROOT/analyzer installation
+	Continued trying to debug ROOT/analyzer problem
+
+
+Papers and Grants
+	Worked on Tech Note for b1 rates calculations
+	Worked on rates tech note
+	Worked on b1 rates tech note
+	Worked on tech note on extra asymmetries that come into play in b1
+	Making edits to both b1 tech notes
+	Edited b1 tech notes to include systematic uncertainty bands
+	Added error table to b1 Rates tech note
+
+
+Conference Planning
+
+
+SysAdmin
+
+
+Job Issues
+	Put together monthly summary
+	Fixed buzzing computer fan
+	Working on reinstalling ROOT, since I apparently messed it up at some point
+	Working on fixing ROOT because, like an idiot, I screwed it up :-(
+	Tried out new captioning service (Caption Colorado) for the EG4 meeting 
+	Finally (!!!) go ROOT working again!! :-D :-D :-D 
+	Put instructions of how I fixed ROOT into the ELog
+	...now the analyzer isn't working. :-(
+	Meeting with Disability Services
+
+
+Other
+	LGBTPhys GO Meeting
+	Organized oSTEM Interest Meeting poll
+	Witnessed a hit-and-run
+	FGSA Survey posted to website
+	Organized oSTEM interest group meeting
+	Put together oSTEM-TWG minutes
+	Doctor's appointment
+	Got car registered in NH
+	Set up scheduling for LGBTPhys-Org discussion about Physics Today article
+	oSTEM TWG Meeting
+	Filled out survey looking to increase particle physics communication with the public
+	Scheduling LGBTPhys-Org GO meeting
+	Scheduled GO and Physics Today meetings for LGBTPhys
+	LGBTPhys Physics Today Article meeting
+
+

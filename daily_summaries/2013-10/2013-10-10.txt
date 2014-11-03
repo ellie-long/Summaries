@@ -1,0 +1,12 @@
+Daily Summary
+
+10/10/2013
+
+Made new filies for Azz plots
+Added dilution factor in place of b1 on Azz plots
+Color-coded Azz kinematics plots by cross-section
+Repeated the same for b1
+Put plots on the b1 wiki
+
+
+

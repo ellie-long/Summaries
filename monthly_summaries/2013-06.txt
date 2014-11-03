@@ -1,0 +1,112 @@
+Monthly Summary
+
+6/2013
+
+EG4
+	EG4 Meeting
+	EG4 Meeting
+	EG4 Meeting
+	Playing with EG4 data
+	Mapped out EG4 masses for different particle tags
+	Updated EG4 Wiki with what I was playing with yesterday
+	Continued looking at EG4 data
+	Working more on EG4 kinematics
+	Added more plots to EG4 site
+	Double-checked 2GeV run plots against a previous talk -- they seem to make sense, so the variables I'm using seem correct
+	Added new mass plots to EG4 wiki
+	Began playing with GSIM
+
+
+g2p
+	g2p Meeting
+	g2p Meeting
+	g2p Meeting
+	g2p Meeting
+
+
+UNH Lab
+	Local g2p meeting
+	Local g2p Meeting
+	Local g2p meeting
+	Updated the backlog of lab temperature and humidity data
+
+
+b1
+	Made Azz plots for Dustin that contain new drift estimates
+	Worked on averaging drift uncertainty in sysematic band
+	Incorporated the new drift estimates into the rebinned-x plots
+	Redid Azz and b1 plots for Pzz=20% and 40% for the TAC response
+	Worked on b1 Defense talk
+	b1 Meeting
+	Worked on updating the PAC defense talk
+	Worked on making new plot estimates -- having difficulty with the Pzz=30 plots (The systematic band doesn't seem right)
+	Worked over the weekend on putting together the b1 PAC defense presentation
+	Answering PAC questions on binning and the Kumano-Close Sum Rule
+	Recalculated plots for Dustin's PAC response
+	Worked on the b1 PAC defense presentation
+	Remade Azz and b1 plots for Karl
+	Included update plots in PAC defense talk
+	Worked on PAC defense talk
+	b1 Meeting and Proposal Defense Runthrough
+	Worked on finalizing b1 proposal
+	Worked on finalizing b1 proposal talk
+	Dry run of b1 proposal talk
+	Edited new plots for b1 proposal talk
+	Worked on finalizing b1 proposal talk
+	Worked on finalizing b1 proposal talk
+	Flew to Newport News, VA
+	Worked on finalizing b1 proposal talk
+	Incorporated Dustin's target slides into the talk
+	Attended JLab PAC 40 talks
+	Worked on finalizing b1 proposal talk
+	Final run-through of b1 proposal talk
+	Ran final calculations and plots for b1 proposal talk
+	Final preparations for b1 proposal talk
+	Attended and helped defend the b1 proposal
+	Flew from Norfolk, VA back to NH
+	Heard word on the proposal -- IT WAS ACCEPTED!! :-D (With conditional approval based on the target)
+
+
+Azz
+
+
+Quasi-Elastic 3He
+	Quasi-Elastic Meeting
+	Finally got the analyzer working!!!
+	Quasi-Elastic Meeting
+	Recompiled ellana directory so that I can analyze runs locally
+	Trying to figure out bbftp so that I can transfer raw data files from JLab to UNH
+	Set up Globus Online to transfer data files from JLab to UNH
+	Looked at Yawei's analysis to figure out if it's worth redoing my code
+	Working on using awk to integrate counts and Ch/LT information so that I don't have to reply on copy/pasting it in OpenOffice spreadsheets
+
+
+Papers and Grants
+	Edited new systematics into Azz Rates technote
+
+
+Conference Planning
+	Drove to Philadelphia
+	Attended PTHC
+	Presented oSTEM Talk "Making STEM More Trans Friendly" at PTHC 
+	Drove to NH
+
+
+SysAdmin
+
+
+Job Issues
+	Set up UNH Ultrabook to prepare it for the PAC
+	Prepping ultrabook for travel
+	Continuing to prep computer for travel (antivirus)
+	Contacted ReadyTalk about captioning -- they use Colorado Captions
+	Updated LinkedIn CV
+
+
+Other
+	LGBTPhys GO meeting
+	Doctor Appt.
+	Connected with JLab and KSU colleagues I had not seen in awhile
+	Sent e-mail to all OutList members asking them to check their information
+
+

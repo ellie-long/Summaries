@@ -1,0 +1,13 @@
+Daily Summary
+
+1/29/2014
+
+Took care of a slight mix-up with the hotel receipts for the PYS trip
+Meeting with Doug to prioritize Tensor Workshop speakers
+Drafted invitation letters for Tensor Workshop speakers
+Sent invitation letters for the Tensor Workshop speakers
+Worked on Azz proposal
+Struggled with TexMaker to get everything to compile correctly
+Continued working on Azz proposal
+Added a few new categories to my time analysis script
+

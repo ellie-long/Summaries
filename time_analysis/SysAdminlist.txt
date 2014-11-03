@@ -1,0 +1,46 @@
+	Was introduced to the computer systems at UNH for preparation of taking over Sarah's old role
+	Meeting with Josh to discuss sysadmin details
+	Played around with the NPG systems
+	Meeting with Josh about cluster update
+	Meeting with Maurik about computer systems
+	Prepared interview questions for SysAdmin hire
+	Held interview meeting for SysAdmin hire
+	Wrote SysAdmin offer letter
+	Sent offer letter to Tyler
+	Meeting with Josh
+	Meeting with Tyler to show him around our computer systems
+	Meeting with Josh
+	Put in order for new HDDs and toner
+	Picked up key to the server room
+	Quick scan of the computer room to make sure everything looks fine
+	Meeting with Maurik
+	Meeting with Tyler
+	Troubleshooting printer problems
+	Meeting with Josh
+	Put together "How to Use" section for the SysAdmin logbook
+	Meeting with Josh
+	Meeting with Josh
+	Fixed Patricia's log in problems
+	Meeting with Josh and Tyler
+	Really long meeting with Josh and Tyler
+	Meeting with Maurik
+	Meeting with Josh
+	Poked around the NPG website
+	Meeting with Tyler where we fixed the Lentil fan and played with denyhosts on endeavour
+	Tried to figure out why Toby and Ryan's mac server is down
+	Fixed Toby and Ryan's network problems (the switch needed to be reset)
+	Checked on lentil's status and updated SysAdmin notebook with the lab's network fix
+	Hot-swapped failed drive in Endeavour RAID
+	Backing up Sarah's files before her HD gets wiped to make room for Brad
+	Meeting with one of Karsten's students to help her get Vortex (Karsten's cluster in the server room) up and running
+	Brought back NPG network after it went down
+	Meeting with Tyler
+	Troubleshooting library problems that Ryan is having
+	Meeting with Tyler about NPG system-wide upgrade to CentOS6.2
+	Interviewed Chris Chin for the second SysAdmin position
+	Okra stopped working, so I set up each of the Macs downstairs as individual client machines without a shared server directory
+	Upgrading Mac Mini in the lab to OSX Maverick so that I can install GitHub for the new student
+	Learning LDAP so I can add users to the NPG 
+	Set up backup drives for the Mac machines in the lab
+	Meeting with SysAdmins
+	Fixed John's e-mail problems

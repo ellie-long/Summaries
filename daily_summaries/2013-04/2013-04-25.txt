@@ -1,0 +1,10 @@
+Daily Summary
+
+4/25/2013
+
+Ran rates code for 50kHz and 500 kHz total rates
+b1 Meeting
+Added spectrometer theta and E' limits to b1 rates code
+Began working on switching the meaning of prec in b1 rates code -- currently, it's dAzz, but I want to make it time so that the code will be easier to run
+
+

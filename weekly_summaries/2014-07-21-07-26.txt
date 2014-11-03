@@ -1,0 +1,42 @@
+Weekly Summary
+
+7/21/2014 - 7/26/2014
+
+EG4
+
+
+g2p
+
+
+UNH Lab
+Attempted to pick up the lift, but John wasn't there
+Travelled to UVA for their cool-down
+Took part in the UVA cool-down
+Took part in the UVA cool-down
+Took part in the UVA cool-down
+Travelled back to New Hampshire
+
+
+b1
+
+
+Azz
+
+
+Quasi-Elastic 3He
+
+
+Conference Planning
+
+
+SysAdmin
+Hot-swapped failed drive in Endeavour RAID
+
+
+Job Issues
+Attempted to upgrade Ubuntu, but it failed horribly and I couldn't get it to boot
+
+
+Other
+
+

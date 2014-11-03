@@ -1,0 +1,102 @@
+Monthly Summary
+
+6/2014
+
+EG4
+	EG4 Meeting
+	Testing EG4 analysis with new prlink definitions that Lamiaa gave me
+	EG4 Meeting
+	Trying to go through EG4 fix, but having problems with ifarm being shut down repeatedly
+	Going through EG4 process to see if prlinks update fixed the problems
+	GOT STEG WORKING!!!1!!!(*@&!!!1!
+	Double-checking results from steg simulation from last week
+	Added recent EG4 success to wiki
+
+
+g2p
+	g2p Meeting
+	g2p Meeting
+	Long g2p Meeting
+
+
+UNH Lab
+	Helped Chris, an undergrad in engineering, determine if our gausmeter could be used for his project
+	Adjusted lab humidity meter and set up dehumidifiers
+	Sent in quote request for UT85 cable
+	Planning UVA Cool-down trip
+
+
+b1
+
+
+Azz
+	Worked on and submitted Azz letter of intent
+	Worked on Hall C talk
+	Worked on Hall C talk
+	Prepared Hall C talk
+	Presented Azz talk at the Hall C Collaboration Me*ting
+	Worked on Tensor Workshop proceedings
+	Redid the tensor polarization gif to get a better sense of how vector and tensor states change with equidensity lines
+	
+
+Quasi-Elastic 3He
+	Set up git repository on ifarm for batch
+	Set up git repository on ifarm for analysis-scripts
+	Testing Ay0 replay code to make sure it still works
+	Checked status of Ay0 run test from Friday
+	Working on new submission script to make Ay0 analysis work faster
+
+
+Papers and Grants
+	Read and commented on Miha's 3He(e,e'd) paper
+	Worked on UNH NPG grant update
+	Continued working on UNH NPG grant update
+	Edited contriution to the NPG Update document
+
+
+Conference Planning
+	Prepared for traveling
+	Travelled to JLab for User's Group and Hall C conferences
+	Attended User's Group Me*ting
+	Attended User's Group Me*ting
+	Attended Hall C Collaboration Me*ting
+	Attended Hall C Collaboration Me*ting
+	Flew to DC for APS Ad Hoc Committee Planning me*ting
+	Travelled to Philadelphia for PTHC
+	Put together conference summaries
+	Worked on Tensor Workshop Proceedings
+	Worked on Tensor Workshop Proceedings
+	Looking into finishing GRC registration
+	Sent out 1 week reminder for Tensor Workshop proceedings
+
+
+SysAdmin
+	Meeting with Josh
+	Fixed Patricia's log in problems
+	Meeting with Josh and Tyler
+	Really long meeting with Josh and Tyler
+
+
+Job Issues
+	Meeting with Karl to discuss what happened during travels, and where we go from here
+	Put together reimbursement paperwork
+	Catching up on e-mails that were postponed from travel
+	Organized office posters
+	Submitted travel reimbursement paperwork
+	Got caught up on daily, weekly, and monthly summaries
+	Added another monitor and reset Synergy accordingly
+	Followed up on remaining points that came up during my travels
+	Updated CV and website
+	Figured out how to put animated plots into a LaTeX document
+	Edited CV and sent to Karl to include in NPG grant
+	Worked on NPG grant update for 2014
+	Cleaning up permissions settings on computer
+	Looked into what kinds of scripts can be inserted into a *.pdf document
+
+
+Other
+	APS Planning Me*ting for the Ad Hoc Committee on LGBT Issues
+	Finalized C-LGBT charge draft
+	Updated lgbt+physicists OutList
+
+

@@ -1,0 +1,63 @@
+Weekly Summary
+
+10/13/2014 - 10/17/2014
+
+
+EG4
+Working on understanding how to compile the Steg code
+Worked on understanding how to compile Steg
+EG4 Meeting
+Very long EG4 meeting
+
+
+g2p
+g2p Meeting
+
+
+UNH Lab
+Worked on the Q meter
+Worked on the Q meter
+Got the first visible "proton" signal from the Q-meter, proving that it is doing what it's supposed to
+UNH Collaboration Meeting
+Worked on Q meter 
+Meeting with Karl about where we are
+Got Q meter working with 32 MHz oscillator
+Went over the status of the helium fridge with Karl
+
+
+b1
+
+
+Azz
+
+
+Quasi-Elastic 3He
+Checking results of recently finished cascading veto bar method on Ay0
+Getting run-by-run results for Ay0 analysis
+Getting run-by-run results for cascading veto analysis of Q2=0.5 Ay0
+Working on figuring out why new Q2=0.5 Ay0 values are twice that of the old ones
+
+
+Papers and Grants
+Meeting with Karl about the STTR grant that's due tomorrow
+Read over the current draft of the STTR grant
+Read through and commented on near-final draft of STTR grant proposal
+Worked on finishing forms for STTR grant
+
+
+Conference Planning
+
+
+SysAdmin
+Fixed John's e-mail problems
+
+
+Job Issues
+
+
+Other
+Phone call with Juniata's president
+Phone call meeting with APS News about the new C-LGBT committee
+Women in Science Meeting on Work/Life Balance
+
+

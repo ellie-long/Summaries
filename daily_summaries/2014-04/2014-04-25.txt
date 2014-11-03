@@ -1,0 +1,13 @@
+Daily Summary
+
+4/25/2014
+
+Quick scan of the computer room to make sure everything looks fine
+Set up RAID to automatically alert me in case of failure and to give occassional updates on RAID status
+Went through the lab and isolated all equipment that is ours from that which isn't
+Attempting to figure out the relationship between psi_s & psi_d with u(r) and w(r)
+Meeting with Peter Monaghan for his PYS award
+Continued playing with Frankfurt and Strikman's calculations
+Attended Peter Monaghan's colloquium
+Succesfully reproduced F&S calculation for D(e,e'N) at 180 degrees
+

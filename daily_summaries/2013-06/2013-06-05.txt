@@ -1,0 +1,12 @@
+Daily Summary
+
+6/5/2013
+
+Quasi-Elastic Meeting
+g2p Meeting
+Finally got the analyzer working!!!
+Prepping ultrabook for travel
+Redid Azz and b1 plots for Pzz=20% and 40% for the TAC response
+Edited new systematics into Azz Rates technote
+
+

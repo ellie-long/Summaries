@@ -1,0 +1,13 @@
+Daily Summary
+
+9/4/2013
+
+Organized monthly summaries by number of items per project per month and plotted them
+g2p Meeting
+oSTEM interest group meeting
+Got GPIB ENET working with the PC
+Began turning on equipment and getting it to talk to the PC
+
+
+
+

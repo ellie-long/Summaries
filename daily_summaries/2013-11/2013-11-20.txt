@@ -1,0 +1,11 @@
+Daily Summary
+
+11/20/2013
+
+g2p Meeting
+Really long g2p Meeting
+UNH Collaboration Lunch Meeting
+Re-drilled holes on cryostat top plate so that they weren't threaded
+Made sure InspireHep and ArXiV papers are up to date
+Worked on fixing the EG4 software on CentOS 6.2
+

@@ -1,0 +1,12 @@
+Daily Summary
+
+7/11/2014
+
+Checking status of finished Ay0 runs
+Updated charge/lt information getting to Ay0 runs
+Moved Ay0 analysis files from desktop to ifarm
+Played with the Q-meter a bit
+Gave tour of the lab to teachers coming in
+Meeting with Tyler where we fixed the Lentil fan and played with denyhosts on endeavour
+Fixed charge/lt problem in Ay0 analysis and submitted a new batch to the farm
+

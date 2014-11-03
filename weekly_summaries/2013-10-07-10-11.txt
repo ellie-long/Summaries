@@ -1,0 +1,49 @@
+Weelly Summary
+
+10/7/2013 - 10/11/2013
+
+g2p
+UNH Collaboration Meeting
+g2p Meeting
+
+
+EG4
+EG4 Meeting
+
+
+b1
+Added dilution factor inputs into ptrates code
+Re-optimized Azz plots with better cross-section calculations
+Attempted to compare dilution factor between SHMS/HMS, but didn't finish
+Added cross-section and dilution factor calculations to b1 wiki summary of Azz re-optimization
+Put up final Bosted rates estimates for Azz
+Began, but didn't finish, redoing estimates for b1 using the updated rates code
+Updated Azz 1 week plot to show statisics coming from each individual spectrometer
+Updated Azz 2 week plot to show statisics coming from each individual spectrometer
+Made new filies for Azz plots
+Added dilution factor in place of b1 on Azz plots
+Color-coded Azz kinematics plots by cross-section
+Repeated the same for b1
+Put plots on the b1 wiki
+Played with Q2 and bin size for Azz
+Plotted b1 one last time without extra lines in the systematic uncertainties
+
+
+Quasi-Elastic
+
+
+Job Issues
+Disability Services Meeting
+Went through flagged e-mails and took care of most of them
+
+
+Other
+LGBT+ Physicists Meeting
+Updated CV with recent papers
+UNH oSTEM Meeting
+Meeting with Drew about oSTEM Membership Meeting and Survey
+
+
+
+
+

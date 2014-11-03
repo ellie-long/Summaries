@@ -1,0 +1,153 @@
+Monthly Summary
+
+2/2013
+
+Structure Physics
+
+EG4
+	EG4 Meeting
+	Eg4 Meeting
+	EG4 Meeting
+
+
+g2p
+	Read GDH/g1p/g2p papers
+	Read up on the history of structure functions
+	Read Structure Function Paper
+	g2p Meeting
+	Read Spin Structure paper
+	g2p Meeting
+	g2p Meeting
+
+
+UNH Lab
+	UNH Meeting for g2p
+	Local Meeting for g2p
+	Local g2p meeting
+	Re-arranged workspace in lab into a user-friendly configuration
+	Set up computer accounts in lab
+	Made sure lab is ready for a phone-call meeting space
+	Figured out what progress has previously been made with the UVA magnet so that I can take over getting it here
+	Figured out sizes needed to transport UVA magnet
+	Measured lab space where UVA magnet is going to end up so that it fits
+	Finished measuring maximum size that the target has to fit through (1.30m x 2.39 m x 1.943 m)
+	Cleaned up computer accounts on the Mac Minis in the lab
+	Working on getting rid of mineral oil -- should hear back from facilities tomorrow
+	Finished cleaning up computer accounts on the Mac Minis in the lab
+	Heard back from facilities -- they won't take the mineral oil in the lab
+	Following up with UNH Hazardous Waste Management
+	Found out the magnet we thought was going to arrive second (and in April) is arriving later this week
+	Figured out how to choreograph the palette mover so that the magnet can get into the lab
+	Inquired about how to remove surplus equipment from the lab
+	Found out that we need to move the milling machine and the mass spectrometer out of the lab, preferably today
+	Came up with a plan to move them so that the magnet will still be able to fit through the hall
+	Moved the milling machine and the mass spectrometer into the hallway
+	Filled out surplus form for the spectrometer -- for future notice, our department is Physics and the BSC is CEPS (College of Engineering and Physical Sciences)
+	Magnet arrived and was put in lab
+	Magnet was secured in place
+	Inquired facilities about lifting the magnet to get the padding out from under it -- Will need to call them back Monday morning (2-1437)
+	Called Facilities to move the magnet -- they're working on figuring out who's in charge of the crank hoist and will get back to me later to scheduling the pick up
+	Got the padding out from underneath the magnet
+	Rearranged the lab to give us a bit more space
+	Made sure that all items that are on the magnet packing slip actually arrived (There are three items I want Karl to double-check)
+	Read AMI magnet manual
+	Cleaned up workspace in the lab
+	Installed Oxford Intsruments cards into the Mercury tCI box
+	Scanned AMI Magnet manual into PDFs
+	Began testing the Oxford Instruments cards
+	Created *.pdf file of the AMI Magnet manual
+
+
+b1
+	Attended Patricia Solvignon's technical talk
+	Attended Patricia Solvignon's Colloqium
+	Read P. Hoodbhoy et al., Nucl. Phys. B312, 571 (1989)
+	Got in touch with Hazardous Waste Manangement -- They are going to pick up the oil later today
+	Read A. Airapetian, et al., PRL 95, 242001 (2005)
+	Read LOI for b1 at PAC 37
+	Meeting for b1
+
+
+Azz
+
+
+Quasi-Elastic 3He
+	Quasi-Elastic Meeting
+	Squashed bug in QE charge analysis code
+	Code used to get charge per 3He target state from ungated u3c
+	Checked out results of QE bug-squashing
+	Worked on QE Ay0 Q2=0.5 data in a final attempt to local the discrepencies
+	Backed-up JLab website locally to make uploads for it easier in the future
+	Played with error estimate for QE Ay0 Q2=0.5 point, trying to find the best way to present the data
+	Checked out different groupings of QE Ay0 Q2=0.5 data to try and get the best error bars
+	Played around some more with the QE Ay0 Q2=0.5 data to figure out how to best handle the uncertainty
+	QE weekly meeting
+	More work on QE Q2=0.5 point
+	Made plot of Ay0 vs nu for Q2=0.1
+	Remade all Ay0 vs nu plots
+	Worked on Ay0 paper
+	Put together QE website for meeting
+	Worked on Ay0 run-by-run systematic uncertainties for Q2=0.1 and 1.0
+	Attempted (and failed) to try and figure out a way that I can process Ay0 *.root files from off-site
+	Worked a bit on trying to compile ROOT *.C files using g++ so that I can run them using GNU parallel
+	Tried to change how QE analysis script runs so that I can run it from the UNH desktop
+	Attempted to reinstall ROOT using gcc 4.6 so that I can use parallel threading (#pragma, openMP) -- Failed
+	Left ROOT compiling last night -- no go, it still is freezing at libPyRoot.o
+	Got updated charge and livetime information from Q2=0.1 Ay0 data
+	In process of getting updated charge and livetime information from Q2=1.0 Ay0 data
+	Still attempting to recompile ROOT, still failing. It works fine with gcc 3.4, but I need it to work with 4.6 so that I can use parallel threading. :-P
+	Updated QE website for meeting
+	Quasi-Elastic meeting
+	Met with Yawei to help him use InkScape
+	Edited Ay0 vs nu plots in Ay0 paper
+
+
+Papers and Grants
+
+
+Conference Planning
+
+
+SysAdmin
+
+
+Job Issues
+	Took care of payroll information
+	Got UNH main e-mail working (elena.long@unh.edu)
+	Familiarized self with ELog
+	Got ELog working on unh1 machine
+	It needs to run on an older version of Firefox -- there are connection issues with both the latest Chrome and Firefox
+	It's running fine on Firefox 9
+	Use the command "elog" to enter FF9 and be taken immediately to the log
+	Received, organized, and ordered office supplies
+	Got elong@physics.unh.edu account working in Thunderbird
+	Meeting with HR about benefits
+	Got faculty parking pass
+	Had talks with campus folk to get connected into local resources
+	Figured out UNH time sheets
+	Set up UNH webpage (http://nuclear.unh.edu/~elong)
+	Set up ssh proxy so that I can access Science Direct papers using the JLab server
+	Installed LaTeX with all packages
+	Inquired how to receive training to use the Machine Shop (DeMerritt 109)
+	Put in key request form for DeMerritt 109
+	Signed up for benefits
+	Organized papers, both physically and virtually, to allow easier future access
+
+
+Other
+	Took care of oSTEM TWG scheduling
+	oSTEM TWG Meeting
+	Organized entering oSTEM:TWG survey into Salesforce
+	Met with President's Commission for GLBT Issues
+	Scheduled LGBTPhys-Org General Organizers' Meeting
+	LGBTPhys-Org BPG Meeting
+	Added TWG points to oSTEM Meeting Minutes 
+	LGBTPhys-Org Climate Survey Subcommittee Meeting
+	Digitized all to-do lists
+	Got the wireless network working in the lab
+	Figured out how git works and used it to version control my batch/inputs/neutron_hunt files
+	LGBTPhys-Org BPG meeting
+	Took care of small LGBTPhys-Org BPG items
+	Copied BPG from Google Docs into LaTeX
+
+

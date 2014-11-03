@@ -1,0 +1,15 @@
+Daily Summary
+
+5/30/2013
+
+Scheduled GO and Physics Today meetings for LGBTPhys
+Fixed full error bars on b1 wiki
+LGBTPhys Physics Today Article meeting
+b1 meeting
+Working on figuring out what's wrong with the ROOT/analyzer installation
+
+
+
+
+
+

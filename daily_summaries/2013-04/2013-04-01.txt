@@ -1,0 +1,12 @@
+Daily Summary
+
+4/1/2013
+
+Continuing attempt to get GEMC working
+Playing around with b1 rates, trying to match those in proposal
+LGBTPhys-Org GO meeting
+ptrates.f isn't compiling -- reloading from tar file to see if I can fix it
+Running Ay0 data without HAND -- trying to see if (e,e') matches Yawei's results
+Had some issues with unity window manager -- seems to be fixed now
+
+

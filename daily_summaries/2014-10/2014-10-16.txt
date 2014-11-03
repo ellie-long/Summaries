@@ -1,0 +1,11 @@
+Daily Summary
+
+10/16/2014
+
+Getting run-by-run results for Ay0 analysis
+Meeting with Karl about where we are
+Women in Science Meeting on Work/Life Balance
+Worked on understanding how to compile Steg
+Got Q meter working with 32 MHz oscillator
+
+

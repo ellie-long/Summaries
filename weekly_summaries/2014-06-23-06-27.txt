@@ -1,0 +1,63 @@
+Weekly Summary
+
+6/23/2014 - 6/27/2014
+
+
+EG4
+Testing EG4 analysis with new prlink definitions that Lamiaa gave me
+EG4 Meeting
+Trying to go through EG4 fix, but having problems with ifarm being shut down repeatedly
+Going through EG4 process to see if prlinks update fixed the problems
+GOT STEG WORKING!!!1!!!(*@&!!!1!
+
+
+g2p
+g2p Meeting
+Long g2p Meeting
+
+
+UNH Lab
+Sent in quote request for UT85 cable
+
+
+b1
+
+
+Azz
+Worked on Tensor Workshop proceedings
+Redid the tensor polarization gif to get a better sense of how vector and tensor states change with equidensity lines
+
+
+Quasi-Elastic 3He
+Set up git repository on ifarm for batch
+Set up git repository on ifarm for analysis-scripts
+Read and commented on Miha's 3He(e,e'd) paper
+Testing Ay0 replay code to make sure it still works
+
+
+Conference Planning
+Looking into finishing GRC registration
+Sent out 1 week reminder for Tensor Workshop proceedings
+
+
+SysAdmin
+Fixed Patricia's log in problems
+Meeting with Josh and Tyler
+Really long meeting with Josh and Tyler
+
+
+Job Issues
+Edited CV and sent to Karl to include in NPG grant
+Worked on NPG grant update for 2014
+Cleaning up permissions settings on computer
+Worked on UNH NPG grant update
+Continued working on UNH NPG grant update
+Looked into what kinds of scripts can be inserted into a *.pdf document
+Edited contriution to the NPG Update document
+
+
+Other
+Finalized C-LGBT charge draft
+Updated lgbt+physicists OutList
+
+

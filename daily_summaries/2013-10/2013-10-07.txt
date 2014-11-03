@@ -1,0 +1,10 @@
+Daily Summary
+
+10/7/2013
+
+UNH Collaboration Meeting
+Added dilution factor inputs into ptrates code
+Re-optimized Azz plots with better cross-section calculations
+Attempted to compare dilution factor between SHMS/HMS, but didn't finish
+
+

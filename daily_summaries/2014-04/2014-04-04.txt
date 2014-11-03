@@ -1,0 +1,10 @@
+Daily Summary
+
+4/4/2014
+
+Fixed Q^2=0.3 Azz issues
+Wrote up Azz Q^2 scan measurements on wiki and contacted collaborators to organize a meeting
+Wrote up state & CV for JLab User's Group Board of Directors
+
+
+

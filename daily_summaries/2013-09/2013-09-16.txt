@@ -1,0 +1,11 @@
+Daily Summary
+
+9/16/2013
+
+Prepped the lab to move the milling machine out this morning
+UNH collaboration meeting
+Moved the milling machine into the machine shop
+Set EG4 ifarm CentOS 6.2 to the newest working (test3) gsim
+Changed batch farm OS to CentOS 6.2 and submitted new jobs
+
+

@@ -1,0 +1,49 @@
+Weekly Summary
+
+9/23/2013 - 9/27/2013
+
+g2p
+UNH Collaboration Meeting
+g2p Meeting
+
+
+EG4
+Reached out to Marco to figure out how to test that gpp and RECSIS are working correctly
+EG4 Meeting
+
+
+b1
+Confirmed that magnet only has a few wires attached to the backside of the 19-pin cable (We'll need to add extra for the thermometry)
+Added systematic uncertainty band to Azz plot
+Split Azz into 1.25*Azz and 0.75*Azz
+Send Q2 and new Azz plots to Patricia and Karl to catch the eye of theorists
+Roots pump maintenaince run
+Played with Azz rates to get the SHMS below the prescale cut-off
+Looked at how x>0.75 uncertainties compare with x<0.75 ones
+Wrote up comparison between Azz for x>0.75 and x<0.75
+Made pretty versions of Azz plots for Karl's tenure tak
+Combined b1 DIS, QE, and Azz plots into a single, large x-range Azz and kinematics plots
+Checked cross sections and dilution factor changes vs x -- need to change how this is handled for x>1
+Plotted dilution factor vs. x for the SHMS
+
+
+Quasi-Elastic
+Fixed GlobusConnect connection
+Submitted Q2=0.1 Ay0 jobs to the farm (turns out I analyzed them as neutrons-only instead of no-vetos)
+Ay0 submissions failed -- looked into why
+Fixed bug where Ay0 was crashing when defining event type
+Submitted new batch of Ay0 analysis to the farm
+Looked into why Ay0 jobs continued to fail
+Became really confused as to why Ay0 jobs are failing
+Changed ~/.cshrc variables back to linux64 (instead of CentOS 6.2) and re-instally ROOT and the analyzer to try and get Ay0 running
+
+
+Job Issues
+Installed calendar in the lab
+Attended Karl's tenure colloqiuum (meeting)
+
+
+Other
+Meeting with high-school students and showed them around the lab
+
+

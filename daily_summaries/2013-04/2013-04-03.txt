@@ -1,0 +1,11 @@
+Daily Summary
+
+4/3/2013
+
+Quasi-Elastic meeting
+Continuing to play with b1 rates and add comments to the FORTRAN code as I figure out how it works
+Re-running Ay (e,e') for vertically polarized 3He at Q2=0.1, 0.5, and 1.0 to compare with Yawei's analysis of the same runs
+Added rates and time bar graphs to rates/scripts/new_proj_b1.sh
+
+
+

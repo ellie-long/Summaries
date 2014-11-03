@@ -1,0 +1,10 @@
+Daily Summary
+
+8/25/2014
+
+Worked on comparing steg output to EG4 data for 2.2GeV using Golden Run 51111
+Wrote up the comparison on the EG4 wiki
+Edited Tensor Workshop proceedings
+
+
+

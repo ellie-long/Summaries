@@ -1,0 +1,12 @@
+Daily Summary
+
+4/26/2013
+
+g2p Meeting
+Mapped out F1 for each of the x points we're looking at
+Minimized db1 in rates plot
+Wrote script to scan F1 over a large x range, within kinematics we can take
+
+
+
+

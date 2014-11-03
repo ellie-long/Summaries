@@ -1,0 +1,14 @@
+Daily Summary
+
+5/13/2013
+
+Fixed buzzing computer fan
+Found the magnet's central location in the lab
+Marked off 5-Gauss line around the magnet central location
+FGSA Survey posted to website
+Wrote a python script to extract charge and LT information from Yawei's *.log files
+Comparing my information to Yawei's
+
+
+
+

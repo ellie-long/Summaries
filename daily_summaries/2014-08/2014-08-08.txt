@@ -1,0 +1,11 @@
+Daily Summary
+
+8/8/2014
+
+Reading and evaluating JSA proposals
+Fixing Ubuntu from some problems I caused yesterday trying to get vncviewer working
+Picked up GRC poster
+Finished reading and evaluating JSA proposals
+Re-installed ROOT and analyzer on unh1
+
+

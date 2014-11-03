@@ -1,0 +1,15 @@
+Daily Summary
+
+9/12/2013
+
+Took the points I found from overlaying the 1988 F&S Azz plot into a spreadsheet and applied a 6th-order fit
+Added the 1988 F&S fit to a new subscript to get b1 in the QE range
+Debugged code to accurately pull in the F&S fit
+Added progress to b1 in QE to the b1 wiki
+Meeting for the President's Commission on GLBT Issues
+Editted b1 rates code to include a grey curve of the F&S plot on Azz
+Lifted magnet internals out to show to Karl and to continue planning placement of thermometry 
+
+
+
+

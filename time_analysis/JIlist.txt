@@ -1,0 +1,211 @@
+	Took care of payroll information
+	Got UNH main e-mail working (elena.long@unh.edu)
+	Familiarized self with ELog
+	Got ELog working on unh1 machine
+	It needs to run on an older version of Firefox -- there are connection issues with both the latest Chrome and Firefox
+	It's running fine on Firefox 9
+	Use the command "elog" to enter FF9 and be taken immediately to the log
+	Received, organized, and ordered office supplies
+	Got elong@physics.unh.edu account working in Thunderbird
+	Meeting with HR about benefits
+	Got faculty parking pass
+	Had talks with campus folk to get connected into local resources
+	Figured out UNH time sheets
+	Set up UNH webpage (http://nuclear.unh.edu/~elong)
+	Set up ssh proxy so that I can access Science Direct papers using the JLab server
+	Installed LaTeX with all packages
+	Inquired how to receive training to use the Machine Shop (DeMerritt 109)
+	Put in key request form for DeMerritt 109
+	Signed up for benefits
+	Organized papers, both physically and virtually, to allow easier future access
+	Added # tags to all previous ELog entries to make finding non-summary posts easier
+	Cleaned up paper filesystem in Dropbox
+	Set up static IP and ssh server to UNH box
+	Set request for SEED to pick up more unused equipment
+	Helped John Dawson use Inkscape to extract information from a plot
+	Figured out how to extract exact data points from a vector plot using XML information
+	Met with disability services about hearing stuff
+	Set up Dragon Diction in the lab
+	Had some issues with unity window manager -- seems to be fixed now
+	Filled out disability paperwork
+	Got some insurance information fixed
+	Had issue with my unified inbox not showing any messages
+	Put together monthly summary
+	Fixed buzzing computer fan
+	Working on reinstalling ROOT, since I apparently messed it up at some point
+	Working on fixing ROOT because, like an idiot, I screwed it up :-(
+	Tried out new captioning service (Caption Colorado) for the EG4 meeting 
+	Finally (!!!) go ROOT working again!! :-D :-D :-D 
+	Put instructions of how I fixed ROOT into the ELog
+	...now the analyzer isn't working. :-(
+	Meeting with Disability Services
+	Set up UNH Ultrabook to prepare it for the PAC
+	Prepping ultrabook for travel
+	Continuing to prep computer for travel (antivirus)
+	Contacted ReadyTalk about captioning -- they use Colorado Captions
+	Updated LinkedIn CV
+	Took care of reimbursement questions
+	Helped clean out the Physics fridge
+	Meeting with Wendy and Karl about disability stuff
+	Got moderncv.cls working on LaTeX so that I can remake my CV using Linux so that I can apply to the Promising Young Scientist 
+	Fixed Michelle's computer
+	Began updating CV in LaTeX
+	Continued updating CV
+	Received key from Ryan for my new office
+	Set up new computer to work with UNH network and e-mail
+	Preparing office for move this afternoon
+	Moved into new office
+	Noticed the internet in the new office is 2 orders of magnitude faster than in the old office -- Patricia was informed
+	Rearranged office
+	Tried out new captioning service (ACS)
+	Picked up lost keys at the lockshop
+	Organized monthly summaries by number of items per project per month and plotted them
+	Wrote script to analyze the amount of time I've spent on different projects
+	Summarized time results from the plots I made yesterday for Karl
+	Audiologist appt and followed up with Disability Services
+	Added tag to find when I'm in me*etings to the time analysis code
+	Updated time analysis to weight mee*tings by 1 hour and the rest divided equally between 8 hours - # mee*tings
+	Changed JLab, UNH, and UNH Physics passwords
+	Caught up on old e-mails
+	Installed calendar in the lab
+	Attended Karl's tenure colloqiuum (meeting)
+	Recorded monthly summary
+	Disability Services Meeting
+	Went through flagged e-mails and took care of most of them
+	Attended Maurik's colloquium
+	Attended LHC colloquium (meeting)
+	Kidder Speaker Fund Meeting
+	Reviewed Yawei's Personal Statement
+	Meeting with Disability Services to try out new phone
+	Organized upcoming deadlines
+	Set up new insurance through open enrollment
+	Responded to Adopt-a-Physicist questions
+	New phone finally installed!! :-D
+	Received, configured, and figured out how to use assistive listening device
+	Caught up on monthly, weekly, and daily reports since ELog was having trouble when I first tried to submit them
+	Answered Adopt-a-Physicist questions (meeting)
+	Safe Zones Training (Meeting)
+	Read through and offered comments on Y. Zhang's recent PRL paper
+	Commented on the NPG website
+	Made sure InspireHep and ArXiV papers are up to date
+	Attended a Grant Writing workshop
+	Worked on filling out my yearly performance review
+	Updated personal UNH website to include more recent information and to add my publication list
+	Continued updates to UNH website
+	Put together monthly summary
+	Prepared UNH laptop for Toby's use
+	Received training for ODH monitors (meeting)
+	Meeting with Zain
+	LGBTPhys GO meeting
+	Flew to Newport News to attend the Hall A Collaboration Meeting
+	Wrote Zain a letter of recommendation for the SULI program
+	Edited time analysis work to include 2014 (and arbitrary number of future years)
+	Uploaded photos and videos from the cooldown to the Flickr page
+	Machine shop training
+	Machine shop training
+	Machine shop training
+	Got caught up on e-mails that were left in limbo during the cooldown
+	Machine shop training
+	Got caught up on daily, weekly, and monthly summaries
+	Worked on PYS talk
+	Brought in physics books to office
+	Worked on PYS talk
+	Worked on PYS talk
+	Worked on PYS talk
+	Worked on PYS talk
+	Worked on PYS talk
+	Flew to Winnipeg, Manitoba, Canada
+	Worked on PYS talk
+	Met with a number of people from the U of Winipeg
+	Met with a number of people from the U of Manitoba
+	Mock interviews all over the place
+	Met with more U of Manitoba faculty
+	Gave PYS colloquium
+	Flew back from Winnipeg to NH
+	Filled out reimbursement form for PYS trip to Manitoba
+	Got caught up on daily summaries from last week's trip
+	Completed and returned the PYS evaluation
+	Updated CV to include PYS talk, as well as add previous funding that I received from outside sources
+	Took care of a slight mix-up with the hotel receipts for the PYS trip
+	Added a few new categories to my time analysis script
+	Began RCR training for NSF grants
+	Continued RCR training modules
+	Put together monthly summary
+	Updated CV with new Nature publication
+	Hard drive crash! D-:
+	Attempted to recover from degraded RAID...
+	Attempting to recover RAID from degraded status....
+	Wrote python script to pull data from ELog (In case all is lost)
+	Recovered the RAID!!! :-D :-D :-D
+	Backing up all important files
+	Checking HDDs for health status
+	Meeting with Josh to discuss HD problems
+	Put together monthly summary
+	Added new topic (SysAdmin) to list of summary topics
+	Started reading and commenting on the d2n paper
+	Put together travel reimbursement
+	Finished travel expenses form
+	Got caught up in e-mails from last week
+	Caught up on daily summaries
+	Attended colloquium about BICEP-2 result
+	Meeting with Josh to discuss issues with the web server
+	Renewed APS membership
+	Meeting with incoming grad students to show them the lab
+	Put together monthly summary
+	Wrote up state & CV for JLab User's Group Board of Directors
+	Finalized and submitted UGBoD bio and statement
+	Send problem request to JLab regarding the Wiki's security certificates and formatting problems
+	Attended Physics Colloquium (Meeting)
+	Meeting with potential undergrad student interested in the department
+	Read and commented on Transversity paper to be submitted to PRC
+	Set up RAID to automatically alert me in case of failure and to give occassional updates on RAID status
+	Meeting with Peter Monaghan for his PYS award
+	Attended Peter Monaghan's colloquium
+	Finished setting up RAID so that it sends me a weekly status e-mail
+	Organized papers better
+	Updated monthly summary plots to a better format
+	Contacted Brad about moving my repos to JLab's git servers
+	Put together monthly summary
+	Helped proctor Karl's exam
+	Set up speakers on desktop PC to make conference calls easier
+	Scheduling meetings for the week
+	Meeting with Karl to discuss what happened during travels, and where we go from here
+	Put together reimbursement paperwork
+	Catching up on e-mails that were postponed from travel
+	Organized office posters
+	Submitted travel reimbursement paperwork
+	Got caught up on daily, weekly, and monthly summaries
+	Added another monitor and reset Synergy accordingly
+	Followed up on remaining points that came up during my travels
+	Updated CV and website
+	Figured out how to put animated plots into a LaTeX document
+	Edited CV and sent to Karl to include in NPG grant
+	Worked on NPG grant update for 2014
+	Cleaning up permissions settings on computer
+	Looked into what kinds of scripts can be inserted into a *.pdf document
+	Put together monthly summary
+	Attempted to upgrade Ubuntu, but it failed horribly and I couldn't get it to boot
+	Attempted to fix computer
+	Attempted to fix computer
+	Wiped computer and install Scientific Linux 6.5
+	Set up Scientific Linux so that it works like I want it to
+	Digitized plot for Karl
+	Set up printer on SL6
+	Finished and submitted travel reimbursement for UVA Cool-down trip
+	Finished transferring backed up files to SL6
+	Attempted to install ROOT
+	Install ROOT and analyzer on SL6
+	Put together monthly summary
+	Removed SL6 and installed Ubuntu 14.04 LTS
+	Setting up Ubuntu 14.04 LTS
+	Fixing Ubuntu from some problems I caused yesterday trying to get vncviewer working
+	Re-installed ROOT and analyzer on unh1
+	Caught up on daily summaries
+	Put together performance review summary
+	Put together monthly summary
+	Meeting with Karl to go over my performance review
+	Fixed and updated my CV (My edits to moderncv were lost when I reinstalled Ubuntu)
+	Got caught up with Daily & Weekly summaries
+	Checked that my desktop backups are working like they should be
+	Updated LinkedIn profile
+	Updated resume

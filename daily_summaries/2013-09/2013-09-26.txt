@@ -1,0 +1,11 @@
+Daily Summary
+
+9/26/2013
+
+Made pretty versions of Azz plots for Karl's tenure tak
+Looked into why Ay0 jobs continued to fail
+Became really confused as to why Ay0 jobs are failing
+Changed ~/.cshrc variables back to linux64 (instead of CentOS 6.2) and re-instally ROOT and the analyzer to try and get Ay0 running
+
+
+

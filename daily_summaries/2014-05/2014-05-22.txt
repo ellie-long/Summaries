@@ -1,0 +1,10 @@
+Daily Summary
+
+5/22/2014
+
+Wrote up how I converted from Azz(alpha) to Azz(x)
+Taking a closer look at helicities
+Smoothed out Azz calculations
+
+
+

@@ -1,0 +1,13 @@
+Daily Summary
+
+5/14/2013
+
+EG4 meeting
+Nailed the problem causing a difference between my results and Yawei's -- the charge
+Organized oSTEM interest group meeting
+Put together oSTEM-TWG minutes
+Checked charge script for bugs -- moving the initial counter to first event instead of second to see if that helps
+Prepared Quasi-Elastic website
+Worked on Tech Note for b1 rates calculations
+
+

@@ -1,0 +1,9 @@
+Daily Summary
+
+2/7/2014
+
+Meeting with Zain about his URC poster
+Worked up separating R from m plots in b1 (G. Miller's b16q calculation)
+Hard drive crash! D-:
+Attempted to recover from degraded RAID...
+ 

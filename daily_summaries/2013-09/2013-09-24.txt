@@ -1,0 +1,12 @@
+Daily Summary
+
+9/24/2013
+
+EG4 Meeting
+Played with Azz rates to get the SHMS below the prescale cut-off
+Looked at how x>0.75 uncertainties compare with x<0.75 ones
+Meeting with high-school students and showed them around the lab
+
+
+
+

@@ -1,0 +1,13 @@
+Daily Summary
+
+3/25/2013
+
+Sent out scheduling poll for next LGBTPhys-Org GO meeting
+Answered Adopt-a-Physicist questions
+Local g2p meeting
+Made comments to Ryan's dissertation proposal
+Skype call with Patricia to go over how the rates code works
+Attempting to translate fortran code to C++ so that I can read it easily
+
+
+

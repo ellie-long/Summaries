@@ -1,0 +1,11 @@
+Daily Summary
+
+8/22/2013
+
+Tried to figure out how to create a better vacuum on the cryostat jacket
+Rearranged the vacuum tubing to attempt to get a better vacuum
+Fixed the vacuum tubing! Turns out the gauge had the wrong zero-setting. Set to factory conditions and we seem good to go!
+Recorded the past few days' temp/humidity data
+
+
+

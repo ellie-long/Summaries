@@ -1,0 +1,11 @@
+Daily Summary
+
+4/10/2013
+
+All items for SEED have been removed from the lab! Huzzah!! :-D
+Quasi-Elastic Meeting
+Matching 3He(e,e') run set so that Yawei and I are using the same runs to compare our data
+Seeing how rates change when adjusting Q^2
+Created animated *.gif files to show how the rates change with a scan over Q^2
+Found best-case physics rates for x=0.1, 0.3, 0.5, and 0.625 (assuming that ptrates.f is working correctly)
+

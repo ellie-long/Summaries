@@ -1,0 +1,11 @@
+Daily Summary
+
+3/14/2013 - Happy Pi Day! :-D
+
+Obtained NH driver's license and applied for vehicle registration
+Called hoist company about possibility of a cross-beam: Really expensive and probably not worth it
+Answered Adopt-a-Physicist questions
+Finalized list of items needed for summer AMI magnet cool-down
+Set up git for the b1 proposal at https://github.com/ellie-long/b1_documents.git
+
+

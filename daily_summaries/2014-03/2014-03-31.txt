@@ -1,0 +1,12 @@
+Daily Summary
+
+3/31/2014
+
+Pulled trigger on PTHC table and ad
+Worked on parallelization of ptrates again
+Found that parallelization of Bosted & Sargsian codes is untenable for the gains received -- abandoning project
+Ran Sargsian code for ND3 Azz
+Read through and commented on Zain's URA paper draft
+Catching up with the last thing I worked on for EG4
+UNH Collaboration Meeting
+

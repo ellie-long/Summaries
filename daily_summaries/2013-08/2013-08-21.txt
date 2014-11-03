@@ -1,0 +1,12 @@
+Daily Summary
+
+8/21/2013
+
+Picked up lost keys at the lockshop
+g2p Meeting
+Priced soldering iron and fuses for the lab
+Set up safety equipment that arrived for the lab
+Set up gsim, root, and analyzer on the new ifarm CENT OS 6.2 system
+Played with gsim, attempting to understand Marco's e-mail
+
+

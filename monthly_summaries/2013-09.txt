@@ -1,0 +1,156 @@
+Monthly Summary
+
+9/2013
+
+EG4
+	EG4 Meeting
+	Attempted to get GSIM working on CentOS 6.2
+	Trying to fix gsim on CentOS 6.2
+	gsim not running due to library compilation errors on mysql -- attempted to get mysql working to see if that fixes the problem
+	EG4 Meeting
+	Set EG4 ifarm CentOS 6.2 to the newest working (test3) gsim
+	Changed batch farm OS to CentOS 6.2 and submitted new jobs
+	EG4 Meeting
+	Reached out to Marco to figure out how to test that gpp and RECSIS are working correctly
+	EG4 Meeting
+
+
+g2p
+	g2p Meeting
+	Got coffee and donuts for Toby's dissertation proposal defense
+	Attended Toby's dissertation proposal defense
+	g2p Meeting
+	g2p Meeting
+	g2p Meeting
+
+
+UNH Lab
+	UNH Collaboration Meeting
+	UNH collaboration meeting
+	UNH Collaboration Meeting
+	Continued attempting to get GPIB working (Installed updated drivers for PCI board)
+	Picked up lift from John Wilderman 
+	Set up lift and took magnet off the jack
+	Installed LabView and associated software on UNH ultrabook in an attempt to get the GPIB-ENET device working
+	Got GPIB ENET working with the PC
+	Began turning on equipment and getting it to talk to the PC
+	Got Zain started on getting the software to talk to the electronics rack
+	Set up new hardware and pegboard equiment in the lab
+	Fixed the pallet for the magnet
+	Organized new equipment in the lab
+	Raised lift stand to its maximum height to prepare for first lift tomorrow
+	Ran roots pump for 30 minute maintenaince run
+	Prepped lab for tomorrow's lift
+	Completed first magnet lift
+	Got measurements on the bottom plate for future thermometry stand
+	Measured the inner diameter in the top and bottom of the cryostat
+	Figured out how to move the cryostat
+	Found out we'll need to solder more wires to include the thermometry
+	Lifted magnet internals out to show to Karl and to continue planning placement of thermometry 
+	Routine mainetaince run on the roots pump
+	Confirmed that magnet only has a few wires attached to the backside of the 19-pin cable (We'll need to add extra for the thermometry)
+	Roots pump maintenaince run
+	Recorded the weekend's temp/humidity data
+	Prepped the lab to move the milling machine out this morning
+	Moved the milling machine into the machine shop
+	Measured noise level (dB) of the pumps at various locations inside and outside of the lab
+
+
+b1
+	Local b1 meeting
+	Worked on b1 rates code to continue allowing for quasi-elastic and SRC-range physics
+	Added more x bins (up to 11) to b1 rates code
+	Edited b1 rates code to properly plot the kinematics when only a single spectrometer is being looked at
+
+
+Azz
+	Checked current b1 code to see where it is in regards to calculating the QE region (F1 and F2 are ready, just need a model that extends Azz to higher x)
+	Played with b1 rates code to stake a claim on the x>1 measurement
+	Worked on incorporating the 1988 Frankfurt and Strikman Azz plot into the b1 rates code for x>1
+	Estimated the 1988 F&S Azz plot using a spreadsheet and image overlay, as unfortunately a direct calculation is not available
+	Took the points I found from overlaying the 1988 F&S Azz plot into a spreadsheet and applied a 6th-order fit
+	Added the 1988 F&S fit to a new subscript to get b1 in the QE range
+	Debugged code to accurately pull in the F&S fit
+	Added progress to b1 in QE to the b1 wiki
+	Editted b1 rates code to include a grey curve of the F&S plot on Azz
+	Debugging QE b1 rates code
+	Scanned over Q2 for HMS b1 point in QE
+	Wrote bash script to automatically loop over Q2 values
+	Scanned over Q2 for HMS and SHMS to check QE b1 rates
+	Edited script so that it scans over each of the four x bins on its own
+	Edited script to allow for 5 bins in x
+	Edited plotting script to show all 5 bins in x for both the HMS and the SHMS
+	Recorded progress on b1 wiki
+	Scanned over both Q2 and incoming beam energy ranges with b1 rates code
+	Added results to b1 wiki
+	Getting kinematics for Azz in 0.75<x<1.8 region
+	Added results to b1 wiki
+	Checked that I already checked the cross section results against data
+	Fixed the uncertainties to reflect the large asymmetry
+	Estimated rates for a one-week-long Azz experiment
+	Worked on Azz rates code and summary
+	Azz Meeting
+	Fixed rates estimate (they were about 10% too high)
+	Cleaned up Azz rates code (removed ~1/3 of lines, all unnecessary)
+	Scanned over W
+	Uploaded results to b1 wiki
+	Added systematic uncertainty band to Azz plot
+	Split Azz into 1.25*Azz and 0.75*Azz
+	Send Q2 and new Azz plots to Patricia and Karl to catch the eye of theorists
+	Played with Azz rates to get the SHMS below the prescale cut-off
+	Looked at how x>0.75 uncertainties compare with x<0.75 ones
+	Wrote up comparison between Azz for x>0.75 and x<0.75
+	Made pretty versions of Azz plots for Karl's tenure tak
+	Combined b1 DIS, QE, and Azz plots into a single, large x-range Azz and kinematics plots
+	Checked cross sections and dilution factor changes vs x -- need to change how this is handled for x>1
+	Plotted dilution factor vs. x for the SHMS
+	Wrote script to look at the cross sections and dilution factor with a higher resolution in x
+	Fixed the hard-coded dilution factor in ptrates.f
+	Studied the changes in the dilution factor over x
+	Wrote up a summary of this morning's study on the b1 wiki
+	Changed cross sections to include F1 and F2 from Bosted
+	Wrote up summary of effects on b1 wiki
+
+
+Quasi-Elastic 3He
+	Fixed GlobusConnect connection
+	Submitted Q2=0.1 Ay0 jobs to the farm (turns out I analyzed them as neutrons-only instead of no-vetos)
+	Ay0 submissions failed -- looked into why
+	Fixed bug where Ay0 was crashing when defining event type
+	Submitted new batch of Ay0 analysis to the farm
+	Looked into why Ay0 jobs continued to fail
+	Became really confused as to why Ay0 jobs are failing
+	Changed ~/.cshrc variables back to linux64 (instead of CentOS 6.2) and re-instally ROOT and the analyzer to try and get Ay0 running
+
+
+Papers and Grants
+
+
+Conference Planning
+
+
+SysAdmin
+
+
+Job Issues
+	Organized monthly summaries by number of items per project per month and plotted them
+	Wrote script to analyze the amount of time I've spent on different projects
+	Summarized time results from the plots I made yesterday for Karl
+	Audiologist appt and followed up with Disability Services
+	Added tag to find when I'm in me*etings to the time analysis code
+	Updated time analysis to weight mee*tings by 1 hour and the rest divided equally between 8 hours - # mee*tings
+	Changed JLab, UNH, and UNH Physics passwords
+	Caught up on old e-mails
+	Installed calendar in the lab
+	Attended Karl's tenure colloqiuum (meeting)
+
+
+Other
+	oSTEM interest group meeting
+	Lost keys and went hunting for them (Found them!)
+	Promoted oSTEM at U-Day
+	Promoted oSTEM at LGBTQA Garden Party
+	Meeting for the President's Commission on GLBT Issues
+	Meeting with high-school students and showed them around the lab
+
+

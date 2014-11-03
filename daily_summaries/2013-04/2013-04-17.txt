@@ -1,0 +1,9 @@
+Daily Summary
+
+4/17/2013
+
+Quasi-Elastic Meeting
+Got quasi-elastic peak kind of working in b1 code (can get up to x=0.98)
+Added dx error bars in b1 rates code
+Trying to double-check that the cross section part of the code is working correctly -- I think there's a problem
+

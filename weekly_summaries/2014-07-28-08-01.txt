@@ -1,0 +1,53 @@
+Weekly Summary
+
+7/28/2014 - 8/1/2014
+
+EG4
+EG4 meeting
+
+
+g2p
+g2p Meeting
+
+
+UNH Lab
+Picked up magnet lift
+Finished and submitted travel reimbursement for UVA Cool-down trip
+Put in last quote for semi-rigid NMR cable
+
+
+b1
+
+
+Azz
+
+
+Quasi-Elastic 3He
+
+
+Conference Planning
+Worked on GRC poster
+
+
+SysAdmin
+Backing up Sarah's files before her HD gets wiped to make room for Brad
+
+
+Job Issues
+Attempted to fix computer
+Attempted to fix computer
+Wiped computer and install Scientific Linux 6.5
+Set up Scientific Linux so that it works like I want it to
+Digitized plot for Karl
+Set up printer on SL6
+Offered comments on the NPG DOE grant update
+Finished transferring backed up files to SL6
+Attempted to install ROOT
+Put together monthly summary
+Install ROOT and analyzer on SL6
+
+
+Other
+
+
+

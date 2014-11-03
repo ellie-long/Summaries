@@ -1,0 +1,14 @@
+Daily Summary
+
+2/19/2014
+
+g2p meeting
+Long g2p meeting
+Attempting to define X(e,e'p) scattering cross sections to add to Azz code
+Noticed ifarm Ay0 runs weren't going to finish, so re-submitting them in smaller chunks
+Meeting with Justin about the Q Meter
+Meeting with Karl to discuss Tensor Workshop & X(e,e'p) calculations
+Installed GEANT4 locally
+Running EG4 job_launch script to see if it gives usable results
+Reading up on pmin relation to try and include X(e,e'p)
+

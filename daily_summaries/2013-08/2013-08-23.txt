@@ -1,0 +1,8 @@
+Daily Summary
+
+8/23/2013
+
+Recorded yesterday's temp/humidity data
+Played a bit with Marco's EG4 simulation code and submitted a number of jobs to the farm to play with
+Read up on DNP theory
+

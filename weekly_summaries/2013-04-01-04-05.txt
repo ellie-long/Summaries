@@ -1,0 +1,40 @@
+Daily Summary
+
+4/1/2013 - 4/5/2013
+
+EG4/g2p
+EG4 meeting
+Commented on g2p student talks
+Local g2p Meeting
+
+b1
+Continuing attempt to get GEMC working
+Playing around with b1 rates, trying to match those in proposal
+ptrates.f isn't compiling -- reloading from tar file to see if I can fix it
+Recording labels from all of the output files of ptrates.f and incorporating them into LibreOffice Calc to understand how the outputs work
+Continuing to play with b1 rates and add comments to the FORTRAN code as I figure out how it works
+Added rates and time bar graphs to rates/scripts/new_proj_b1.sh
+Worked on rates plots
+Comparing existing ND3 rates to LiD rates -- this needs to be updated
+Edited b1 wiki for meeting
+b1 meeting
+Worked on 'setting the board' for playing with rates -- added kinematics plots to projection plot analysis
+
+Quasi-Elastic
+Running Ay0 data without HAND -- trying to see if (e,e') matches Yawei's results
+Quasi-Elastic meeting
+Re-running Ay (e,e') for vertically polarized 3He at Q2=0.1, 0.5, and 1.0 to compare with Yawei's analysis of the same runs
+
+Job Issues
+Had some issues with unity window manager -- seems to be fixed now
+Filled out disability paperwork
+
+Other
+LGBTPhys-Org GO meeting
+Created oSTEM-TWG Needs Assessment Survey
+Updated LGBTPhys website
+
+
+
+
+

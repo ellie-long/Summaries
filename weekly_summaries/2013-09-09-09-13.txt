@@ -1,0 +1,62 @@
+Weekly Summary
+
+9/9/2013 - 9/13/2013
+
+EG4
+Trying to fix gsim on CentOS 6.2
+gsim not running due to library compilation errors on mysql -- attempted to get mysql working to see if that fixes the problem
+EG4 Meeting
+
+
+g2p
+UNH Collaboration Meeting
+g2p Meeting
+
+
+b1
+Checked current b1 code to see where it is in regards to calculating the QE region (F1 and F2 are ready, just need a model that extends Azz to higher x)
+Raised lift stand to its maximum height to prepare for first lift tomorrow
+Ran roots pump for 30 minute maintenaince run
+Prepped lab for tomorrow's lift
+Played with b1 rates code to stake a claim on the x>1 measurement
+Completed first magnet lift
+Got measurements on the bottom plate for future thermometry stand
+Measured the inner diameter in the top and bottom of the cryostat
+Figured out how to move the cryostat
+Found out we'll need to solder more wires to include the thermometry
+Worked on incorporating the 1988 Frankfurt and Strikman Azz plot into the b1 rates code for x>1
+Estimated the 1988 F&S Azz plot using a spreadsheet and image overlay, as unfortunately a direct calculation is not available
+Took the points I found from overlaying the 1988 F&S Azz plot into a spreadsheet and applied a 6th-order fit
+Added the 1988 F&S fit to a new subscript to get b1 in the QE range
+Debugged code to accurately pull in the F&S fit
+Added progress to b1 in QE to the b1 wiki
+Editted b1 rates code to include a grey curve of the F&S plot on Azz
+Lifted magnet internals out to show to Karl and to continue planning placement of thermometry 
+Debugging QE b1 rates code
+Scanned over Q2 for HMS b1 point in QE
+Wrote bash script to automatically loop over Q2 values
+Scanned over Q2 for HMS and SHMS to check QE b1 rates
+Edited script so that it scans over each of the four x bins on its own
+Edited script to allow for 5 bins in x
+Edited plotting script to show all 5 bins in x for both the HMS and the SHMS
+Recorded progress on b1 wiki
+
+
+Quasi-Elastic
+
+
+Job Issues
+Audiologist appt and followed up with Disability Services
+Added tag to find when I'm in me*etings to the time analysis code
+Updated time analysis to weight mee*tings by 1 hour and the rest divided equally between 8 hours - # mee*tings
+
+
+Other
+Promoted oSTEM at U-Day
+Promoted oSTEM at LGBTQA Garden Party
+Meeting for the President's Commission on GLBT Issues
+
+
+
+
+

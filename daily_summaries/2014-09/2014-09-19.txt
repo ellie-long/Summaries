@@ -1,0 +1,12 @@
+Daily Summary
+
+9/19/2014
+
+EG4 Meeting
+Sourced replacement for 19-pin connector on the cryostat
+Fixed and updated my CV (My edits to moderncv were lost when I reinstalled Ubuntu)
+Read and commented on Zain's URA paper
+Interviewed Chris Chin for the second SysAdmin position
+
+
+

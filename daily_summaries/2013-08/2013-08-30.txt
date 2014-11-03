@@ -1,0 +1,10 @@
+Daily Summary
+
+8/30/2013
+
+Recorded the past week's temp/humidity data
+Sent request on UT85 cabling and accessories to Microstock
+Attempted to get any piece on the rack to talk to the PC via GPIB
+
+
+

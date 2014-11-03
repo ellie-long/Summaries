@@ -1,0 +1,63 @@
+Weekly Summary
+
+4/28/2014 - 5/2/2014
+
+EG4
+Running through steg software again to see why it's not creating output histograms
+EG4 Meeting
+Continued to go through steg code to find bugs
+Continuing parsing through the steg code to find why it's not plotting any histograms
+Worked on figuring out what's wrong with user_ana
+Wrote up wiki with findings of what's wrong with user_ana, but still no conclusions
+
+
+g2p
+g2p meeting
+Found dilution factor using unradiated Bosted code for g2p to compare with what Toby sees
+
+
+UNH Lab
+Put in request for quote of Teledyne Storm cables
+UNH Collaboration Meeting
+
+
+b1
+
+
+Azz
+Working on understanding Frankfurt & Strikman's angular dependence Azz plot (Fig. 7.6)
+Attempting to decipher the difference between u(r) and psi(r) wavefunctions
+Grabbing u(r) and w(r) from different potentials
+Contacted Brad about moving my repos to JLab's git servers
+More work on trying to reproduce Strikman's plots
+Reached out to theorists to try and get models of Azz
+Working on fixing the "bump" in f_dil using Misak's code
+Worked on smoothing out the "bump" in f_dil
+Trying to find out what wavefunctions to trust for the Azz calculations
+
+
+Quasi-Elastic 3He
+
+
+Conference Planning
+Sent call for proposals for the Tensor Workshop
+Sent in application for the Gordon Conference
+
+
+SysAdmin
+
+
+Job Issues
+Finished setting up RAID so that it sends me a weekly status e-mail
+Organized papers better
+Updated monthly summary plots to a better format
+Meeting with Patricia
+Put together monthly summary
+
+
+Other
+GLBT Commission Meeting
+
+
+
+

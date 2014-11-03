@@ -1,0 +1,56 @@
+Weekly Summary
+
+6/30/2014 - 07/04/2014
+
+EG4
+Double-checking results from steg simulation from last week
+Added recent EG4 success to wiki
+EG4 Meeting
+Set up BlueJeans meeting for EG4 and prepared e-mail to go out on Monday
+
+
+g2p
+g2p Meeting
+Long g2p meeting
+
+
+UNH Lab
+Planning UVA Cool-down trip
+UNH Collaboration Meeting
+Booked UVA Cool-down trip
+Put in order for cryowire
+Meeting with Zain and Karl to figure out his summer projects
+
+
+b1
+
+
+Azz
+
+
+Quasi-Elastic 3He
+Checked status of Ay0 run test from Friday
+Working on new submission script to make Ay0 analysis work faster
+Trying to figure out why the new Ay0 batch code isn't working
+Still working on debugging Ay0 replay code
+Checking results of Ay0 runs from last night and made appropriate fixes before sending off another batch
+
+
+Conference Planning
+Put together summary of the Tensor Workshop Proceedings
+
+
+SysAdmin
+Meeting with Maurik
+
+
+Job Issues
+Put together monthly summary
+
+
+Other
+Put together Out for Work draft proposal
+
+
+
+

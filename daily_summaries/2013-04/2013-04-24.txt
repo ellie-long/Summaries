@@ -1,0 +1,10 @@
+Daily Summary
+
+4/24/2013
+
+Had issue with my unified inbox not showing any messages
+Quasi-Elastic Meeting
+Finalized x=0.1 to x=1.0 rates at total rate=1kHz and 50kHz
+Added Oscar's corrections to the b1 rates note document
+
+

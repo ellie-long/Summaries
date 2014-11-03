@@ -1,0 +1,12 @@
+Daily Summary
+
+6/26/2014
+
+Looked into what kinds of scripts can be inserted into a *.pdf document
+Edited contriution to the NPG Update document
+Set up git repository on ifarm for batch
+Going through EG4 process to see if prlinks update fixed the problems
+Set up git repository on ifarm for analysis-scripts
+GOT STEG WORKING!!!1!!!(*@&!!!1!
+
+

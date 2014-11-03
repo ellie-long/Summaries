@@ -1,0 +1,10 @@
+Daily Summary
+
+8/13/2013
+
+EG4 Meeting
+Tried out new captioning service (ACS)
+Finished up Ay0 analysis for Friday's meeting
+Recorded yesterday's temp/humidity data
+Began soldering 19-pin connector for the AMI magnet electronics
+

@@ -1,0 +1,16 @@
+Daily Summary
+
+8/26/2013
+
+UNH Collaboration Meeting
+Scheduled pick-up of the cryostat lift
+Figured out why all of my EG4 runs from the weekend failed
+Fixed EG4 simulation problem and resubmitted the jobs to the farm
+Opened ballast on the DUO pump and ran the pumps for ~30 minutes -- everything is running great
+Set up an analysis account so that I can run QE analysis without having hundreds of windows popping up on me drawing histograms
+Tested QE analysis account to make sure that it's working correctly
+Read up on DNP
+
+
+
+

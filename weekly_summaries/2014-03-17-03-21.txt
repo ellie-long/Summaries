@@ -1,0 +1,60 @@
+Weekly Summary
+
+3/17/2014 - 3/21/2014
+
+
+EG4
+EG4 Meeting
+
+
+g2p
+g2p Meeting
+
+
+UNH Lab
+UNH Collaboration Meeting
+Looked into systems needed for DNP-in-solution
+Meeting with Hugh Bishop from CPI
+Epscor grant meeting
+Long Epscor grant meeting
+Maintenance run on the pumps
+Wrote paragraph of DNP in solution for medical applications for the DOE proposal
+
+
+b1
+Working on the b1 cross sections to add LiD and (He+D)D
+Attempted to find the densities of LiD and ND3 -- failed (but did find NH3 and LiH)
+Played around with the b1 rates code to check the cross section between LiD and (HeD)D
+Added lumi*sig calculations to ptrates code to see where the difference in rates b/t LiD & He2D are coming from
+Continued looking into rates difference between LiD & He2D
+
+
+Azz
+
+
+Quasi-Elastic 3He
+
+
+Conference Planning
+Updated UNH DNP wiki to include talks from the Tensor Workshop
+
+
+SysAdmin
+Meeting with Josh about cluster update
+Meeting with Maurik about computer systems
+
+
+Job Issues
+Put together travel reimbursement
+Finished travel expenses form
+Got caught up in e-mails from last week
+Caught up on daily summaries
+Attended colloquium about BICEP-2 result
+Meeting with Josh to discuss issues with the web server
+
+
+Other
+Took the morning off
+LGBTPhys-Org GO Meeting
+TPACC meeting
+

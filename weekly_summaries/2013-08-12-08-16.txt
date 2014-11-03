@@ -1,0 +1,42 @@
+Weekly Summary
+
+8/12/2013 - 8/16/2013
+
+EG4
+EG4 Meeting
+
+
+g2p
+g2p Meeting
+
+
+b1
+Began soldering 19-pin connector for the AMI magnet electronics
+Continuing soldering electronics for AMI magnet
+Finished soldering electronics for AMI magnet
+Switched out top vacuum chamber on the big pumps to a 90-degree angle piece
+
+
+Quasi-Elastic
+Plotted new Q2=0.5 Ay0 plots
+Plotted new Q2=1.0 Ay0 plots
+Made final Ay0 plots
+Finished up Ay0 analysis for Friday's meeting
+Quasi-Elastic Meeting
+Finalized Ay0 data, including adding prescale uncertainties to the Q2=0.1 point
+
+
+Job Issues
+Recorded the weekend's temp/humidity data
+Delivered cabinet to the lab
+Tried out new captioning service (ACS)
+Recorded yesterday's temp/humidity data
+Recorded this week's temp/humidity data
+
+
+Other
+LGBTPhys GO Meeting
+Finalized edits and submitted PYS package
+
+
+

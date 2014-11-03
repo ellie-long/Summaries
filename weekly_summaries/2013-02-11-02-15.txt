@@ -1,0 +1,40 @@
+Weekly Summary
+
+2/11/2013 - 2/15/2013
+
+Structure Physics
+	UNH Meeting for g2p
+	Figured out what progress has previously been made with the UVA magnet so that I can take over getting it here
+	Figured out sizes needed to transport UVA magnet
+	Measured lab space where UVA magnet is going to end up so that it fits
+	Finished measuring maximum size that the target has to fit through (1.30m x 2.39 m x 1.943 m)
+	Cleaned up computer accounts on the Mac Minis in the lab
+	Working on getting rid of mineral oil -- should hear back from facilities tomorrow
+	Finished cleaning up computer accounts on the Mac Minis in the lab
+	Heard back from facilities -- they won't take the mineral oil in the lab
+	Following up with UNH Hazardous Waste Management
+	Read P. Hoodbhoy et al., Nucl. Phys. B312, 571 (1989)
+	g2p Meeting
+	Got in touch with Hazardous Waste Manangement -- They are going to pick up the oil later today
+	Read A. Airapetian, et al., PRL 95, 242001 (2005)
+
+Quasi-Elastic
+	Checked out results of QE bug-squashing
+	Worked on QE Ay0 Q2=0.5 data in a final attempt to local the discrepencies
+	Backed-up JLab website locally to make uploads for it easier in the future
+	Played with error estimate for QE Ay0 Q2=0.5 point, trying to find the best way to present the data
+	Checked out different groupings of QE Ay0 Q2=0.5 data to try and get the best error bars
+	Played around some more with the QE Ay0 Q2=0.5 data to figure out how to best handle the uncertainty
+	QE weekly meeting
+	More work on QE Q2=0.5 point
+
+New Job Issues
+	Figured out UNH time sheets
+	Set up UNH webpage (http://nuclear.unh.edu/~elong)
+	Set up ssh proxy so that I can access Science Direct papers using the JLab server
+
+Other
+	Scheduled LGBTPhys-Org General Organizers' Meeting
+	LGBTPhys-Org BPG Meeting
+	Added TWG points to oSTEM Meeting Minutes 
+

@@ -1,0 +1,11 @@
+Daily Summary
+
+7/16/2013
+
+Updated humidity plots
+EG4 meeting
+Began transferring all Ay0 vertical raw datafiles to UNH machine
+Prepared Quasi-Elastic webpage
+Got moderncv.cls working on LaTeX so that I can remake my CV using Linux so that I can apply to the Promising Young Scientist 
+
+

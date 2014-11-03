@@ -1,0 +1,222 @@
+	Checked current b1 code to see where it is in regards to calculating the QE region (F1 and F2 are ready, just need a model that extends Azz to higher x)
+	Played with b1 rates code to stake a claim on the x>1 measurement
+	Worked on incorporating the 1988 Frankfurt and Strikman Azz plot into the b1 rates code for x>1
+	Estimated the 1988 F&S Azz plot using a spreadsheet and image overlay, as unfortunately a direct calculation is not available
+	Took the points I found from overlaying the 1988 F&S Azz plot into a spreadsheet and applied a 6th-order fit
+	Added the 1988 F&S fit to a new subscript to get b1 in the QE range
+	Debugged code to accurately pull in the F&S fit
+	Added progress to b1 in QE to the b1 wiki
+	Editted b1 rates code to include a grey curve of the F&S plot on Azz
+	Debugging QE b1 rates code
+	Scanned over Q2 for HMS b1 point in QE
+	Wrote bash script to automatically loop over Q2 values
+	Scanned over Q2 for HMS and SHMS to check QE b1 rates
+	Edited script so that it scans over each of the four x bins on its own
+	Edited script to allow for 5 bins in x
+	Edited plotting script to show all 5 bins in x for both the HMS and the SHMS
+	Recorded progress on b1 wiki
+	Scanned over both Q2 and incoming beam energy ranges with b1 rates code
+	Added results to b1 wiki
+	Getting kinematics for Azz in 0.75<x<1.8 region
+	Added results to b1 wiki
+	Checked that I already checked the cross section results against data
+	Fixed the uncertainties to reflect the large asymmetry
+	Estimated rates for a one-week-long Azz experiment
+	Worked on Azz rates code and summary
+	Azz Meeting
+	Fixed rates estimate (they were about 10% too high)
+	Cleaned up Azz rates code (removed ~1/3 of lines, all unnecessary)
+	Scanned over W
+	Uploaded results to b1 wiki
+	Added systematic uncertainty band to Azz plot
+	Split Azz into 1.25*Azz and 0.75*Azz
+	Send Q2 and new Azz plots to Patricia and Karl to catch the eye of theorists
+	Played with Azz rates to get the SHMS below the prescale cut-off
+	Looked at how x>0.75 uncertainties compare with x<0.75 ones
+	Wrote up comparison between Azz for x>0.75 and x<0.75
+	Made pretty versions of Azz plots for Karl's tenure tak
+	Combined b1 DIS, QE, and Azz plots into a single, large x-range Azz and kinematics plots
+	Checked cross sections and dilution factor changes vs x -- need to change how this is handled for x>1
+	Plotted dilution factor vs. x for the SHMS
+	Wrote script to look at the cross sections and dilution factor with a higher resolution in x
+	Fixed the hard-coded dilution factor in ptrates.f
+	Studied the changes in the dilution factor over x
+	Wrote up a summary of this morning's study on the b1 wiki
+	Changed cross sections to include F1 and F2 from Bosted
+	Wrote up summary of effects on b1 wiki
+	Added QE and IE parts of F1 and F2 into the cross section calculations
+	Plotted cross sections with full (DIS+QE) Bosted functions
+	Compared Misak and Bosted code to data
+	Wrote up comparisons on b1 wiki
+	Spilt up QE and DIS parts of the Bosted cross sections to see contributions from each
+	Added dilution factor inputs into ptrates code
+	Re-optimized Azz plots with better cross-section calculations
+	Attempted to compare dilution factor between SHMS/HMS, but didn't finish
+	Added cross-section and dilution factor calculations to b1 wiki summary of Azz re-optimization
+	Put up final Bosted rates estimates for Azz
+	Updated Azz 1 week plot to show statisics coming from each individual spectrometer
+	Updated Azz 2 week plot to show statisics coming from each individual spectrometer
+	Made new filies for Azz plots
+	Added dilution factor in place of b1 on Azz plots
+	Color-coded Azz kinematics plots by cross-section
+	Played with Q2 and bin size for Azz
+	Meeting with Karl to update him on progress made while he was in Germany at Mainz
+	Continued working on the formalism document
+	Worked on tensor-polarized formalism tech note
+	Worked on formalism tech note
+	Began putting together Azz proposal
+	Put together nice Azz plots for the Azz proposal
+	Continued working on Azz proposal
+	Worked on Azz proposal
+	Struggled with TexMaker to get everything to compile correctly
+	Continued working on Azz proposal
+	Worked on the Azz Proposal
+	Worked on Azz proposal
+	Reading up on 2H(e,e'p) scattering
+	Attempting to define X(e,e'p) scattering cross sections to add to Azz code
+	Installed GEANT4 locally
+	Reading up on pmin relation to try and include X(e,e'p)
+	Continuing to look into adding (e,e'p) cross section to Azz calculations
+	Continued looking into (e,e'p)
+	Continued looking into (e,e'p) measurement
+	Picked up book from the library on (e,e'p) scattering and read through it
+	Worked on Azz talk for Tensor Workshop
+	Worked on Azz talk
+	Worked on Azz talk for Tensor Workshop
+	Send Azz talk first draft around for comments
+	Discussed Azz talk with Patricia and Karl
+	Worked on Azz talk
+	Worked on Azz talk
+	Redid Azz cross section-check calculations
+	Finished Azz talk
+	Began looking into how Misak's code works
+	Continued digging into Misak's code
+	(5 hr) Worked on adapting Misak's code into the Azz code
+	Continued working on implementing Misak's code into the Azz rates
+	Phone meeting with Doug on Azz
+	Wrote up summary of work in Azz wiki
+	Trying to figure out parallel processing in FORTRAN
+	Running Q^2 scan using Misak's code
+	Began implementing parallel processing into ptrates
+	Worked on parallelization of ptrates again
+	Found that parallelization of Bosted & Sargsian codes is untenable for the gains received -- abandoning project
+	Ran Sargsian code for ND3 Azz
+	Running Q2 scan for LiD Azz
+	Running Q2 scan for LiD Azz with no Q2 cut
+	Running Q2 scan of ND3 Azz with no Q2 cut
+	Organized Tensor Workshop presentations to make it easier to refer to when writing the Azz proposal
+	Worked on seeing how many Q2 points we can squeeze out of an Azz measurement
+	Fixed Q^2=0.3 Azz issues
+	Wrote up Azz Q^2 scan measurements on wiki and contacted collaborators to organize a meeting
+	Created git repo for the Azz proposal
+	Worked on Azz proposal
+	Read papers to get a better sense of the Azz background to make writing the proposal easier
+	Worked on the Azz proposal a bunch
+	Really, most of the day spent on Azz
+	Mostly putting in quotes I found in papers so that I can eventually build up a proposal
+	Worked on Azz proposal
+	Continued working on Azz proposal
+	Spent most of the day working on the Azz proposal
+	Worked on Azz proposal
+	Built over-simplified model of the relationship between SRC and tensor polarization
+	Continued working on Azz proposal
+	Worked on Azz proposal
+	Meeting with Karl to discuss my insights from the past few days
+	Continued to work on the Azz proposal
+	Took videos to end my experiments with the gyroscopes
+	Meeting with Patricia to attempt to understand tensor polarization
+	Worked on understanding tensor polarization
+	Meeting with Karl and Patricia about understanding tensor polarization
+	Still trying to figure out tensor polarization
+	TAzz proposal meeting
+	Played with gyroscopes some more to look at theta=90deg properties
+	Ran x scan for Azz
+	Played with potential kinematics for Azz
+	Meeting with Donal to discuss x>1 Azz
+	Plotting the S- and D-state wavefunctions that I got from Donal yesterday
+	Attempted to recreate Azz from S- and D-state models
+	Attempting to figure out the relationship between psi_s & psi_d with u(r) and w(r)
+	Continued playing with Frankfurt and Strikman's calculations
+	Succesfully reproduced F&S calculation for D(e,e'N) at 180 degrees
+	Attempting to decipher the difference between u(r) and psi(r) wavefunctions
+	Grabbing u(r) and w(r) from different potentials
+	More work on trying to reproduce Strikman's plots
+	Working on understanding Frankfurt & Strikman's angular dependence Azz plot (Fig. 7.6)
+	Meeting with Patricia
+	Reached out to theorists to try and get models of Azz
+	Working on fixing the "bump" in f_dil using Misak's code
+	Worked on smoothing out the "bump" in f_dil
+	Trying to find out what wavefunctions to trust for the Azz calculations
+	Trying to figure out why the u(k) and w(k) plots from Gilman & Gross don't match what Donal sent me
+	Worked on Azz proposal
+	Writing Azz proposal
+	Writing Azz proposal
+	Meeting with Karl about Azz
+	Put together minutes for Azz meeting on Friday
+	Worked on Azz proposal
+	Worked on Azz proposal
+	Continued working on Azz proposal
+	Worked on Azz proposal a lot
+	Worked on Azz proposal a lot a lot
+	Worked on Azz proposal
+	Prepped for TAzz meeting
+	Worked on Azz proposal
+	TAzz Meeting
+	Added other wavefunctions to attempted Azz calculation
+	Reading for Azz proposal
+	Wrote script to automatically (attempt to) calculate Azz and output the plot
+	Trying to understand Mark's Azz calculations
+	Trying to understand light cone variables
+	Working on Azz calculations
+	Put together summary of what we can do with existing equipment at Pzz=25% and 20% for Azz
+	Meeting with Mark Strikman
+	Wrote up wiki page on the work I've been doing in recreated Azz from the 1981 report
+	Worked on the kinematics in the Azz calculation code
+	Organized TAzz meeting for today
+	Continued looking into Azz calculations
+	Meeting with Doug and Misak about his calculations on Azz
+	TAzz meeting
+	Meeting with Dustin
+	Put together e-mail to ask theorists if there is any more physics to draw in from TAzz
+	Working on calculation Azz in light-cone
+	Meeting with Mark
+	Added Mark's contribution to the TAzz proposal
+	Figuring out if the relativistic equations that Mark gave me work or not
+	Worked a bunch on the relativistic wf for Azz
+	Worked a bunch on the relativistic wf for Azz
+	Worked a bunch on the relativistic wf for Azz
+	Worked a bunch on the relativistic wf for Azz
+	Worked a bunch on the relativistic wf for Azz
+	Worked a bunch on the relativistic wf for Azz
+	Answered Dustin's questions on our observable
+	Hand-calculated the difference between rel & nonrel, since I can't make the theta=0 & 180 parts asymmetric
+	Figured out correct definition of Azz in terms of F&S's ratios
+	Meeting with Donal to try and figure out why Azz isn't asymmetric with theta
+	Started working on creating a different R(k) that's unique from R(p)
+	Meeting with Simonetta, who is excited for Azz!
+	Put together example plots and tables of wavefunction for Simonetta
+	Got the relativistic Azz working!! :-D
+	Got Azz for (e,e') working!
+	Wrote up all of the work I did with Azz on the wiki
+	Wrote up how I converted from Azz(alpha) to Azz(x)
+	Taking a closer look at helicities
+	Smoothed out Azz calculations
+	Worked on understanding the uncertainty in my light cone model
+	TAzz meeting
+	Long TAzz meeting
+	Worked on Azz proposal
+	Worked on Azz proposal
+	Working on Azz proposal
+	Working on Azz proposal
+	Determining discriminating power of Azz measurement between Misak's LC models
+	Worked on Azz proposal
+	Worked on Azz proposal
+	Worked on Azz proposal
+	Worked on and submitted Azz letter of intent
+	Worked on Hall C talk
+	Worked on Hall C talk
+	Prepared Hall C talk
+	Presented Azz talk at the Hall C Collaboration Me*ting
+	Worked on Tensor Workshop proceedings
+	Redid the tensor polarization gif to get a better sense of how vector and tensor states change with equidensity lines
+	Summarized tensor polarization insight for Doug and put together *.gif for future talks

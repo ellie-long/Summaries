@@ -1,0 +1,16 @@
+Daily Summary
+
+7/14/2014
+
+Tried to figure out why Toby and Ryan's mac server is down
+Checked results of Ay0 farm runs
+Checked results of steg farm runs
+Fixed problem in steg farm runs where it was using the wrong tcl file and not outputting all of the correct files
+Re-running Ay0 ch/lt analysis and including *.root files to make sure it's running properly
+Fixed Toby and Ryan's network problems (the switch needed to be reset)
+Moved everything on the Windows box from XP to Win7
+Set up github in the lab
+Got GPIB working through the network again
+Finished GRC registration
+
+

@@ -1,0 +1,1041 @@
+Annual Summary
+
+2013
+
+EG4
+	EG4 Meeting
+	Eg4 Meeting
+	EG4 Meeting
+	Gained access to /work/clas/claseg4 workspace
+	EG4 Meeting
+	Began looking at EG4 *.root files
+	EG4 Meeting
+	EG4 Meeting
+	EG4 Meeting
+	Began looking through the EG4 data
+	EG4 meeting
+	EG4 Meeting
+	EG4 meeting
+	EG4 meeting
+	EG4 Meeting
+	EG4 Meeting 
+	Played with EG4 data, attempted to create Q^2 and x
+	EG4 Meeting
+	EG4 Meeting
+	EG4 Meeting
+	Playing with EG4 data
+	Mapped out EG4 masses for different particle tags
+	Updated EG4 Wiki with what I was playing with yesterday
+	Continued looking at EG4 data
+	Working more on EG4 kinematics
+	Added more plots to EG4 site
+	Double-checked 2GeV run plots against a previous talk -- they seem to make sense, so the variables I'm using seem correct
+	Added new mass plots to EG4 wiki
+	Began playing with GSIM
+	EG4 Meeting
+	EG4 Meeting
+	EG4 meeting
+	EG4 Meeting
+	EG4 Meeting
+	EG4 Meeting
+	EG4 Meeting
+	Set up gsim, root, and analyzer on the new ifarm CENT OS 6.2 system
+	Played with gsim, attempting to understand Marco's e-mail
+	Figured out why all of my EG4 runs from the weekend failed
+	Fixed EG4 simulation problem and resubmitted the jobs to the farm
+	EG4 Meeting
+	EG4 Meeting
+	Attempted to get GSIM working on CentOS 6.2
+	Trying to fix gsim on CentOS 6.2
+	gsim not running due to library compilation errors on mysql -- attempted to get mysql working to see if that fixes the problem
+	EG4 Meeting
+	Set EG4 ifarm CentOS 6.2 to the newest working (test3) gsim
+	Changed batch farm OS to CentOS 6.2 and submitted new jobs
+	EG4 Meeting
+	Reached out to Marco to figure out how to test that gpp and RECSIS are working correctly
+	EG4 Meeting
+	EG4 Meeting
+	EG4 Meeting
+	EG4 Meeting
+	EG4 Meeting
+	EG4 Meeting
+	Testing that my gsim code still works on the new CentOS
+	EG4 Meeting
+	Looked at results (errors) from EG4 submission last week and summarized them on the EG4 wiki
+	EG4 Meeting
+	EG4 Meeting
+	Worked on fixing the EG4 software on CentOS 6.2
+	EG4 Meeting
+	Continuing to debug recsis/user_ana so that it can run on the interactive farm
+	Attempted Marco's user_ana test, but it didn't work
+	EG4 Meeting
+
+
+g2p
+	Read GDH/g1p/g2p papers
+	Read up on the history of structure functions
+	Read Structure Function Paper
+	g2p Meeting
+	Read Spin Structure paper
+	UNH Meeting for g2p
+	g2p Meeting
+	Local Meeting for g2p
+	g2p Meeting
+	Local g2p meeting
+	Collaboration g2p meeting
+	Local g2p Meeting
+	g2p Meeting
+	Local g2p meeting
+	Made comments to Ryan's dissertation proposal
+	g2p Meeting
+	Local g2p meeting
+	Local g2p Meeting
+	g2p Meeting
+	Commented on g2p student talks
+	Local g2p Meeting
+	Local g2p Meeting
+	Went over Toby's talk
+	Critiqued g2p student talks for the APS April Meeting
+	Local g2p Meeting
+	g2p Meeting
+	Local g2p Meeting
+	g2p Meeting
+	g2p Meeting
+	Local g2p meeting
+	g2p Meeting
+	g2p meeting
+	g2p Meeting
+	Local g2p meeting
+	g2p Meeting
+	Local g2p Meeting
+	g2p Meeting
+	g2p Meeting
+	Local g2p meeting
+	g2p Meeting
+	Local g2p meeting
+	g2p Meeting
+	Local g2p meeting
+	g2p Meeting
+	Local g2p meeting
+	Local g2p/Progress Report meeting
+	g2p Meeting
+	g2p Meeting
+	Local g2p meeting
+	g2p Meeting
+	g2p Meeting
+	Local g2p meeting
+	g2p Meeting
+	Played a bit with Marco's EG4 simulation code and submitted a number of jobs to the farm to play with
+	UNH Collaboration Meeting
+	g2p Meeting
+	g2p Meeting
+	Got coffee and donuts for Toby's dissertation proposal defense
+	Attended Toby's dissertation proposal defense
+	UNH Collaboration Meeting
+	g2p Meeting
+	UNH collaboration meeting
+	g2p Meeting
+	UNH Collaboration Meeting
+	g2p Meeting
+	g2p Meeting
+	UNH Collaboration Meeting
+	g2p Meeting
+	UNH Collaboration Meeting
+	g2p Meeting
+	Meeting with Ryan to go over his DNP talk
+	UNH Collaboration Meeting
+	Run through of Ryan's DNP meeting talk
+	g2p Meeting
+	UNH Collaboration Meeting
+	g2p Meeting
+	Really really long g2p Meeting
+	UNH Collaboration Lunch Meeting
+	g2p Meeting
+	UNH Collaboration Meeting
+	g2p Meeting
+	Really long g2p Meeting
+	UNH Collaboration Lunch Meeting
+	Local UNH Collaboration Meeting
+	Local UNH collaboration meeting
+	g2p Meeting
+	Local UNH Collaboration Meeting
+	g2p Meeting
+	Really long g2p Meeting
+	Really really long g2p Meeting
+	Virtually attended Zain's end-of-semester summary talk
+
+
+b1
+	Re-arranged workspace in lab into a user-friendly configuration
+	Set up computer accounts in lab
+	Made sure lab is ready for a phone-call meeting space
+	Attended Patricia Solvignon's technical talk
+	Attended Patricia Solvignon's Colloqium
+	Figured out what progress has previously been made with the UVA magnet so that I can take over getting it here
+	Figured out sizes needed to transport UVA magnet
+	Measured lab space where UVA magnet is going to end up so that it fits
+	Finished measuring maximum size that the target has to fit through (1.30m x 2.39 m x 1.943 m)
+	Cleaned up computer accounts on the Mac Minis in the lab
+	Working on getting rid of mineral oil -- should hear back from facilities tomorrow
+	Finished cleaning up computer accounts on the Mac Minis in the lab
+	Heard back from facilities -- they won't take the mineral oil in the lab
+	Following up with UNH Hazardous Waste Management
+	Read P. Hoodbhoy et al., Nucl. Phys. B312, 571 (1989)
+	Got in touch with Hazardous Waste Manangement -- They are going to pick up the oil later today
+	Read A. Airapetian, et al., PRL 95, 242001 (2005)
+	Read LOI for b1 at PAC 37
+	Meeting for b1
+	Found out the magnet we thought was going to arrive second (and in April) is arriving later this week
+	Figured out how to choreograph the palette mover so that the magnet can get into the lab
+	Inquired about how to remove surplus equipment from the lab
+	Found out that we need to move the milling machine and the mass spectrometer out of the lab, preferably today
+	Came up with a plan to move them so that the magnet will still be able to fit through the hall
+	Moved the milling machine and the mass spectrometer into the hallway
+	Filled out surplus form for the spectrometer -- for future notice, our department is Physics and the BSC is CEPS (College of Engineering and Physical Sciences)
+	Magnet arrived and was put in lab
+	Magnet was secured in place
+	Inquired facilities about lifting the magnet to get the padding out from under it -- Will need to call them back Monday morning (2-1437)
+	Called Facilities to move the magnet -- they're working on figuring out who's in charge of the crank hoist and will get back to me later to scheduling the pick up
+	Got the padding out from underneath the magnet
+	Rearranged the lab to give us a bit more space
+	Made sure that all items that are on the magnet packing slip actually arrived (There are three items I want Karl to double-check)
+	Read AMI magnet manual
+	Cleaned up workspace in the lab
+	Installed Oxford Intsruments cards into the Mercury tCI box
+	Scanned AMI Magnet manual into PDFs
+	Began testing the Oxford Instruments cards
+	Created *.pdf file of the AMI Magnet manual
+	Cleaned up the rack in the lab
+	Figured out what it would take to lift the magnet internals out of the dewar
+	Secured GPIB cabling in the electronics rack
+	Signed up for manual support at mymercurysupport.com to find out what type of ILM LN2 level probe we need (there are multiple types without descriptions of their differences)
+	Attempted to figure out what type of LN2 and LHe level probes we need -- in progress
+	Continued looking into pricing of hoists and I-beams
+	Called Oxford Instruments and found out what we need for N2/He probes
+	b1 Meeting
+	Measured the diameter of the holes in the AMI magnet to make sure that a N2 probe will fit into it
+	Continued putting together list of items needed for a summer cool-down of the AMI magnet
+	Organized cryogen transfer lines onto a rack
+	Looking into where the LN2 and LHe probes are/if we have them
+	Finalized list of items needed for magnet cooldown -- need to look into specific measurements for a few items yet
+	Put together generalized list of items needed to cool down the AMI magnet this summer
+	Called AMI and got specifics on fringe magnet fields, types of connectors and cables needed
+	Found out what type of fittings we need to connect the LN2 transfer line to the blow-out tube (from 3/8" NPT to 3/8" ID surgical tubing)
+	Called hoist company about possibility of a cross-beam: Really expensive and probably not worth it
+	Finalized list of items needed for summer AMI magnet cool-down
+	Set up git for the b1 proposal at https://github.com/ellie-long/b1_documents.git
+	Began looking through the rates information from Patricia
+	Began pricing of cool down equipment list
+	b1 Meeting
+	Finished pricing equipment needed for the summer cool-down
+	Checked that the Minuteman turbo pump we have access to will suit AMI's vacuum jacket needs
+	Contacted Seth at AMI to confirm that the pressure gauge we have access to will working
+	Finished pricing/ordering list for cool down items
+	Inquired about structure of b1_rates folder from Patricia
+	Skype call with Patricia to go over how the rates code works
+	Attempting to translate fortran code to C++ so that I can read it easily
+	Set up camera to record temp/humidity in the lab every 6 hours (In the future, might want to look into Amazon Mechanical Turk to analysis data from pictures)
+	Met with safety services who walked through the lab
+	Played with b1_rates 
+	Moved packing items to the attic
+	Cleaned up lab floorspace
+	Made spreadsheet for lab temp/humidity
+	Played with b1 rates code -- succesfully translated qvec.f to qvec.cpp
+	Attempted to install GEMC to play with SoLID in GEANT4 -- failed
+	Continuing attempt to get GEMC working
+	Playing around with b1 rates, trying to match those in proposal
+	ptrates.f isn't compiling -- reloading from tar file to see if I can fix it
+	Recording labels from all of the output files of ptrates.f and incorporating them into LibreOffice Calc to understand how the outputs work
+	Continuing to play with b1 rates and add comments to the FORTRAN code as I figure out how it works
+	Added rates and time bar graphs to rates/scripts/new_proj_b1.sh
+	Worked on rates plots
+	Comparing existing ND3 rates to LiD rates -- this needs to be updated
+	Edited b1 wiki for meeting
+	b1 meeting
+	Worked on 'setting the board' for playing with rates -- added kinematics plots to projection plot analysis
+	Working on scheduling Magnetic Safety Training
+	Finished "Setting the Board" for the b1 rates game
+	Began playing with the rates to get a sense of where we want to be
+	All items for SEED have been removed from the lab! Huzzah!! :-D
+	Seeing how rates change when adjusting Q^2
+	Created animated *.gif files to show how the rates change with a scan over Q^2
+	Found best-case physics rates for x=0.1, 0.3, 0.5, and 0.625 (assuming that ptrates.f is working correctly)
+	Created b1 wiki site for rates update
+	Implemented PAC time into b1 rates code
+	Began figuring out how to implement total rates into b1 rates code
+	Began implementing total rates into b1 rates code
+	Working on adding QE peak to b1 rates code
+	Got the b1 rates code to accept x values up to x=0.9
+	Got quasi-elastic peak kind of working in b1 code (can get up to x=0.98)
+	Added dx error bars in b1 rates code
+	Trying to double-check that the cross section part of the code is working correctly -- I think there's a problem
+	Made sure the cross section calculations in the b1 rates code works correctly
+	Making a copy of the rates script in a spreadsheet so that I understand absolute everything that it's doing
+	Made website for b1 meeting
+	b1 Meeting
+	Completely understand what the b1 rates code is doing (Finally!! :-D )
+	Matched up back-of-envelope calculation of rates to the b1 rates code -- they are within the same order of magnitude! :-D (Off by about 0.6, but that could be due to kinematic clipping that the b1 rates code does that the quick estimate doesn't take into account)
+	Playing with b1 rates spreadsheet
+	Updated labbook with the work I've been doing
+	Began implementing He and N cross sections into spreadsheet
+	Working on figuring out how dAzz is calculated from the rates
+	Added He-4 and N-14 rates to spreadsheet
+	Added Mott and unpolarized cross sections for He-3 and N-14 into the b1 rates FORTRAN script -- haven't included in the total yet
+	Changed the b1 rates FORTRAN script so that it uses absolute error bars instead of relative ones
+	Added He-4 and N-14 rates into the b1 rates code
+	Finalized x=0.1 to x=1.0 rates at total rate=1kHz and 50kHz
+	Added Oscar's corrections to the b1 rates note document
+	Included total rates in the output of the b1 rates code
+	Fixed the time calculation (it was in days, I switched it to hours)
+	Began playing the rates game in two parts: 1) with total rate < 1kHz, 2) with total rate < 50kHz
+	Ran rates code for 50kHz and 500 kHz total rates
+	b1 Meeting
+	Added spectrometer theta and E' limits to b1 rates code
+	Began working on switching the meaning of prec in b1 rates code -- currently, it's dAzz, but I want to make it time so that the code will be easier to run
+	Mapped out F1 for each of the x points we're looking at
+	Minimized db1 in rates plot
+	Wrote script to scan F1 over a large x range, within kinematics we can take
+	Worked on rates for b1 -- found a problem with the cross sections and dilution factors
+	b1 meeting
+	Working on the b1 cross sections so that they give a ratio of ~0.3 instead of ~0.0085
+	Finalized rates calculations, things look good!
+	Writing up what I did for the b1 meeting tomorrow
+	Worked on b1 rates with Azz containing a plus- and minus- tensor polarized target
+	b1 meeting
+	Added A_meas^(2) method to the b1 code
+	I've also been neglecting it in my daily reports, but I've spent a lot of time working on the A_zz formalism on the b1 wiki ( https://hallcweb.jlab.org/wiki/index.php/User:Ellie )
+	Put the total kinematic spread into the b1 rates code
+	Working on making the b1 kinematics plots acceptable for the proposal
+	Information on how I spent the weekend can be found here: https://hallcweb.jlab.org/wiki/index.php/User:Ellie
+	My rates and Patricia's differ by a factor of 4 -- trying to isolate it
+	Rates code fixed, it now matches Patricia's
+	Working on re-scanning over Q2 now that I have more accurate plots
+	Re-scanning over x bins
+	Played with cuts to improve Azz errors
+	Spent the evening (and the next two days) working on finalizing rates and working on the b1 proposal
+	Worked on finalizing rates
+	Worked on b1 proposal
+	Worked pretty much constantly on b1 proposal
+	Approaching midnight, the b1 proposal was submitted
+	Worked on finalizing rates
+	Worked on b1 proposal
+	Worked pretty much constantly on b1 proposal
+	Before midnight, b1 proposal was submitted
+	Going over b1 rates code once more before archiving them on-line for the future
+	Archived rates code at UNH website and linked to it from the b1 wiki
+	Fixed Azz systematic error bars
+	Double-checked the 9.2% systematic error bars -- they seem to be working fine
+	Found the magnet's central location in the lab
+	Marked off 5-Gauss line around the magnet central location
+	Worked on Tech Note for b1 rates calculations
+	Worked on rates tech note
+	Worked on b1 rates tech note
+	b1 meeting
+	Figured out flight information for PAC, still need to book
+	Trying to find a smaller pallet lift for the new magnet
+	Rearranged lab to open up a wide space in the center of the room
+	Reserved flight/car for PAC meeting
+	Looking into luminosity monitor
+	b1 meeting
+	Started writing up short paper on the extra asymmetries
+	Worked on tech note on extra asymmetries that come into play in b1
+	Making edits to both b1 tech notes
+	Added systematic uncertainty bands on Azz and b1 estimates
+	Edited b1 tech notes to include systematic uncertainty bands
+	Added error table to b1 Rates tech note
+	Researched into luminosity monitor
+	Fixed full error bars on b1 wiki
+	b1 meeting
+	Worked on optimizing systematic uncertainty with Oscar
+	Changed how the b1 rates code works so that it output the number of events for each setting that fall in each x bin
+	Found and debugged some errors in the b1 rates code
+	Made Azz plots for Dustin that contain new drift estimates
+	Worked on averaging drift uncertainty in sysematic band
+	Incorporated the new drift estimates into the rebinned-x plots
+	Redid Azz and b1 plots for Pzz=20% and 40% for the TAC response
+	Edited new systematics into Azz Rates technote
+	Worked on b1 Defense talk
+	b1 Meeting
+	Worked on updating the PAC defense talk
+	Worked on making new plot estimates -- having difficulty with the Pzz=30 plots (The systematic band doesn't seem right)
+	Worked over the weekend on putting together the b1 PAC defense presentation
+	Answering PAC questions on binning and the Kumano-Close Sum Rule
+	Recalculated plots for Dustin's PAC response
+	Worked on the b1 PAC defense presentation
+	Remade Azz and b1 plots for Karl
+	Included update plots in PAC defense talk
+	Worked on PAC defense talk
+	b1 Meeting and Proposal Defense Runthrough
+	Worked on finalizing b1 proposal
+	Worked on finalizing b1 proposal talk
+	Dry run of b1 proposal talk
+	Edited new plots for b1 proposal talk
+	Worked on finalizing b1 proposal talk
+	Worked on finalizing b1 proposal talk
+	Flew to Newport News, VA
+	Worked on finalizing b1 proposal talk
+	Incorporated Dustin's target slides into the talk
+	Attended JLab PAC 40 talks
+	Worked on finalizing b1 proposal talk
+	Final run-through of b1 proposal talk
+	Ran final calculations and plots for b1 proposal talk
+	Final preparations for b1 proposal talk
+	Attended and helped defend the b1 proposal
+	Flew from Norfolk, VA back to NH
+	Heard word on the proposal -- IT WAS ACCEPTED!! :-D (With conditional approval based on the target)
+	Updated the backlog of lab temperature and humidity data
+	Looked into possibilities for dipping into medical research that uses a polarized target
+	Recorded humidity data from the weekend
+	Read through NSF funding programs to see what is applicable for our target system
+	Began writing the NPG status report on b1
+	Worked on NPG Update Report for b1
+	Submitted Rates technote to JLab's technote page
+	Finished a draft of the NPG update for b1
+	Read through some more medical DNP papers
+	Reading through DNP in medicine papers and keeping track of potentially useful information for a proposal
+	Began soldering 19-pin connector for the AMI magnet electronics
+	Continuing soldering electronics for AMI magnet
+	Finished soldering electronics for AMI magnet
+	Switched out top vacuum chamber on the big pumps to a 90-degree angle piece
+	Moved turbopump down to the lab
+	Hooked up turbopump and began pumping down the cryostat vacuum jacket
+	Continuing to pump down the cryostat vacuum chamber
+	Worked on designing a system to include temperature sensors in the cryostat
+	Priced soldering iron and fuses for the lab
+	Tried to figure out how to create a better vacuum on the cryostat jacket
+	Rearranged the vacuum tubing to attempt to get a better vacuum
+	Fixed the vacuum tubing! Turns out the gauge had the wrong zero-setting. Set to factory conditions and we seem good to go!
+	Read up on DNP theory
+	Scheduled pick-up of the cryostat lift
+	Opened ballast on the DUO pump and ran the pumps for ~30 minutes -- everything is running great
+	Read up on DNP
+	Organized new equipment in the lab
+	Did dry run-through of magnet cool down
+	Played with roots pump vacuum gauge to see if I could fix it -- no luck :-(
+	Set up pegboard in the lab
+	b1 Meeting
+	Rearranged lab to prepare for cooldown
+	Attempted to connect the electronics rack to the PC
+	Attempted to get any piece on the rack to talk to the PC via GPIB
+	Continued attempting to get GPIB working (Installed updated drivers for PCI board)
+	Picked up lift from John Wilderman 
+	Set up lift and took magnet off the jack
+	Installed LabView and associated software on UNH ultrabook in an attempt to get the GPIB-ENET device working
+	Got GPIB ENET working with the PC
+	Began turning on equipment and getting it to talk to the PC
+	Got Zain started on getting the software to talk to the electronics rack
+	Set up new hardware and pegboard equiment in the lab
+	Fixed the pallet for the magnet
+	Organized new equipment in the lab
+	Checked current b1 code to see where it is in regards to calculating the QE region (F1 and F2 are ready, just need a model that extends Azz to higher x)
+	Raised lift stand to its maximum height to prepare for first lift tomorrow
+	Ran roots pump for 30 minute maintenaince run
+	Prepped lab for tomorrow's lift
+	Played with b1 rates code to stake a claim on the x>1 measurement
+	Completed first magnet lift
+	Got measurements on the bottom plate for future thermometry stand
+	Measured the inner diameter in the top and bottom of the cryostat
+	Figured out how to move the cryostat
+	Found out we'll need to solder more wires to include the thermometry
+	Worked on incorporating the 1988 Frankfurt and Strikman Azz plot into the b1 rates code for x>1
+	Estimated the 1988 F&S Azz plot using a spreadsheet and image overlay, as unfortunately a direct calculation is not available
+	Took the points I found from overlaying the 1988 F&S Azz plot into a spreadsheet and applied a 6th-order fit
+	Added the 1988 F&S fit to a new subscript to get b1 in the QE range
+	Debugged code to accurately pull in the F&S fit
+	Added progress to b1 in QE to the b1 wiki
+	Editted b1 rates code to include a grey curve of the F&S plot on Azz
+	Lifted magnet internals out to show to Karl and to continue planning placement of thermometry 
+	Debugging QE b1 rates code
+	Scanned over Q2 for HMS b1 point in QE
+	Wrote bash script to automatically loop over Q2 values
+	Scanned over Q2 for HMS and SHMS to check QE b1 rates
+	Edited script so that it scans over each of the four x bins on its own
+	Edited script to allow for 5 bins in x
+	Edited plotting script to show all 5 bins in x for both the HMS and the SHMS
+	Recorded progress on b1 wiki
+	Local b1 meeting
+	Worked on b1 rates code to continue allowing for quasi-elastic and SRC-range physics
+	Added more x bins (up to 11) to b1 rates code
+	Edited b1 rates code to properly plot the kinematics when only a single spectrometer is being looked at
+	Scanned over both Q2 and incoming beam energy ranges with b1 rates code
+	Added results to b1 wiki
+	Routine mainetaince run on the roots pump
+	Getting kinematics for Azz in 0.75<x<1.8 region
+	Added results to b1 wiki
+	Checked that I already checked the cross section results against data
+	Fixed the uncertainties to reflect the large asymmetry
+	Estimated rates for a one-week-long Azz experiment
+	Worked on Azz rates code and summary
+	Azz Meeting
+	Fixed rates estimate (they were about 10% too high)
+	Cleaned up Azz rates code (removed ~1/3 of lines, all unnecessary)
+	Scanned over W
+	Uploaded results to b1 wiki
+	Confirmed that magnet only has a few wires attached to the backside of the 19-pin cable (We'll need to add extra for the thermometry)
+	Added systematic uncertainty band to Azz plot
+	Split Azz into 1.25*Azz and 0.75*Azz
+	Send Q2 and new Azz plots to Patricia and Karl to catch the eye of theorists
+	Roots pump maintenaince run
+	Played with Azz rates to get the SHMS below the prescale cut-off
+	Looked at how x>0.75 uncertainties compare with x<0.75 ones
+	Wrote up comparison between Azz for x>0.75 and x<0.75
+	Made pretty versions of Azz plots for Karl's tenure tak
+	Combined b1 DIS, QE, and Azz plots into a single, large x-range Azz and kinematics plots
+	Checked cross sections and dilution factor changes vs x -- need to change how this is handled for x>1
+	Plotted dilution factor vs. x for the SHMS
+	Wrote script to look at the cross sections and dilution factor with a higher resolution in x
+	Fixed the hard-coded dilution factor in ptrates.f
+	Studied the changes in the dilution factor over x
+	Wrote up a summary of this morning's study on the b1 wiki
+	Changed cross sections to include F1 and F2 from Bosted
+	Wrote up summary of effects on b1 wiki
+	Studied b1 cross sections using F1 only simplified cs and F1 & F2 full cs
+	Updated b1 wiki with results
+	Compared cross sections to data
+	Uploaded cross section comparisons to b1 wiki
+	Added QE and IE parts of F1 and F2 into the cross section calculations
+	Plotted cross sections with full (DIS+QE) Bosted functions
+	Compared Misak and Bosted code to data
+	Wrote up comparisons on b1 wiki
+	Spilt up QE and DIS parts of the Bosted cross sections to see contributions from each
+	Added dilution factor inputs into ptrates code
+	Re-optimized Azz plots with better cross-section calculations
+	Attempted to compare dilution factor between SHMS/HMS, but didn't finish
+	Added cross-section and dilution factor calculations to b1 wiki summary of Azz re-optimization
+	Put up final Bosted rates estimates for Azz
+	Began, but didn't finish, redoing estimates for b1 using the updated rates code
+	Updated Azz 1 week plot to show statisics coming from each individual spectrometer
+	Updated Azz 2 week plot to show statisics coming from each individual spectrometer
+	Made new filies for Azz plots
+	Added dilution factor in place of b1 on Azz plots
+	Color-coded Azz kinematics plots by cross-section
+	Repeated the same for b1
+	Put plots on the b1 wiki
+	Played with Q2 and bin size for Azz
+	Plotted b1 one last time without extra lines in the systematic uncertainties
+	Designed mount for temperature sensors
+	Meeting with Karl to update him on progress made while he was in Germany at Mainz
+	Talked with Sarah about locating vendors and machining parts for the AMI temp. sensor mounts
+	Maintenaince running of the roots pumps
+	Dry run-through of AMI cool-down to put together a list of yet-needed parts
+	Finalized design for temp sensor mount
+	Began pricing final equipment needed before cool-down
+	Made measurements of top of cryostat to mount a vacuum plate onto
+	Finished list (minus regulators and Cernox mounts) of items needed and sent to Karl
+	Organized incoming equipment into the lab
+	Met with Karl to discuss final touches before cool-down, possible NSF MRI proposal, and future work
+	Put together new Magnet To-Do list
+	Talked with AirGas about coming in to look at our set-up
+	Maintence run of the roots pump
+	Began organizing for a Tensor Polarized Workshop
+	Set date for cryostat installation
+	Contacted Ideal Vacuum Products to find a top plate for the cryostat that we could machine to fit
+	Organizing proposal for Tensor-Polarized Workshop 
+	Created v0.1 draft of the Tensor-Polarized Workshop proposal
+	Created v0.2 draft of the Tensor-Polarized Workshop proposal
+	Created v0.3 draft of the Tensor-Polarized Workshop proposal
+	Created v0.4 draft of the Tensor-Polarized Workshop proposal
+	Working on JSA Tensor-Polarized Workshop proposal
+	Meeting with Karl and Patricia to talk about the JSA proposal, MRI proposal, and equipment for the lab
+	Began organizing NSF MRI proposal
+	Worked on NSF MRI proposal 
+	Worked on proposal for NSF MRI
+	Reading through older tensor-polarized papers
+	Began writing a document to put all tensor-polarized formalism in the same space
+	Meeting in the lab with Harry Nordyke from AirGas about equipment we need
+	Meeting with Harry and Karl, continuing conversation about equipment
+	Continued working on the formalism document
+	Continued working on the JSA workshop proposal
+	Worked on tensor-polarized formalism tech note
+	Worked on JSA workshop proposal
+	Worked on formalism tech note
+	Worked on JSA workshop proposal
+	Got in contact with the director of the Morse Machine Shop about building a top plate for the cryostat
+	Created CAD drawing of the cryostat top plate that we need to order
+	Meeting with Karl and Patricia about JSA Workshop proposal
+	Meeting with Kathy Cataneo about MRI and grants
+	Revisited the CAD drawing of the cryostat top
+	Finished the JSA proposal and sent it around to potential collaborators
+	Meeting with Zain about his progress with the thermocouples
+	Finished CAD design for the cryostat cap
+	Finished going through the Spin96 Proceedings and saving useful papers from it
+	Read through and commented on Karl's proceedings for the XVth International Workshop on Polarized Sources, Targets, and Polarimetry
+	Put together a checklist for the installation of the AMI solenoid
+	Meeting with Kevan Carpenter at the Kingsbury Machine Shop to discuss machining the cryostat top plate
+	Researched the structural integrity of polycarbonate at cryogenic temperatures
+	Remade *.eps versions of the most updated b1 plots for Karl
+	Began installing solenoid into the AMI cryostat
+	Pulled out magnet internals
+	Measured LHe sensor length
+	Installed solenoid onto bottom plate
+	Attempted to solder solenoid, but it didn't go work
+	Undid solenoid soldering
+	With help from Jim Williams, soldering the two bus bar-to-lead joints
+	Finished installing the AMI magnet
+	Set the AMI magnet to where it's going to stay
+	Uploaded pictures from the magnet installation to Flickr
+	Drew up CAD drawing of thermometry stick
+	Drew up CAD drawing of one of the custom blocks
+	Drew up CAD drawing of the second custom block
+	Returned dolly to Morse and picked up the newly-machined cryostat top plate (Meeting)
+	Edited the machining work order to fit within our budget
+	Re-drilled holes on cryostat top plate so that they weren't threaded
+	Picked up second set of machined parts for the AMI magnet
+	Installed the power supply cables for the AMI magnet
+	Cleaned up the lab to prepare for cooldown
+	Had a surprise shipment of cryogens -- working on figuring out what to do
+	Worked with Zain on testing the thermocouples with liquid nitrogen
+	Tested the cryostat top plate under pressure at LN2 temperature
+	Worked with Zain to see about getting the thermocouples working on the iTC
+	Prepared gaseous He hose for cool down later this week
+	Preppared lab for installation of cylinder wall mounts
+	Tested new Hall probe
+	Installed mount for gas cylinders in the lab
+	Tested out various aspects of the gaseous helium tank and pressurizing the cryostat
+	Pre-Cooled the AMI magnet with LN2 and left sit overnight
+	Blew out LN2 from AMI magnet
+	Went through video recording of the LN2 blow-out
+	Surveyed Karl's work rearranging the lab
+	Ran a few tests of the new Hall probe
+	Set up a second camera in the lab to record the magnet's resistance as it warms
+	Tested Roots pumps
+	Made sure that the camera was working down in the lab, and cleaned up some while I was there
+	Check and restarted camera in the lab looking at magnet resistance 
+	Did some work with Karl on the Bradley-Ryan resistors
+	Reset camera in the lab
+
+
+Quasi-Elastic
+	Quasi-Elastic Meeting
+	Squashed bug in QE charge analysis code
+	Code used to get charge per 3He target state from ungated u3c
+	Checked out results of QE bug-squashing
+	Worked on QE Ay0 Q2=0.5 data in a final attempt to local the discrepencies
+	Backed-up JLab website locally to make uploads for it easier in the future
+	Played with error estimate for QE Ay0 Q2=0.5 point, trying to find the best way to present the data
+	Checked out different groupings of QE Ay0 Q2=0.5 data to try and get the best error bars
+	Played around some more with the QE Ay0 Q2=0.5 data to figure out how to best handle the uncertainty
+	QE weekly meeting
+	More work on QE Q2=0.5 point
+	Made plot of Ay0 vs nu for Q2=0.1
+	Remade all Ay0 vs nu plots
+	Worked on Ay0 paper
+	Put together QE website for meeting
+	Worked on Ay0 run-by-run systematic uncertainties for Q2=0.1 and 1.0
+	Attempted (and failed) to try and figure out a way that I can process Ay0 *.root files from off-site
+	Worked a bit on trying to compile ROOT *.C files using g++ so that I can run them using GNU parallel
+	Tried to change how QE analysis script runs so that I can run it from the UNH desktop
+	Attempted to reinstall ROOT using gcc 4.6 so that I can use parallel threading (#pragma, openMP) -- Failed
+	Left ROOT compiling last night -- no go, it still is freezing at libPyRoot.o
+	Got updated charge and livetime information from Q2=0.1 Ay0 data
+	In process of getting updated charge and livetime information from Q2=1.0 Ay0 data
+	Still attempting to recompile ROOT, still failing. It works fine with gcc 3.4, but I need it to work with 4.6 so that I can use parallel threading. :-P
+	Updated QE website for meeting
+	Quasi-Elastic meeting
+	Met with Yawei to help him use InkScape
+	Edited Ay0 vs nu plots in Ay0 paper
+	Repeating the process done for QE Ay0 Q2=0.5 for 0.1 and 1.0 (GeV/c)^2 so that all the systematic uncertainties are done the same way
+	Put together website for Quasi-Elastic meeting
+	Quasi-Elastic meeting
+	Made edits to Ay0 paper
+	Included new charge and lt information for Q2=0.1 and 1.0 to run-by-run spreadsheet
+	Quasi-Elastic Meeting
+	Finished Ay0 run-by-run systematics for Q2=0.1 and 1.0 (GeV/c)^2
+	Prepared website for Quasi-Elastic meeting
+	Attempted to install ROOT v. 5.24-00b
+	Edited Ay0 paper to include uncertainties from run-by-run flucuations
+	Prepared Quasi-Elastic website for meeting
+	Quasi-Elastic Analysis Meeting
+	Made # of Pos/Neg Events vs Run # plots for Doug
+	Running Ay0 data without HAND -- trying to see if (e,e') matches Yawei's results
+	Quasi-Elastic meeting
+	Re-running Ay (e,e') for vertically polarized 3He at Q2=0.1, 0.5, and 1.0 to compare with Yawei's analysis of the same runs
+	Plotted run-by-run 3He(e,e') Ay asymetries to compare to Yawei
+	Quasi-Elastic Meeting
+	Matching 3He(e,e') run set so that Yawei and I are using the same runs to compare our data
+	Compared Nup, Ndown, ChargeUp, ChargeDown, LTup, and LTdown of my analysis and Yawei's
+	Continued comparison between Yawei's and my Ay0 data to try and find errors (LT is off the most)
+	Put together website for Quasi-Elastic meeting
+	Quasi-Elastic Meeting
+	Quasi-Elastic Meeting
+	Wrote a python script to extract charge and LT information from Yawei's *.log files
+	Comparing my information to Yawei's
+	Nailed the problem causing a difference between my results and Yawei's -- the charge
+	Checked charge script for bugs -- moving the initial counter to first event instead of second to see if that helps
+	Prepared Quasi-Elastic website
+	Quasi-elastic meeting
+	Met with Yawei to diagnose issue with charge (happened to also find small issue with LT)
+	Still working on reinstalling ROOT...
+	Put together Quasi-Elastic website
+	Worked on reinstalling the analyzer
+	Quasi-Elastic Meeting
+	Put together plots for the Hall A Collaboration meeting
+	Continued trying to install Hall A Analyzer
+	Working on figuring out what's wrong with the ROOT/analyzer installation
+	Continued trying to debug ROOT/analyzer problem
+	Quasi-Elastic Meeting
+	Finally got the analyzer working!!!
+	Quasi-Elastic Meeting
+	Recompiled ellana directory so that I can analyze runs locally
+	Trying to figure out bbftp so that I can transfer raw data files from JLab to UNH
+	Set up Globus Online to transfer data files from JLab to UNH
+	Looked at Yawei's analysis to figure out if it's worth redoing my code
+	Working on using awk to integrate counts and Ch/LT information so that I don't have to reply on copy/pasting it in OpenOffice spreadsheets
+	Worked on plotting Ay0 v. Run # using xmgrace instead of a spreadsheet (to help remove input errors)
+	Found errors in old spreadsheets by comparing to xmgrace plots
+	Editing the output of the 3He(e,e'n) Ay0 script to match that of 3He(e,e') so that the script I wrote yesterday is interchangable with each
+	Added proper uncertainty (instead of simple 1/sqrt(N)) to Ay0 run-by-run calculations
+	Put together Quasi-Elastic website for tomorrow's meeting
+	Quasi-Elastic Meeting
+	Ran Q2=0.5 Ay0 data through the new script
+	Ran Q2=1.0 Ay0 data through the new script
+	Getting raw data files off of the cache
+	Began transferring all Ay0 vertical raw datafiles to UNH machine
+	Prepared Quasi-Elastic webpage
+	Quasi-Elastic Meeting
+	Maintenance on Globus file transfer of Ay0 data from JLab to UNH
+	Submitted last of the Ay0 data to be transferred through GlobusOnline
+	Figured out how to run multiple replays in parallel!
+	Replaying Q2=0.1 Ay0 *.dat files with EDTM information
+	Replayed Q2=0.1 Ay0 data
+	Running Q2=0.5 Ay0 data
+	Replayed Q2=1.0 Ay0 data
+	Found that *.root files were coming out large due to an old problem with outputting too many histograms -- This was fixed (the same way as in https://userweb.jlab.org/~ellie/QEA-meetings/2010-03-10.html )
+	Worked on running the charge/lt locally
+	Wrote code so that the charge/livetime information can be analyzed in parallel on my local machine
+	Wrote script to automatically merge necessary files to get asymmetries
+	Finalizing Ay0 Q2=0.1 results
+	Confirmed that the charge/lt Q2=0.1 Ay0 runs from last night ran successfully 
+	Updated plots of Ay0 and Ay for Q2=0.1
+	Prepared Quasi-Elastic website for next week's meeting
+	Plotted new Q2=0.5 Ay0 plots
+	Plotted new Q2=1.0 Ay0 plots
+	Made final Ay0 plots
+	Finished up Ay0 analysis for Friday's meeting
+	Quasi-Elastic Meeting
+	Finalized Ay0 data, including adding prescale uncertainties to the Q2=0.1 point
+	Worked on making pretty the final Ay0 plots, but found they were quite a bit different from previous results
+	Looked into why the Ay0 plots were different
+	Worked on code that will let me reanalyze some Ay0 data to double-check with older data
+	Set up an analysis account so that I can run QE analysis without having hundreds of windows popping up on me drawing histograms
+	Tested QE analysis account to make sure that it's working correctly
+	Running analysis locally is taking forever (one run is still going from last night)
+	Re-setup globusconnect because it was having problems
+	Sent Q2=0.1 Ay0 files to JLab for farm analysis
+	Submitted Ay0 Q2=0.1 jobs to the farm
+	Ay0 farm anaylsis is still failing -- looked into figuring out why
+	Made pretty Ay0 vs. Q2 plots for Simon
+	Fixed GlobusConnect connection
+	Submitted Q2=0.1 Ay0 jobs to the farm (turns out I analyzed them as neutrons-only instead of no-vetos)
+	Ay0 submissions failed -- looked into why
+	Fixed bug where Ay0 was crashing when defining event type
+	Submitted new batch of Ay0 analysis to the farm
+	Looked into why Ay0 jobs continued to fail
+	Became really confused as to why Ay0 jobs are failing
+	Changed ~/.cshrc variables back to linux64 (instead of CentOS 6.2) and re-instally ROOT and the analyzer to try and get Ay0 running
+	Attempting to run quasi-elastic code again, since coming back from difficulties about a month ago
+	Worked on Quasi-Elastic paper
+	Made further edits to the Ay0 paper
+	Finished current draft of Ay0 manuscript and sent it to the Hall A Collaboration
+	Installed MCEEP and attempted to understand how to run and analyze a test run on it
+	Put together travel request form and sent it to Karl
+	Attempting to get the MCEEP utilities to run on a 64 bit system
+	Updated flight information for Hall A Collaboration Meeting trip
+	Trying to get MCEEP ntuple files to open in ROOT
+	Quasi-Elastic Meeting
+	Finalized travel plans for Hall A Collaboration Meeting
+	Made corrections and edits to the Ay0 paper
+	Worked on Hall A Collaboration Talk
+	Continued working on the Hall A Collaboration Talk
+	Worked on Hall A Collaboration Talk
+	Continued working on the Hall A Collaboration Talk
+	Worked on Hall A Collaboration Talk
+	Continued working on the Hall A Collaboration Talk
+	Pretty much worked on the Hall A Collaboration Talk all day
+	Still working on the Hall A Collaboration Talk
+	Worked on Hall A Collaboration Mtg talk
+	Attended Hall A Collaboration Mtg
+	Attended Hall A Collaboration Mtg
+	Gave talk for Hall A Collaboration Meeting
+	Worked on Ay0 corrections
+	Worked on Ay0 paper corrections
+	Worked on Ay0 paper corrections
+	Worked on Ay0 paper corrections
+	Worked on Ay0 paper corrections
+
+
+Job Issues
+	Took care of payroll information
+	Got UNH main e-mail working (elena.long@unh.edu)
+	Familiarized self with ELog
+	Got ELog working on unh1 machine
+	It needs to run on an older version of Firefox -- there are connection issues with both the latest Chrome and Firefox
+	It's running fine on Firefox 9
+	Use the command "elog" to enter FF9 and be taken immediately to the log
+	Received, organized, and ordered office supplies
+	Got elong@physics.unh.edu account working in Thunderbird
+	Meeting with HR about benefits
+	Got faculty parking pass
+	Had talks with campus folk to get connected into local resources
+	Figured out UNH time sheets
+	Set up UNH webpage (http://nuclear.unh.edu/~elong)
+	Set up ssh proxy so that I can access Science Direct papers using the JLab server
+	Installed LaTeX with all packages
+	Inquired how to receive training to use the Machine Shop (DeMerritt 109)
+	Put in key request form for DeMerritt 109
+	Signed up for benefits
+	Organized papers, both physically and virtually, to allow easier future access
+	Added # tags to all previous ELog entries to make finding non-summary posts easier
+	Cleaned up paper filesystem in Dropbox
+	Set up static IP and ssh server to UNH box
+	Set request for SEED to pick up more unused equipment
+	Helped John Dawson use Inkscape to extract information from a plot
+	Figured out how to extract exact data points from a vector plot using XML information
+	Met with disability services about hearing stuff
+	Set up Dragon Diction in the lab
+	Had some issues with unity window manager -- seems to be fixed now
+	Filled out disability paperwork
+	Got some insurance information fixed
+	Had issue with my unified inbox not showing any messages
+	Put together monthly summary
+	Showed the lab to the magnet safety people
+	Magent Safety Training
+	Found out that we can't move the new magnet in the lab because it's on too small of a palette
+	Fixed buzzing computer fan
+	Working on reinstalling ROOT, since I apparently messed it up at some point
+	Working on fixing ROOT because, like an idiot, I screwed it up :-(
+	Tried out new captioning service (Caption Colorado) for the EG4 meeting 
+	Finally (!!!) go ROOT working again!! :-D :-D :-D 
+	Put instructions of how I fixed ROOT into the ELog
+	...now the analyzer isn't working. :-(
+	Meeting with Disability Services
+	Set up UNH Ultrabook to prepare it for the PAC
+	Prepping ultrabook for travel
+	Continuing to prep computer for travel (antivirus)
+	Contacted ReadyTalk about captioning -- they use Colorado Captions
+	Updated LinkedIn CV
+	Took care of reimbursement questions
+	Helped clean out the Physics fridge
+	Meeting with Wendy and Karl about disability stuff
+	Got moderncv.cls working on LaTeX so that I can remake my CV using Linux so that I can apply to the Promising Young Scientist 
+	Fixed Michelle's computer
+	Began updating CV in LaTeX
+	Continued updating CV
+	Recorded last week's lab temp/humidity
+	Contacted Katie and Facilities about the humidity problem down in the lab
+	Borrowed and set up dehumidifier from the Physics Library in the lab
+	Keeping a close eye on the humidity situation in the lab
+	Talked with facilities about getting dehumidifiers installed -- was told that two big ones are on their way (talked to James from HVAC Unit #2)
+	New dehumidifiers have been installed in the lab
+	Continuing to keep an eye on the humidity situation in the lab
+	Added last night's humidity data to the spreadsheet
+	Rearranged the lab so that the dehumidifiers could go on a desk near the sink
+	Bought and installed hoses onto the dehumidifiers so that they will drain into the sink
+	Set up the camera so that if the dehumidifiers shut off, the red blinking light that indicates that is visible in the view
+	Recorded indoor and outdoor humidities from the long weekend
+	Added yesterday's humidty data to the plot
+	Updated the humidity information
+	Rearranged the lab so that the dehumidifiers are no longer sitting on a wooden desk
+	Recorded humidity levels
+	Recorded humidity data
+	Added historical humidity and temperature data for April, May, and June
+	Updated humidity plots
+	Recorded humidity data
+	Updated temp/humidity data
+	Recorded temp/humidity data
+	Recorded the weekend's temp/humidity data
+	Reset camera in the lab due to a power outtage that started sometime between 4-5am
+	Recorded yesterday's temp/humidity data
+	Cleaned out dehumidifier air filters
+	Recorded temp/humidity data
+	Recorded temp/humidity data
+	Added yesterday's temp/humidity data
+	Received key from Ryan for my new office
+	Set up new computer to work with UNH network and e-mail
+	Preparing office for move this afternoon
+	Moved into new office
+	Recorded temp/humidity data from the weekend
+	Recorded yesterday's temp/humidity data
+	Recorded yesterday's temp/humidity data
+	Noticed the internet in the new office is 2 orders of magnitude faster than in the old office -- Patricia was informed
+	Recorded yesterday's temp/humidity data
+	Put together monthly activity summary
+	Recorded yesterday's temp/humidity data
+	Rearranged office
+	Cleaned up lab after a fire happened over the weekend
+	Checked all electronics and pumps for problems
+	Ran tests on the electronics controlling the pumps in the lab
+	Contacted Pfeiffer about the cloudiness in the pump oil
+	Recorded the weekend's temp/humidity data
+	Recorded yesterday's temp/humidity data
+	Organized incoming materials for the lab
+	Recorded yesterday's temp/humidity data
+	Recorded yesterday's temp/humidity data
+	Organized incoming equipment for the lab
+	Recorded yesterday's temp/humidity data
+	Recorded the weekend's temp/humidity data
+	Delivered cabinet to the lab
+	Tried out new captioning service (ACS)
+	Recorded yesterday's temp/humidity data
+	Recorded this week's temp/humidity data
+	Picked up lost keys at the lockshop
+	Set up safety equipment that arrived for the lab
+	Recorded the past few days' temp/humidity data
+	Recorded yesterday's temp/humidity data
+	Recorded the past week's temp/humidity data
+	Sent request on UT85 cabling and accessories to Microstock
+	Recorded the weekend's temp/humidity data
+	Organized monthly summaries by number of items per project per month and plotted them
+	Wrote script to analyze the amount of time I've spent on different projects
+	Summarized time results from the plots I made yesterday for Karl
+	Audiologist appt and followed up with Disability Services
+	Added tag to find when I'm in me*etings to the time analysis code
+	Updated time analysis to weight mee*tings by 1 hour and the rest divided equally between 8 hours - # mee*tings
+	Prepped the lab to move the milling machine out this morning
+	Moved the milling machine into the machine shop
+	Measured noise level (dB) of the pumps at various locations inside and outside of the lab
+	Changed JLab, UNH, and UNH Physics passwords
+	Caught up on old e-mails
+	Installed calendar in the lab
+	Attended Karl's tenure colloqiuum (meeting)
+	Recorded monthly summary
+	Disability Services Meeting
+	Went through flagged e-mails and took care of most of them
+	Attended Maurik's colloquium
+	Attended LHC colloquium (meeting)
+	Kidder Speaker Fund Meeting
+	Reviewed Yawei's Personal Statement
+	Meeting with Disability Services to try out new phone
+	Organized upcoming deadlines
+	Set up new insurance through open enrollment
+	Responded to Adopt-a-Physicist questions
+	New phone finally installed!! :-D
+	Received, configured, and figured out how to use assistive listening device
+	Caught up on monthly, weekly, and daily reports since ELog was having trouble when I first tried to submit them
+	Answered Adopt-a-Physicist questions (meeting)
+	Safe Zones Training (Meeting)
+	Read through and offered comments on Y. Zhang's recent PRL paper
+	Commented on the NPG website
+	Made sure InspireHep and ArXiV papers are up to date
+	Attended a Grant Writing workshop
+	Worked on filling out my yearly performance review
+	Updated personal UNH website to include more recent information and to add my publication list
+	Continued updates to UNH website
+	Put together monthly summary
+	Prepared UNH laptop for Toby's use
+	Received training for ODH monitors (meeting)
+	Meeting with Zain
+	LGBTPhys GO meeting
+	Flew to Newport News to attend the Hall A Collaboration Meeting
+
+
+Other
+	Took care of oSTEM TWG scheduling
+	oSTEM TWG Meeting
+	Organized entering oSTEM:TWG survey into Salesforce
+	Met with President's Commission for GLBT Issues
+	Scheduled LGBTPhys-Org General Organizers' Meeting
+	LGBTPhys-Org BPG Meeting
+	Added TWG points to oSTEM Meeting Minutes 
+	LGBTPhys-Org Climate Survey Subcommittee Meeting
+	Digitized all to-do lists
+	Got the wireless network working in the lab
+	Figured out how git works and used it to version control my batch/inputs/neutron_hunt files
+	LGBTPhys-Org BPG meeting
+	Took care of small LGBTPhys-Org BPG items
+	Copied BPG from Google Docs into LaTeX
+	Final read-through of the BPG as a whole
+	oSTEM TWG Meeting
+	LGBTPhys-Org General Organizers' Meeting
+	Showed Chris (potential new grad student) around the lab
+	oSTEM-TWG call
+	Responded to Adopt-a-Physicist schools
+	Put together final edits for LGBTPhys-Org BPG
+	Finished LGBTPhys-Org BPG
+	Obtained NH driver's license and applied for vehicle registration
+	Answered Adopt-a-Physicist questions
+	Replied to Adopt-a-Physicist questions
+	Responded to Adopt-a-Physicist questions
+	Answered Adopt-a-Physicist questions
+	Sent out scheduling poll for next LGBTPhys-Org GO meeting
+	Answered Adopt-a-Physicist questions
+	Organized next LGBTPhys-Org GO Meeting & Minutes
+	LGBTPhys-Org GO meeting
+	Created oSTEM-TWG Needs Assessment Survey
+	Updated LGBTPhys website
+	TPAC Meeting
+	Attending EIC meeting
+	Judged Graduate Research Conference posters
+	Judged Graduate Research Conference talks
+	Meeting with Dawn about how to start an oSTEM Chapter
+	Attended "Creating a Gender-Inclusive Campus" webinar by Sue Rankin and Genny Beemyn
+	Created poll for LGBTPhys GO meeting
+	LGBTPhys GO Meeting
+	Organized oSTEM Interest Meeting poll
+	Witnessed a hit-and-run
+	FGSA Survey posted to website
+	Organized oSTEM interest group meeting
+	Put together oSTEM-TWG minutes
+	Doctor's appointment
+	Got car registered in NH
+	Set up scheduling for LGBTPhys-Org discussion about Physics Today article
+	oSTEM TWG Meeting
+	Filled out survey looking to increase particle physics communication with the public
+	Scheduling LGBTPhys-Org GO meeting
+	Scheduled GO and Physics Today meetings for LGBTPhys
+	LGBTPhys Physics Today Article meeting
+	LGBTPhys GO meeting
+	Doctor Appt.
+	Drove to Philadelphia
+	Attended PTHC
+	Presented oSTEM Talk "Making STEM More Trans Friendly" at PTHC 
+	Drove to NH
+	Connected with JLab and KSU colleagues I had not seen in awhile
+	Sent e-mail to all OutList members asking them to check their information
+	LGBTPhys-Org Physics Today Article meeting
+	Attended Parry's defense
+	oSTEM TWG Meeting
+	LGBTPhys-Org GO Meeting
+	Submitted oSTEM Proposal
+	Completed the Survey of Earned Doctorates
+	Went to the White House Office of Science and Technology Policy for a meeting with Kei Koizumi, the Assistant Director for Federal R&D
+	LGBTPhys-Org Poster Subcommittee meeting
+	Responded to Queer in STEM survey
+	Meeting with Tom Waidzunas who is working on an LGBT STEM survey
+	Worked on putting together my Promising Young Scientists package
+	Put together Research Statement for PYS award
+	Worked on other documents for PYS award
+	Wrote a Teaching Statement for PYS
+	Wrote Cover Letter for PYS
+	Finished putting together the entire PYS package (first draft)
+	Updated CV and PYS package
+	Organized next LGBTPhys-GO meeting
+	LGBTPhys GO Meeting
+	Finalized edits and submitted PYS package
+	Took care of OutList items
+	oSTEM interest group meeting
+	Lost keys and went hunting for them (Found them!)
+	Promoted oSTEM at U-Day
+	Promoted oSTEM at LGBTQA Garden Party
+	Meeting for the President's Commission on GLBT Issues
+	Meeting with high-school students and showed them around the lab
+	LGBT+ Physicists Meeting
+	Updated CV with recent papers
+	UNH oSTEM Meeting
+	Meeting with Drew about oSTEM Membership Meeting and Survey
+	President's Commission on the Status of GLBT Issues Meeting
+	Preparing for oSTEM National Conference
+	Prepped for oSTEM Conference
+	Put together resume for oSTEM Conference Resume Book
+	Put together talk for oSTEM Membership talk
+	oSTEM Conference Prep
+	oSTEM conference prep
+	Phone meeting with Ramon about study on trans physicists
+	T-PACC meeting
+	Meeting of the President's Commission on the Status of GLBT Issues
+	Meeting with Ellen about Safe Zones in the physics department
+	oSTEM odds and ends (meeting but not really)
+	Filled out UNH ADVANCE climate survey
+	oSTEM TWG Meeting
+
+

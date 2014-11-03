@@ -1,0 +1,130 @@
+Monthly Summary
+
+10/2014
+
+EG4
+	EG4 Meeting
+	Working on understanding how to compile the Steg code
+	Worked on understanding how to compile Steg
+	EG4 Meeting
+	Very long EG4 meeting
+	EG4 meeting
+	Got gemc installed
+	Played with gemc to start learning how it works
+	Trying to figure out if there's a way to convert GSIM to gemc
+	Meeting with Maurik about feasibility of CLAS6 in gemc
+	EG4 Meeting
+
+
+g2p
+	g2p Meeting
+	Long g2p meeting
+	g2p Meeting
+	Long g2p meeting
+	g2p Meeting
+	g2p Meeting
+	g2p Meeting
+
+
+UNH Lab
+	Worked on testing the Q meter with the proton cable
+	Read through and followed up on information about the HP 432A Power Meter
+	Trying to source a power head for the microwave system
+	Worked on setting up the Q meter
+	Played with the Q meter to try and get the first diode signal working
+	Worked on Q meter with Ryan and Makenzie
+	Worked on Q meter with Ryan and Makenzie
+	Worked on Q meter with Ryan and Makenzie
+	UNH Collaboration Meeting
+	Worked on figuring out the Q meter
+	Worked on Q meter
+	Continued working on the Q meter
+	Attempted to dig up information on competing MMW power supply company (not CPI)
+	Contacted Pulse Systems, Inc. (the Not CPI company) with details on our EIO tube for a power supply quote
+	Worked on the Q-meter
+	GOT THE Q-METER WORKING!!!!
+	Worked on the Q meter
+	Worked on the Q meter
+	Got the first visible "proton" signal from the Q-meter, proving that it is doing what it's supposed to
+	UNH Collaboration Meeting
+	Worked on Q meter 
+	Meeting with Karl about where we are
+	Got Q meter working with 32 MHz oscillator
+	Went over the status of the helium fridge with Karl
+	Trying to source mating piece to helium fridge large vacuum port
+	Put together layout of the lab post-rearranging
+	UNH collarboation meeting
+	Rearranged lab space
+	Found alternative PCB board software that will print larger sheets
+	Tested vacuum pump for the helium fridge
+	Tested vacuum gauge in the lab
+	UNH Collaboration Meeting
+	Worked on designing Helium fridge-to-Roots pump connector
+	Meeting to go over helium fridge mount plans with Karl
+	Got quote for modifying the helium fridge vacuum port
+
+
+b1
+
+
+Azz
+
+
+Quasi-Elastic 3He
+	Trying to 2nd-pass analyze the recently analyzed Ay0 runs to extract asymmetries
+	Debugging 1st-pass Ay0 analysis scripts
+	Debugging why Ay0 analysis is failing on the farm
+	Testing whether the Ay0 submitted jobs are actually running
+	Checking results of recently finished cascading veto bar method on Ay0
+	Getting run-by-run results for Ay0 analysis
+	Getting run-by-run results for cascading veto analysis of Q2=0.5 Ay0
+	Working on figuring out why new Q2=0.5 Ay0 values are twice that of the old ones
+	Working on comparing cascading layer veto method vs veto box method for Ay0
+	Continued to look at Ay0 for different cases
+	Put together summary of yesterday's Ay0 check results
+	Trying to get GEANT4 installed to simulate Ay0 efficiencies
+	Finished installing Geant4
+	Learning how to program in Geant4
+	Setting up JLab software and gemc 
+	Playing more with gemc
+	Phone meeting with Doug
+	Took out edge bars from Ay0 analysis code and resubmitted jobs
+	Played with gemc some more
+	Working with Maurizio on getting gemc to create magnetic fields
+	Worked on understanding gemc magnetic fields
+	Worked on Hall A gemc simulation
+	Doing HAND analysis of recent Ay0 runs that made it through the farm
+	WOrking on building Hall A in gemc
+	Worked on Hall A in gemc
+	Worked on Hall A in gemc
+
+
+Papers and Grants
+	Meeting with Karl about the STTR grant that's due tomorrow
+	Read over the current draft of the STTR grant
+	Read through and commented on near-final draft of STTR grant proposal
+	Worked on finishing forms for STTR grant
+
+
+Conference Planning
+	Setting up travel for upcoming conferences
+	oSTEM conference preparation
+
+
+SysAdmin
+	Set up backup drives for the Mac machines in the lab
+	Meeting with SysAdmins
+	Fixed John's e-mail problems
+
+
+Job Issues
+
+
+Other
+	E-mail meeting with lgbt+physicists folks about the BPG brochure
+	Added a bunch of Berkeley people to the lgbt+physicists OutList
+	Phone call with Juniata's president
+	Phone call meeting with APS News about the new C-LGBT committee
+	Women in Science Meeting on Work/Life Balance
+
+

@@ -1,0 +1,14 @@
+Daily Summary
+
+11/14/2013
+
+Began installing solenoid into the AMI cryostat
+Pulled out magnet internals
+Measured LHe sensor length
+Installed solenoid onto bottom plate
+Attempted to solder solenoid, but it didn't go work
+Undid solenoid soldering
+With help from Jim Williams, soldering the two bus bar-to-lead joints
+
+
+

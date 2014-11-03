@@ -1,0 +1,61 @@
+Weekly Summary
+
+9/22/2014 - 9/26/2014
+
+EG4
+
+
+g2p
+g2p Meeting
+
+
+UNH Lab
+Put together a list of items that need to be done in the lab, and figured out the next projects for everyone to work on
+Worked on setting up computer for Peter Sieg, the high school student that will be joining us this semester
+UNH collaboration meeting
+Set up SciPy on the Mac Mini in the lab for Peter's use
+Put together simple python fitting script that can be used as-is to get Peter started tomorrow
+Got Peter started up in the lab
+Installed variable capacitor in the Q meter
+Put together order for making our own PCBs
+
+
+b1
+
+
+Azz
+
+
+Quasi-Elastic 3He
+Edited how vetos are handled in HAND analysis so that it is done by layer instead of by groups of bars
+Trying to figure out why Ay0 jobs that are not Q2=0.1 aren't submitting
+Fixed Ay0 submissions scripts and submitted jobs with and without new neutron vetos (by plane) for all Q2
+Resubmitting failed Ay0 jobs to ifarm
+
+
+Papers and Grants
+Made edits to Ay0 paper
+Worked on Ay0 paper
+
+
+Conference Planning
+Planning trip to Frascati for the HiX workshop
+
+
+SysAdmin
+Okra stopped working, so I set up each of the Macs downstairs as individual client machines without a shared server directory
+Upgrading Mac Mini in the lab to OSX Maverick so that I can install GitHub for the new student
+Learning LDAP so I can add users to the NPG 
+
+
+Job Issues
+Got caught up with Daily & Weekly summaries
+Checked that my desktop backups are working like they should be
+
+
+Other
+oSTEM TWG meeting
+
+
+
+

@@ -1,0 +1,55 @@
+Weekly Summary
+
+2/3/2014 - 2/7/2014
+
+EG4
+EG4 Meeting
+EG4 Meeting
+Responded to Lamiaa's questions regarding user_ana
+
+
+g2p
+
+
+UNH Lab
+Contacted and got an update with Oxford regarding the broken temperature sensor card
+Local UNH collaboration meeting
+Went through cool-down video to add more LHe level meter points to understand the slopes
+Continued analyzing cool-down data
+Calculated the LHe loss rates from the cool-down analysis data
+Meeting with Zain about his URC poster
+
+
+b1
+Reading G. Miller's recent b1 paper on six-quark, hidden color physics
+Pulled information from G. Miller's paper to use in the b1 plots
+Added G. Miller's new b16q calculation plots to the b1 estimates plot
+Wrote wiki page on my updates to the b1 plots
+Worked up separating R from m plots in b1 (G. Miller's b16q calculation)
+
+
+Azz
+
+
+Quasi-Elastic 3He
+
+
+Conference Planning
+Tensor Workshop Meeting
+
+
+Job Issues
+Put together monthly summary
+Updated CV with new Nature publication
+Hard drive crash! D-:
+Attempted to recover from degraded RAID...
+
+
+Other
+OMSA Quench Discussion
+UNH Snow Day
+oSTEM TWG Meeting
+Meeting with Mark Anthony about oSTEM@UNH
+Updated lgbt+physicists website
+
+

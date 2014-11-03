@@ -1,0 +1,142 @@
+Monthly Summary
+
+5/2014
+
+EG4
+	Worked on figuring out what's wrong with user_ana
+	Wrote up wiki with findings of what's wrong with user_ana, but still no conclusions
+	EG4 Meeting
+	Got user_ana working! (I think...)
+	Running full simulation run to test user_ana
+	EG4 Meeting
+	Continued doing test run of EG4 simulation
+	EG4 Meeting
+	EG4 Meeting
+
+
+g2p
+	g2p Meeting
+	g2p meeting
+	Long g2p meeting
+
+
+UNH Lab
+	Put together order for UT-85 cable
+	Meeting with Zain
+	Installed new temp/humidity sensor in the lab
+	Checked the lab for tomorrow's (potential) move
+	Checked out the progress in the lab of moving out old equipment
+	UNH Collaboration Meeting
+
+
+b1
+
+
+Azz
+	Meeting with Patricia
+	Reached out to theorists to try and get models of Azz
+	Working on fixing the "bump" in f_dil using Misak's code
+	Worked on smoothing out the "bump" in f_dil
+	Trying to find out what wavefunctions to trust for the Azz calculations
+	Trying to figure out why the u(k) and w(k) plots from Gilman & Gross don't match what Donal sent me
+	Worked on Azz proposal
+	Writing Azz proposal
+	Writing Azz proposal
+	Meeting with Karl about Azz
+	Put together minutes for Azz meeting on Friday
+	Worked on Azz proposal
+	Worked on Azz proposal
+	Continued working on Azz proposal
+	Worked on Azz proposal a lot
+	Worked on Azz proposal a lot a lot
+	Worked on Azz proposal
+	Prepped for TAzz meeting
+	Worked on Azz proposal
+	TAzz Meeting
+	Added other wavefunctions to attempted Azz calculation
+	Reading for Azz proposal
+	Wrote script to automatically (attempt to) calculate Azz and output the plot
+	Trying to understand Mark's Azz calculations
+	Trying to understand light cone variables
+	Working on Azz calculations
+	Put together summary of what we can do with existing equipment at Pzz=25% and 20% for Azz
+	Meeting with Mark Strikman
+	Wrote up wiki page on the work I've been doing in recreated Azz from the 1981 report
+	Worked on the kinematics in the Azz calculation code
+	Organized TAzz meeting for today
+	Continued looking into Azz calculations
+	Meeting with Doug and Misak about his calculations on Azz
+	TAzz meeting
+	Meeting with Dustin
+	Put together e-mail to ask theorists if there is any more physics to draw in from TAzz
+	Working on calculation Azz in light-cone
+	Meeting with Mark
+	Added Mark's contribution to the TAzz proposal
+	Figuring out if the relativistic equations that Mark gave me work or not
+	Worked a bunch on the relativistic wf for Azz
+	Worked a bunch on the relativistic wf for Azz
+	Worked a bunch on the relativistic wf for Azz
+	Worked a bunch on the relativistic wf for Azz
+	Worked a bunch on the relativistic wf for Azz
+	Worked a bunch on the relativistic wf for Azz
+	Answered Dustin's questions on our observable
+	Hand-calculated the difference between rel & nonrel, since I can't make the theta=0 & 180 parts asymmetric
+	Figured out correct definition of Azz in terms of F&S's ratios
+	Meeting with Donal to try and figure out why Azz isn't asymmetric with theta
+	Started working on creating a different R(k) that's unique from R(p)
+	Meeting with Simonetta, who is excited for Azz!
+	Put together example plots and tables of wavefunction for Simonetta
+	Got the relativistic Azz working!! :-D
+	Got Azz for (e,e') working!
+	Wrote up all of the work I did with Azz on the wiki
+	Wrote up how I converted from Azz(alpha) to Azz(x)
+	Taking a closer look at helicities
+	Smoothed out Azz calculations
+	Worked on understanding the uncertainty in my light cone model
+	TAzz meeting
+	Long TAzz meeting
+	Worked on Azz proposal
+	Worked on Azz proposal
+	Working on Azz proposal
+	Working on Azz proposal
+	Determining discriminating power of Azz measurement between Misak's LC models
+	Worked on Azz proposal
+	Worked on Azz proposal
+	Worked on Azz proposal
+
+
+Quasi-Elastic 3He
+
+
+Papers and Grants
+
+
+Conference Planning
+	Planning June's trips
+	Put together proposals for oSTEM National Conference
+
+
+SysAdmin
+	Meeting with Maurik
+	Meeting with Tyler
+	Troubleshooting printer problems
+	Meeting with Josh
+	Put together "How to Use" section for the SysAdmin logbook
+	Meeting with Josh
+
+
+Job Issues
+	Put together monthly summary
+	Helped proctor Karl's exam
+	Set up speakers on desktop PC to make conference calls easier
+	Scheduling meetings for the week
+
+
+Other
+	GLBT Commission Meeting
+	oSTEM odds and ends
+	Prepared APS reimbursement sheet for Ad-Hoc meeting
+	Organized next LGBTPhys-Org GO meeting
+	Meeting with Eliza
+
+

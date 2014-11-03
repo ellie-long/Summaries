@@ -1,0 +1,8 @@
+Daily Summary
+
+6/20/2014
+
+Figured out how to put animated plots into a LaTeX document
+Worked on Tensor Workshop Proceedings
+
+

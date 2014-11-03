@@ -1,0 +1,63 @@
+Weekly Summary
+
+2/14/2014 - 2/21/2014
+
+EG4
+EG4 Meeting
+Running EG4 job_launch script to see if it gives usable results
+Played around with steg_e2a files to try and get a simulation running for EG4
+
+
+g2p
+g2p meeting
+Long g2p meeting
+
+
+UNH Lab
+UNH Collaboration Meeting
+Second UNH Collaboration Meeting
+Meeting with Justin about the Q Meter
+
+
+b1
+
+
+Azz
+Reading up on 2H(e,e'p) scattering
+Attempting to define X(e,e'p) scattering cross sections to add to Azz code
+Installed GEANT4 locally
+Reading up on pmin relation to try and include X(e,e'p)
+Continuing to look into adding (e,e'p) cross section to Azz calculations
+Continued looking into (e,e'p)
+Continued looking into (e,e'p) measurement
+Picked up book from the library on (e,e'p) scattering and read through it
+
+
+Quasi-Elastic 3He
+Checked on ifarm Ay0 replays -- only took two hours to run! (I should have start this 5 years ago...)
+Fixed neutron hunt Ay0 analysis code and submitted Q2=0.1 data to the farm
+Checked last night's Ay0 analysis runs -- having troubles
+Continued troubleshooting Ay0 analysis problems
+Got Ay0 analysis running on the farm
+Submitted Q2=0.1 to the farm
+Noticed ifarm Ay0 runs weren't going to finish, so re-submitting them in smaller chunks
+Looked into why Ay0 runs were failing, and re-submitted them slightly fixed
+
+
+Conference Planning
+Updated Joanna on the poster revision
+Touched base with speakers for Tensor Workshop
+Meeting with Karl to discuss Tensor Workshop & X(e,e'p) calculations
+Got second draft of Tensor Workshop poster and sent new comments back
+Tensor Workshop Meeting
+Got flights & bus for the Tensor Workshop
+
+
+Job Issues
+
+
+Other
+Read through and commented on new BPG
+TPACC meeting
+
+

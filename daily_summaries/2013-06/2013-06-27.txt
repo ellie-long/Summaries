@@ -1,0 +1,10 @@
+Daily Summary
+
+6/27/2013
+
+Working more on EG4 kinematics
+Added more plots to EG4 site
+Double-checked 2GeV run plots against a previous talk -- they seem to make sense, so the variables I'm using seem correct
+
+
+

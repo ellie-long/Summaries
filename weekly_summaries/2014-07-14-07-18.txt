@@ -1,0 +1,66 @@
+Weekly Summary
+
+7/14/2014 - 7/18/2014
+
+EG4
+Checked results of steg farm runs
+Fixed problem in steg farm runs where it was using the wrong tcl file and not outputting all of the correct files
+EG4 Meeting
+Looking into why the steg runs are failing on the farm but work locally
+Working through steg to find out why the farm submissions aren't working
+Continuing debugging steg batch farm script
+
+
+g2p
+g2p Meeting
+
+
+UNH Lab
+Moved everything on the Windows box from XP to Win7
+Set up github in the lab
+Got GPIB working through the network again
+UNH Collaboration Meeting
+Set up Win7 box to run Win7, github, and THUM on start-up
+Worked with Zain on getting the CCS calibration working
+Played around with the Q-meter
+Meeting with Karl and Zain to plan the next magnet lift
+(Unsucessfully) attempted to separate the strands of cryowire
+Looked into the Q-meter some more
+Trying to figure out how the Q-meter works
+Learning how to design circuit boards
+Working on understanding the Q-meter
+Worked on understanding the Q-meter
+
+
+b1
+
+
+Azz
+
+
+Quasi-Elastic 3He
+Checked results of Ay0 farm runs
+Re-running Ay0 ch/lt analysis and including *.root files to make sure it's running properly
+Fixing ungated charge information for Ay0 analysis runs
+Checked status of Ay0 runs to make sure that all the variables I need are put in correctly
+Continuing to debug problem with the Ay0 charge/lt information
+Debugging Ay0 charge/lt scripts
+Charge/lt Ay0 script fixed, sending new Q2=0.1 batch to the farm
+
+
+Conference Planning
+Finished GRC registration
+
+
+SysAdmin
+Tried to figure out why Toby and Ryan's mac server is down
+Fixed Toby and Ryan's network problems (the switch needed to be reset)
+Checked on lentil's status and updated SysAdmin notebook with the lab's network fix
+
+
+Job Issues
+
+
+Other
+
+

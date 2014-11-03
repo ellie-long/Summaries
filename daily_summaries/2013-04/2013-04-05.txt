@@ -1,0 +1,8 @@
+Daily Summary
+
+4/5/2013
+
+Local g2p Meeting
+Worked on 'setting the board' for playing with rates -- added kinematics plots to projection plot analysis
+
+

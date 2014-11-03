@@ -1,0 +1,11 @@
+Daily Summary
+
+10/27/2014
+
+Playing more with gemc
+Phone meeting with Doug
+Meeting with Maurik about feasibility of CLAS6 in gemc
+Took out edge bars from Ay0 analysis code and resubmitted jobs
+Played with gemc some more
+
+

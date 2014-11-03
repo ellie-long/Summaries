@@ -1,0 +1,13 @@
+Daily Summary
+
+2/12/2014
+
+g2p Meeting
+Really long g2p Meeting
+Looked at results from last night's EG4 recsis run on job.shell_1
+Went over first draft of Tensor Workshop poster
+Worked on trying to get analyzer running on the farm again
+Meeting with Doug to discuss Ay0 paper
+Meeting with Josh to discuss HD problems
+Got analyzer working on the ifarm!
+

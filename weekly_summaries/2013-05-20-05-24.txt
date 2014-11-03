@@ -1,0 +1,48 @@
+Weekly Summary
+
+5/20/2013 - 5/24/2013
+
+EG4/g2p
+g2p meeting
+EG4 Meeting 
+g2p Meeting
+
+
+b1
+Figured out flight information for PAC, still need to book
+Trying to find a smaller pallet lift for the new magnet
+Rearranged lab to open up a wide space in the center of the room
+Reserved flight/car for PAC meeting
+Looking into luminosity monitor
+b1 meeting
+Started writing up short paper on the extra asymmetries
+Worked on tech note on extra asymmetries that come into play in b1
+
+
+Quasi-Elastic
+Put together Quasi-Elastic website
+Worked on reinstalling the analyzer
+Quasi-Elastic Meeting
+Put together plots for the Hall A Collaboration meeting
+Continued trying to install Hall A Analyzer
+
+
+Job Issues
+Tried out new captioning service (Caption Colorado) for the EG4 meeting 
+Finally (!!!) go ROOT working again!! :-D :-D :-D 
+Put instructions of how I fixed ROOT into the ELog
+...now the analyzer isn't working. :-(
+Meeting with Disability Services
+
+
+Other
+Set up scheduling for LGBTPhys-Org discussion about Physics Today article
+oSTEM TWG Meeting
+Filled out survey looking to increase particle physics communication with the public
+
+
+
+
+
+
+

@@ -1,0 +1,12 @@
+Daily Summary
+
+2/4/2014
+
+EG4 Meeting
+Reading G. Miller's recent b1 paper on six-quark, hidden color physics
+Pulled information from G. Miller's paper to use in the b1 plots
+OMSA Quench Discussion
+Calculated the LHe loss rates from the cool-down analysis data
+Added G. Miller's new b16q calculation plots to the b1 estimates plot
+Wrote wiki page on my updates to the b1 plots
+

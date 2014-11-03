@@ -1,0 +1,13 @@
+Daily Summary
+
+9/24/2014
+
+g2p Meeting
+Upgrading Mac Mini in the lab to OSX Maverick so that I can install GitHub for the new student
+Checked that my desktop backups are working like they should be
+Fixed Ay0 submissions scripts and submitted jobs with and without new neutron vetos (by plane) for all Q2
+Learning LDAP so I can add users to the NPG 
+Made edits to Ay0 paper
+Got Peter started up in the lab
+
+

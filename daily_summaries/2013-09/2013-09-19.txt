@@ -1,0 +1,14 @@
+Daily Summary
+
+9/19/2013
+
+Changed JLab, UNH, and UNH Physics passwords
+Caught up on old e-mails
+Getting kinematics for Azz in 0.75<x<1.8 region
+Added results to b1 wiki
+Checked that I already checked the cross section results against data
+Fixed the uncertainties to reflect the large asymmetry
+Estimated rates for a one-week-long Azz experiment
+
+
+

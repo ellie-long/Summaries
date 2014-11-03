@@ -1,0 +1,11 @@
+Daily Summary
+
+2/19/2013
+
+Eg4 Meeting
+Installed LaTeX with all packages
+Made plot of Ay0 vs nu for Q2=0.1
+Remade all Ay0 vs nu plots
+Worked on Ay0 paper
+Put together QE website for meeting
+

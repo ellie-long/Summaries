@@ -1,0 +1,127 @@
+Monthly Summary
+
+3/2013
+
+EG4
+	Gained access to /work/clas/claseg4 workspace
+	EG4 Meeting
+	Began looking at EG4 *.root files
+	EG4 Meeting
+	EG4 Meeting
+	EG4 Meeting
+	Began looking through the EG4 data
+
+
+g2p
+	Collaboration g2p meeting
+	g2p Meeting
+	Made comments to Ryan's dissertation proposal
+	g2p Meeting
+	g2p Meeting
+
+
+UNH Lab
+	Local g2p Meeting
+	Local g2p meeting
+	Local g2p meeting
+	Local g2p Meeting
+	Cleaned up the rack in the lab
+	Figured out what it would take to lift the magnet internals out of the dewar
+	Secured GPIB cabling in the electronics rack
+	Signed up for manual support at mymercurysupport.com to find out what type of ILM LN2 level probe we need (there are multiple types without descriptions of their differences)
+	Attempted to figure out what type of LN2 and LHe level probes we need -- in progress
+	Continued looking into pricing of hoists and I-beams
+	Called Oxford Instruments and found out what we need for N2/He probes
+	Measured the diameter of the holes in the AMI magnet to make sure that a N2 probe will fit into it
+	Continued putting together list of items needed for a summer cool-down of the AMI magnet
+	Organized cryogen transfer lines onto a rack
+	Looking into where the LN2 and LHe probes are/if we have them
+	Finalized list of items needed for magnet cooldown -- need to look into specific measurements for a few items yet
+	Put together generalized list of items needed to cool down the AMI magnet this summer
+	Called AMI and got specifics on fringe magnet fields, types of connectors and cables needed
+	Found out what type of fittings we need to connect the LN2 transfer line to the blow-out tube (from 3/8" NPT to 3/8" ID surgical tubing)
+	Called hoist company about possibility of a cross-beam: Really expensive and probably not worth it
+	Finalized list of items needed for summer AMI magnet cool-down
+	Finished pricing equipment needed for the summer cool-down
+	Checked that the Minuteman turbo pump we have access to will suit AMI's vacuum jacket needs
+	Contacted Seth at AMI to confirm that the pressure gauge we have access to will working
+	Finished pricing/ordering list for cool down items
+	Began pricing of cool down equipment list
+	Set up camera to record temp/humidity in the lab every 6 hours (In the future, might want to look into Amazon Mechanical Turk to analysis data from pictures)
+	Met with safety services who walked through the lab
+	Moved packing items to the attic
+	Cleaned up lab floorspace
+	Made spreadsheet for lab temp/humidity
+
+
+b1
+	b1 Meeting
+	Set up git for the b1 proposal at https://github.com/ellie-long/b1_documents.git
+	Began looking through the rates information from Patricia
+	b1 Meeting
+	Inquired about structure of b1_rates folder from Patricia
+	Skype call with Patricia to go over how the rates code works
+	Attempting to translate fortran code to C++ so that I can read it easily
+	Played with b1_rates 
+	Played with b1 rates code -- succesfully translated qvec.f to qvec.cpp
+	Attempted to install GEMC to play with SoLID in GEANT4 -- failed
+
+
+Azz
+
+
+Quasi-Elastic 3He
+	Repeating the process done for QE Ay0 Q2=0.5 for 0.1 and 1.0 (GeV/c)^2 so that all the systematic uncertainties are done the same way
+	Put together website for Quasi-Elastic meeting
+	Quasi-Elastic meeting
+	Made edits to Ay0 paper
+	Included new charge and lt information for Q2=0.1 and 1.0 to run-by-run spreadsheet
+	Quasi-Elastic Meeting
+	Finished Ay0 run-by-run systematics for Q2=0.1 and 1.0 (GeV/c)^2
+	Prepared website for Quasi-Elastic meeting
+	Attempted to install ROOT v. 5.24-00b
+	Prepared Quasi-Elastic website for meeting
+	Quasi-Elastic Analysis Meeting
+	Made # of Pos/Neg Events vs Run # plots for Doug
+
+
+Papers and Grants
+	Edited Ay0 paper to include uncertainties from run-by-run flucuations
+
+
+Conference Planning
+
+
+SysAdmin
+
+
+Job Issues
+	Added # tags to all previous ELog entries to make finding non-summary posts easier
+	Cleaned up paper filesystem in Dropbox
+	Set up static IP and ssh server to UNH box
+	Set request for SEED to pick up more unused equipment
+	Helped John Dawson use Inkscape to extract information from a plot
+	Figured out how to extract exact data points from a vector plot using XML information
+	Met with disability services about hearing stuff
+	Set up Dragon Diction in the lab
+
+
+Other
+	Final read-through of the BPG as a whole
+	oSTEM TWG Meeting
+	LGBTPhys-Org General Organizers' Meeting
+	Showed Chris (potential new grad student) around the lab
+	oSTEM-TWG call
+	Responded to Adopt-a-Physicist schools
+	Put together final edits for LGBTPhys-Org BPG
+	Finished LGBTPhys-Org BPG
+	Obtained NH driver's license and applied for vehicle registration
+	Answered Adopt-a-Physicist questions
+	Replied to Adopt-a-Physicist questions
+	Responded to Adopt-a-Physicist questions
+	Answered Adopt-a-Physicist questions
+	Sent out scheduling poll for next LGBTPhys-Org GO meeting
+	Answered Adopt-a-Physicist questions
+	Organized next LGBTPhys-Org GO Meeting & Minutes
+
+

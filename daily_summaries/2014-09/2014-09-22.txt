@@ -1,0 +1,9 @@
+Daily Summary
+
+9/22/2014
+
+Got caught up with Daily & Weekly summaries
+Put together a list of items that need to be done in the lab, and figured out the next projects for everyone to work on
+Okra stopped working, so I set up each of the Macs downstairs as individual client machines without a shared server directory
+Edited how vetos are handled in HAND analysis so that it is done by layer instead of by groups of bars
+

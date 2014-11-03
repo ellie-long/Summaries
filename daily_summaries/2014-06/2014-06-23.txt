@@ -1,0 +1,12 @@
+Daily Summary
+
+6/23/2014
+
+Testing EG4 analysis with new prlink definitions that Lamiaa gave me
+Looking into finishing GRC registration
+Fixed Patricia's log in problems
+Worked on Tensor Workshop proceedings
+Redid the tensor polarization gif to get a better sense of how vector and tensor states change with equidensity lines
+
+
+

@@ -1,0 +1,12 @@
+Daily Summary
+
+5/15/2014
+
+Organized next LGBTPhys-Org GO meeting
+Put together "How to Use" section for the SysAdmin logbook
+Put together summary of what we can do with existing equipment at Pzz=25% and 20% for Azz
+Meeting with Mark Strikman
+Wrote up wiki page on the work I've been doing in recreated Azz from the 1981 report
+Worked on the kinematics in the Azz calculation code
+
+

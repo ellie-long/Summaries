@@ -1,0 +1,60 @@
+Weekly Summary
+
+4/14/2014 - 4/18/2014
+
+
+EG4
+
+
+g2p
+g2p Meeting
+Long g2p Meeting
+
+
+UNH Lab
+Put together b1 and Azz plots for the EPSCOR grant proposal
+Meeting with Zain about his URC poster
+UNH Collaboration Meeting
+Meeting with Zain to talk about his poster
+Double-checking Zain's work for the poster
+Meeting with Zain to help him with his poster
+
+
+b1
+Meeting with Karl on what to focus on this week for the b1 meeting
+Finding out what we can do at Pzz=15% for a single x=0.4 point
+Set up b1 and Azz meetings for later this week
+Continued attempting to optimize a worst-case scenario for b1 with ND3 at Pzz=15%
+Wrote up wiki about results in the worst-case scenario for b1
+b1 meeting
+Working on pulling the points from G. Miller's b1 calculations
+
+
+Azz
+Took videos to end my experiments with the gyroscopes
+Meeting with Patricia to attempt to understand tensor polarization
+Worked on understanding tensor polarization
+Meeting with Karl and Patricia about understanding tensor polarization
+Still trying to figure out tensor polarization
+TAzz proposal meeting
+
+
+Quasi-Elastic 3He
+
+
+Conference Planning
+Put together GRC application
+
+
+SysAdmin
+
+
+Job Issues
+Meeting with potential undergrad student interested in the department
+
+
+Other
+TPACC meeting
+LGBTPhys-Org GO Meeting
+
+

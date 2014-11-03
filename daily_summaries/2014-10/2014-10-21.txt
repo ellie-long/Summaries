@@ -1,0 +1,10 @@
+Daily Summary
+
+10/21/2014
+
+Put together summary of yesterday's Ay0 check results
+UNH collarboation meeting
+Trying to get GEANT4 installed to simulate Ay0 efficiencies
+
+
+

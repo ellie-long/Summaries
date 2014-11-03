@@ -1,0 +1,42 @@
+Weekly Summary
+
+2/4/2013 - 2/8/2013 
+
+Structure Physics
+	Re-arranged workspace in lab into a user-friendly configuration
+	Read GDH/g1p/g2p papers
+	Read up on the history of structure functions
+	Set up computer accounts in lab
+	Made sure lab is ready for a phone-call meeting space
+	Attended Patricia Solvignon's technical talk
+	Attended Patricia Solvignon's Colloqium
+	Read Structure Function Paper
+	EG4 Meeting
+	g2p Meeting
+	Read Spin Structure paper
+
+New Job Issues
+	Took care of payroll information
+	Got UNH main e-mail working (elena.long@unh.edu)
+	Familiarized self with ELog
+	Got ELog working on unh1 machine
+	It needs to run on an older version of Firefox -- there are connection issues with both the latest Chrome and Firefox
+	It's running fine on Firefox 9
+	Use the command "elog" to enter FF9 and be taken immediately to the log
+	Received, organized, and ordered office supplies
+	Got elong@physics.unh.edu account working in Thunderbird
+	Meeting with HR about benefits
+	Got faculty parking pass
+	Had talks with campus folk to get connected into local resources
+
+Quasi-Elastic
+	Quasi-Elastic Meeting
+	Squashed bug in QE charge analysis code
+	Code used to get charge per 3He target state from ungated u3c
+
+Other
+	Took care of oSTEM TWG scheduling
+	oSTEM TWG Meeting
+	Organized entering oSTEM:TWG survey into Salesforce
+	Met with President's Commission for GLBT Issues
+

@@ -1,0 +1,13 @@
+Daily Summary
+
+4/18/2013
+
+Made sure the cross section calculations in the b1 rates code works correctly
+Making a copy of the rates script in a spreadsheet so that I understand absolute everything that it's doing
+Made website for b1 meeting
+b1 Meeting
+Completely understand what the b1 rates code is doing (Finally!! :-D )
+Matched up back-of-envelope calculation of rates to the b1 rates code -- they are within the same order of magnitude! :-D (Off by about 0.6, but that could be due to kinematic clipping that the b1 rates code does that the quick estimate doesn't take into account)
+
+
+

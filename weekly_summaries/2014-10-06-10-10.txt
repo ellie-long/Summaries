@@ -1,0 +1,59 @@
+Weekly Summary
+
+10/6/2014 - 10/10/2014
+
+EG4
+
+
+g2p
+g2p Meeting
+Long g2p meeting
+
+
+UNH Lab
+Worked on Q meter with Ryan and Makenzie
+Worked on Q meter with Ryan and Makenzie
+Worked on Q meter with Ryan and Makenzie
+UNH Collaboration Meeting
+Worked on figuring out the Q meter
+Worked on Q meter
+Continued working on the Q meter
+Attempted to dig up information on competing MMW power supply company (not CPI)
+Contacted Pulse Systems, Inc. (the Not CPI company) with details on our EIO tube for a power supply quote
+Worked on the Q-meter
+GOT THE Q-METER WORKING!!!!
+
+
+b1
+
+
+Azz
+
+
+Quasi-Elastic 3He
+Trying to 2nd-pass analyze the recently analyzed Ay0 runs to extract asymmetries
+Debugging 1st-pass Ay0 analysis scripts
+Debugging why Ay0 analysis is failing on the farm
+Testing whether the Ay0 submitted jobs are actually running
+
+
+Papers and Grants
+
+
+Conference Planning
+
+
+SysAdmin
+
+
+Job Issues
+
+
+Other
+Added a bunch of Berkeley people to the lgbt+physicists OutList
+
+
+
+
+
+

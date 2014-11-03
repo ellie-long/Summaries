@@ -1,0 +1,131 @@
+Weekly Summary
+
+3/3/2014 - 3/7/2014
+
+EG4
+	Looked into EG4 runs from last week and submitted test simulations
+	EG4 Meeting
+	Catching up with the last thing I worked on for EG4
+
+
+g2p
+	g2p Meeting
+	g2p Meeting
+	g2p Meeting
+
+
+UNH Lab
+	Meeting with Zain to discuss his URA proposal
+	UNH Collaboration Meeting
+	Installed new Temperature Sensor into the iTC -- It works!
+	Read through and commented on Zian's URA proposal
+	Met with Zain to discuss in depth his URA proposal
+	Read through and commented on Zain's URA proposal changes from last night
+	Worked with Zain to finalize his proposal
+	Worked with Zain A LOT to finalize his proposal
+	Made final comments on Zain's URA proposal
+	Put the magnetic field mapping from the January cool-down into plots
+	UNH Collaboration Meeting
+	Looked into systems needed for DNP-in-solution
+	Meeting with Hugh Bishop from CPI
+	Epscor grant meeting
+	Long Epscor grant meeting
+	Maintenance run on the pumps
+	Wrote paragraph of DNP in solution for medical applications for the DOE proposal
+	Meeting with Zain
+	Cleaned up Zain's LabView software a bit and am letting it run for awhile
+	Updated Karl on the work that Zain and Justin have been doing
+	Maintainance run on the roots pumps
+	Tested water chiller in the lab (to be used to cool the microwave) 
+	Read through and commented on Zain's URA paper draft
+	UNH Collaboration Meeting
+
+
+b1
+	Working on the b1 cross sections to add LiD and (He+D)D
+	Attempted to find the densities of LiD and ND3 -- failed (but did find NH3 and LiH)
+	Played around with the b1 rates code to check the cross section between LiD and (HeD)D
+	Added lumi*sig calculations to ptrates code to see where the difference in rates b/t LiD & He2D are coming from
+	Continued looking into rates difference between LiD & He2D
+	Fixed LiD/He2D rates in b1 code & wrote up conclusions with all things being the same
+	Looked into D and N cross sections again
+
+
+Azz
+	Worked on Azz talk for Tensor Workshop
+	Send Azz talk first draft around for comments
+	Discussed Azz talk with Patricia and Karl
+	Worked on Azz talk
+	Worked on Azz talk
+	Redid Azz cross section-check calculations
+	Finished Azz talk
+	Began looking into how Misak's code works
+	Continued digging into Misak's code
+	(5 hr) Worked on adapting Misak's code into the Azz code
+	Continued working on implementing Misak's code into the Azz rates
+	Phone meeting with Doug on Azz
+	Wrote up summary of work in Azz wiki
+	Trying to figure out parallel processing in FORTRAN
+	Running Q^2 scan using Misak's code
+	Began implementing parallel processing into ptrates
+	Worked on parallelization of ptrates again
+	Found that parallelization of Bosted & Sargsian codes is untenable for the gains received -- abandoning project
+	Ran Sargsian code for ND3 Azz
+
+
+Quasi-Elastic 3He
+	Began transferring Ay0 analysis files to UNH to finish analyzing
+	Copied Ay0 runs from JLab to UNH
+	Began looking into Ay0 analysis, which isn't working like it used to
+
+
+Papers and Grants
+
+
+Conference Planning
+	Sent out summary of Tensor Workshop registrants status
+	Tensor Workshop Meeting
+	Travelled to Newport News for the Tensor Workshop
+	Attended Tensor Workshop
+	Attended Tensor Workshop
+	Attended Tensor Workshop
+	Travelled back to UNH from the Tensor Workshop
+	Updated UNH DNP wiki to include talks from the Tensor Workshop
+	Tensor Workshop Meeting
+
+
+SysAdmin
+	Meeting with Josh about cluster update
+	Meeting with Maurik about computer systems
+	Prepared interview questions for SysAdmin hire
+	Held interview meeting for SysAdmin hire
+	Wrote SysAdmin offer letter
+	Sent offer letter to Tyler
+	Meeting with Josh
+
+
+Job Issues
+	Put together monthly summary
+	Added new topic (SysAdmin) to list of summary topics
+	Started reading and commenting on the d2n paper
+	Put together travel reimbursement
+	Finished travel expenses form
+	Got caught up in e-mails from last week
+	Caught up on daily summaries
+	Attended colloquium about BICEP-2 result
+	Meeting with Josh to discuss issues with the web server
+	Renewed APS membership
+	Meeting with incoming grad students to show them the lab
+
+
+Other
+	Spreading work on TGNH of the resolution that passed last night in Portsmouth
+	oSTEM TWG Meeting
+	Meeting with Wendy to show someone the hearing aid
+	Took the morning off
+	LGBTPhys-Org GO Meeting
+	TPACC meeting
+	Pulled trigger on PTHC table and ad
+
+
+

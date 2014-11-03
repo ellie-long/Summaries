@@ -1,0 +1,55 @@
+Weekly Summary
+
+8/4/2014 - 8/8/2014
+
+EG4
+
+
+g2p
+Went over Toby and Ryan's GRC posters
+g2p meeting
+Long g2p meeting
+
+
+UNH Lab
+UNH Collaboration Meeting
+Read through SBIR/STTR call for proposals
+Trying to source NMR parts
+Meeting with Karl to discuss potential to apply for STTR grant
+
+
+b1
+
+
+Azz
+
+
+Quasi-Elastic 3He
+Getting auto_asym working on ifarm
+Set up vncviewer on unh1 to make analysis not fill up my working screens
+
+
+Conference Planning
+Worked on GRC poster
+Worked on GRC poster
+Finalized poster and sent for printing
+Picked up GRC poster
+
+
+SysAdmin
+Meeting with one of Karsten's students to help her get Vortex (Karsten's cluster in the server room) up and running
+Brought back NPG network after it went down
+
+
+Job Issues
+Removed SL6 and installed Ubuntu 14.04 LTS
+Setting up Ubuntu 14.04 LTS
+Fixing Ubuntu from some problems I caused yesterday trying to get vncviewer working
+Re-installed ROOT and analyzer on unh1
+
+
+Other
+Reading and evaluating JSA proposals
+Finished reading and evaluating JSA proposals
+
+

@@ -1,0 +1,11 @@
+Daily Summary
+
+9/11/2013
+
+Worked on incorporating the 1988 Frankfurt and Strikman Azz plot into the b1 rates code for x>1
+g2p Meeting
+Updated time analysis to weight mee*tings by 1 hour and the rest divided equally between 8 hours - # mee*tings
+Estimated the 1988 F&S Azz plot using a spreadsheet and image overlay, as unfortunately a direct calculation is not available
+Promoted oSTEM at LGBTQA Garden Party
+
+

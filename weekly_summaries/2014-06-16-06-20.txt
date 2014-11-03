@@ -1,0 +1,53 @@
+Weekly Summary
+
+6/16/2014 - 6/20/2014
+
+
+EG4
+EG4 Meeting
+
+
+g2p
+g2p Meeting
+
+
+UNH Lab
+Helped Chris, an undergrad in engineering, determine if our gausmeter could be used for his project
+Adjusted lab humidity meter and set up dehumidifiers
+
+
+b1
+
+
+Azz
+
+
+Quasi-Elastic 3He
+
+
+Conference Planning
+Put together conference summaries
+Worked on Tensor Workshop Proceedings
+Worked on Tensor Workshop Proceedings
+
+
+SysAdmin
+Meeting with Josh
+
+
+Job Issues
+Meeting with Karl to discuss what happened during travels, and where we go from here
+Put together reimbursement paperwork
+Catching up on e-mails that were postponed from travel
+Organized office posters
+Submitted travel reimbursement paperwork
+Got caught up on daily, weekly, and monthly summaries
+Added another monitor and reset Synergy accordingly
+Followed up on remaining points that came up during my travels
+Updated CV and website
+Figured out how to put animated plots into a LaTeX document
+
+
+Other
+
+

@@ -1,0 +1,11 @@
+Daily Summary
+
+11/4/2013
+
+Worked on proposal for NSF MRI
+UNH Collaboration Meeting
+Testing that my gsim code still works on the new CentOS
+Attempting to run quasi-elastic code again, since coming back from difficulties about a month ago
+Reading through older tensor-polarized papers
+
+

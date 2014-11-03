@@ -1,0 +1,10 @@
+Daily Summary
+
+5/13/2014
+
+EG4 Meeting
+Reading for Azz proposal
+Meeting with Josh
+Wrote script to automatically (attempt to) calculate Azz and output the plot
+
+

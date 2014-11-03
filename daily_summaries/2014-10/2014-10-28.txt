@@ -1,0 +1,10 @@
+Daily Summary
+
+10/28/2014
+
+oSTEM conference preparation
+Working with Maurizio on getting gemc to create magnetic fields
+UNH Collaboration Meeting
+Worked on understanding gemc magnetic fields
+
+

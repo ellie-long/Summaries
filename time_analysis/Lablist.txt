@@ -1,0 +1,464 @@
+	UNH Meeting for g2p
+	Local Meeting for g2p
+	Local g2p meeting
+	Re-arranged workspace in lab into a user-friendly configuration
+	Set up computer accounts in lab
+	Made sure lab is ready for a phone-call meeting space
+	Figured out what progress has previously been made with the UVA magnet so that I can take over getting it here
+	Figured out sizes needed to transport UVA magnet
+	Measured lab space where UVA magnet is going to end up so that it fits
+	Finished measuring maximum size that the target has to fit through (1.30m x 2.39 m x 1.943 m)
+	Cleaned up computer accounts on the Mac Minis in the lab
+	Working on getting rid of mineral oil -- should hear back from facilities tomorrow
+	Finished cleaning up computer accounts on the Mac Minis in the lab
+	Heard back from facilities -- they won't take the mineral oil in the lab
+	Following up with UNH Hazardous Waste Management
+	Found out the magnet we thought was going to arrive second (and in April) is arriving later this week
+	Figured out how to choreograph the palette mover so that the magnet can get into the lab
+	Inquired about how to remove surplus equipment from the lab
+	Found out that we need to move the milling machine and the mass spectrometer out of the lab, preferably today
+	Came up with a plan to move them so that the magnet will still be able to fit through the hall
+	Moved the milling machine and the mass spectrometer into the hallway
+	Filled out surplus form for the spectrometer -- for future notice, our department is Physics and the BSC is CEPS (College of Engineering and Physical Sciences)
+	Magnet arrived and was put in lab
+	Magnet was secured in place
+	Inquired facilities about lifting the magnet to get the padding out from under it -- Will need to call them back Monday morning (2-1437)
+	Called Facilities to move the magnet -- they're working on figuring out who's in charge of the crank hoist and will get back to me later to scheduling the pick up
+	Got the padding out from underneath the magnet
+	Rearranged the lab to give us a bit more space
+	Made sure that all items that are on the magnet packing slip actually arrived (There are three items I want Karl to double-check)
+	Read AMI magnet manual
+	Cleaned up workspace in the lab
+	Installed Oxford Intsruments cards into the Mercury tCI box
+	Scanned AMI Magnet manual into PDFs
+	Began testing the Oxford Instruments cards
+	Created *.pdf file of the AMI Magnet manual
+	Local g2p Meeting
+	Local g2p meeting
+	Local g2p meeting
+	Local g2p Meeting
+	Cleaned up the rack in the lab
+	Figured out what it would take to lift the magnet internals out of the dewar
+	Secured GPIB cabling in the electronics rack
+	Signed up for manual support at mymercurysupport.com to find out what type of ILM LN2 level probe we need (there are multiple types without descriptions of their differences)
+	Attempted to figure out what type of LN2 and LHe level probes we need -- in progress
+	Continued looking into pricing of hoists and I-beams
+	Called Oxford Instruments and found out what we need for N2/He probes
+	Measured the diameter of the holes in the AMI magnet to make sure that a N2 probe will fit into it
+	Continued putting together list of items needed for a summer cool-down of the AMI magnet
+	Organized cryogen transfer lines onto a rack
+	Looking into where the LN2 and LHe probes are/if we have them
+	Finalized list of items needed for magnet cooldown -- need to look into specific measurements for a few items yet
+	Put together generalized list of items needed to cool down the AMI magnet this summer
+	Called AMI and got specifics on fringe magnet fields, types of connectors and cables needed
+	Found out what type of fittings we need to connect the LN2 transfer line to the blow-out tube (from 3/8" NPT to 3/8" ID surgical tubing)
+	Called hoist company about possibility of a cross-beam: Really expensive and probably not worth it
+	Finalized list of items needed for summer AMI magnet cool-down
+	Finished pricing equipment needed for the summer cool-down
+	Checked that the Minuteman turbo pump we have access to will suit AMI's vacuum jacket needs
+	Contacted Seth at AMI to confirm that the pressure gauge we have access to will working
+	Finished pricing/ordering list for cool down items
+	Began pricing of cool down equipment list
+	Set up camera to record temp/humidity in the lab every 6 hours (In the future, might want to look into Amazon Mechanical Turk to analysis data from pictures)
+	Met with safety services who walked through the lab
+	Moved packing items to the attic
+	Cleaned up lab floorspace
+	Made spreadsheet for lab temp/humidity
+	Local g2p Meeting
+	Local g2p Meeting
+	Local g2p Meeting
+	Local g2p Meeting
+	Working on scheduling Magnetic Safety Training
+	All items for SEED have been removed from the lab! Huzzah!! :-D
+	Local g2p meeting
+	Found the magnet's central location in the lab
+	Marked off 5-Gauss line around the magnet central location
+	Trying to find a smaller pallet lift for the new magnet
+	Rearranged lab to open up a wide space in the center of the room
+	Showed the lab to the magnet safety people
+	Magent Safety Training
+	Found out that we can't move the new magnet in the lab because it's on too small of a palette
+	Local g2p meeting
+	Local g2p Meeting
+	Local g2p meeting
+	Updated the backlog of lab temperature and humidity data
+	Local g2p meeting
+	Local g2p meeting
+	Local g2p meeting
+	Local g2p/Progress Report meeting
+	Recorded humidity data from the weekend
+	Contacted Katie and Facilities about the humidity problem down in the lab
+	Borrowed and set up dehumidifier from the Physics Library in the lab
+	Keeping a close eye on the humidity situation in the lab
+	Talked with facilities about getting dehumidifiers installed -- was told that two big ones are on their way (talked to James from HVAC Unit #2)
+	New dehumidifiers have been installed in the lab
+	Continuing to keep an eye on the humidity situation in the lab
+	Added last night's humidity data to the spreadsheet
+	Rearranged the lab so that the dehumidifiers could go on a desk near the sink
+	Bought and installed hoses onto the dehumidifiers so that they will drain into the sink
+	Set up the camera so that if the dehumidifiers shut off, the red blinking light that indicates that is visible in the view
+	Recorded indoor and outdoor humidities from the long weekend
+	Added yesterday's humidty data to the plot
+	Updated the humidity information
+	Rearranged the lab so that the dehumidifiers are no longer sitting on a wooden desk
+	Recorded humidity levels
+	Recorded humidity data
+	Added historical humidity and temperature data for April, May, and June
+	Updated humidity plots
+	Recorded humidity data
+	Updated temp/humidity data
+	Recorded temp/humidity data
+	Recorded the weekend's temp/humidity data
+	Reset camera in the lab due to a power outtage that started sometime between 4-5am
+	Recorded yesterday's temp/humidity data
+	Cleaned out dehumidifier air filters
+	Recorded temp/humidity data
+	Recorded temp/humidity data
+	Added yesterday's temp/humidity data
+	Recorded last week's lab temp/humidity
+	Recorded temp/humidity data from the weekend
+	Recorded yesterday's temp/humidity data
+	Recorded yesterday's temp/humidity data
+	Local g2p meeting
+	Local g2p meeting
+	UNH Collaboration Meeting
+	Began soldering 19-pin connector for the AMI magnet electronics
+	Continuing soldering electronics for AMI magnet
+	Finished soldering electronics for AMI magnet
+	Switched out top vacuum chamber on the big pumps to a 90-degree angle piece
+	Moved turbopump down to the lab
+	Hooked up turbopump and began pumping down the cryostat vacuum jacket
+	Continuing to pump down the cryostat vacuum chamber
+	Worked on designing a system to include temperature sensors in the cryostat
+	Priced soldering iron and fuses for the lab
+	Tried to figure out how to create a better vacuum on the cryostat jacket
+	Rearranged the vacuum tubing to attempt to get a better vacuum
+	Fixed the vacuum tubing! Turns out the gauge had the wrong zero-setting. Set to factory conditions and we seem good to go!
+	Scheduled pick-up of the cryostat lift
+	Opened ballast on the DUO pump and ran the pumps for ~30 minutes -- everything is running great
+	Organized new equipment in the lab
+	Did dry run-through of magnet cool down
+	Played with roots pump vacuum gauge to see if I could fix it -- no luck :-(
+	Set up pegboard in the lab
+	Rearranged lab to prepare for cooldown
+	Attempted to connect the electronics rack to the PC
+	Attempted to get any piece on the rack to talk to the PC via GPIB
+	Recorded yesterday's temp/humidity data
+	Put together monthly activity summary
+	Recorded yesterday's temp/humidity data
+	Cleaned up lab after a fire happened over the weekend
+	Checked all electronics and pumps for problems
+	Ran tests on the electronics controlling the pumps in the lab
+	Contacted Pfeiffer about the cloudiness in the pump oil
+	Recorded the weekend's temp/humidity data
+	Recorded yesterday's temp/humidity data
+	Organized incoming materials for the lab
+	Recorded yesterday's temp/humidity data
+	Recorded yesterday's temp/humidity data
+	Organized incoming equipment for the lab
+	Recorded yesterday's temp/humidity data
+	Recorded the weekend's temp/humidity data
+	Delivered cabinet to the lab
+	Recorded yesterday's temp/humidity data
+	Recorded this week's temp/humidity data
+	Set up safety equipment that arrived for the lab
+	Recorded the past few days' temp/humidity data
+	Recorded yesterday's temp/humidity data
+	Recorded the past week's temp/humidity data
+	Sent request on UT85 cabling and accessories to Microstock
+	UNH Collaboration Meeting
+	UNH collaboration meeting
+	UNH Collaboration Meeting
+	Continued attempting to get GPIB working (Installed updated drivers for PCI board)
+	Picked up lift from John Wilderman 
+	Set up lift and took magnet off the jack
+	Installed LabView and associated software on UNH ultrabook in an attempt to get the GPIB-ENET device working
+	Got GPIB ENET working with the PC
+	Began turning on equipment and getting it to talk to the PC
+	Got Zain started on getting the software to talk to the electronics rack
+	Set up new hardware and pegboard equiment in the lab
+	Fixed the pallet for the magnet
+	Organized new equipment in the lab
+	Raised lift stand to its maximum height to prepare for first lift tomorrow
+	Ran roots pump for 30 minute maintenaince run
+	Prepped lab for tomorrow's lift
+	Completed first magnet lift
+	Got measurements on the bottom plate for future thermometry stand
+	Measured the inner diameter in the top and bottom of the cryostat
+	Figured out how to move the cryostat
+	Found out we'll need to solder more wires to include the thermometry
+	Lifted magnet internals out to show to Karl and to continue planning placement of thermometry 
+	Routine mainetaince run on the roots pump
+	Confirmed that magnet only has a few wires attached to the backside of the 19-pin cable (We'll need to add extra for the thermometry)
+	Roots pump maintenaince run
+	Recorded the weekend's temp/humidity data
+	Prepped the lab to move the milling machine out this morning
+	Moved the milling machine into the machine shop
+	Measured noise level (dB) of the pumps at various locations inside and outside of the lab
+	UNH Collaboration Meeting
+	UNH Collaboration Meeting
+	UNH Collaboration Meeting
+	Designed mount for temperature sensors
+	Talked with Sarah about locating vendors and machining parts for the AMI temp. sensor mounts
+	Maintenaince running of the roots pumps
+	Dry run-through of AMI cool-down to put together a list of yet-needed parts
+	Finalized design for temp sensor mount
+	Began pricing final equipment needed before cool-down
+	Made measurements of top of cryostat to mount a vacuum plate onto
+	Finished list (minus regulators and Cernox mounts) of items needed and sent to Karl
+	Organized incoming equipment into the lab
+	Met with Karl to discuss final touches before cool-down, possible NSF MRI proposal, and future work
+	Put together new Magnet To-Do list
+	Talked with AirGas about coming in to look at our set-up
+	Maintence run of the roots pump
+	Set date for cryostat installation
+	Contacted Ideal Vacuum Products to find a top plate for the cryostat that we could machine to fit
+	UNH Collaboration Meeting
+	UNH Collaboration Lunch Meeting
+	UNH Collaboration Meeting
+	UNH Collaboration Lunch Meeting
+	Local UNH Collaboration Meeting
+	Meeting in the lab with Harry Nordyke from AirGas about equipment we need
+	Meeting with Harry and Karl, continuing conversation about equipment
+	Got in contact with the director of the Morse Machine Shop about building a top plate for the cryostat
+	Created CAD drawing of the cryostat top plate that we need to order
+	Revisited the CAD drawing of the cryostat top
+	Meeting with Zain about his progress with the thermocouples
+	Finished CAD design for the cryostat cap
+	Put together a checklist for the installation of the AMI solenoid
+	Meeting with Kevan Carpenter at the Kingsbury Machine Shop to discuss machining the cryostat top plate
+	Researched the structural integrity of polycarbonate at cryogenic temperatures
+	Began installing solenoid into the AMI cryostat
+	Pulled out magnet internals
+	Measured LHe sensor length
+	Installed solenoid onto bottom plate
+	Attempted to solder solenoid, but it didn't go work
+	Undid solenoid soldering
+	With help from Jim Williams, soldering the two bus bar-to-lead joints
+	Finished installing the AMI magnet
+	Set the AMI magnet to where it's going to stay
+	Uploaded pictures from the magnet installation to Flickr
+	Drew up CAD drawing of thermometry stick
+	Drew up CAD drawing of one of the custom blocks
+	Drew up CAD drawing of the second custom block
+	Returned dolly to Morse and picked up the newly-machined cryostat top plate (Meeting)
+	Edited the machining work order to fit within our budget
+	Re-drilled holes on cryostat top plate so that they weren't threaded
+	Picked up second set of machined parts for the AMI magnet
+	Installed the power supply cables for the AMI magnet
+	Cleaned up the lab to prepare for cooldown
+	Had a surprise shipment of cryogens -- working on figuring out what to do
+	Worked with Zain on testing the thermocouples with liquid nitrogen
+	Tested the cryostat top plate under pressure at LN2 temperature
+	Worked with Zain to see about getting the thermocouples working on the iTC
+	Local UNH collaboration meeting
+	Local UNH Collaboration Meeting
+	Virtually attended Zain's end-of-semester summary talk
+	Prepared gaseous He hose for cool down later this week
+	Preppared lab for installation of cylinder wall mounts
+	Tested new Hall probe
+	Installed mount for gas cylinders in the lab
+	Tested out various aspects of the gaseous helium tank and pressurizing the cryostat
+	Pre-Cooled the AMI magnet with LN2 and left sit overnight
+	Blew out LN2 from AMI magnet
+	Went through video recording of the LN2 blow-out
+	Surveyed Karl's work rearranging the lab
+	Ran a few tests of the new Hall probe
+	Set up a second camera in the lab to record the magnet's resistance as it warms
+	Tested Roots pumps
+	Made sure that the camera was working down in the lab, and cleaned up some while I was there
+	Check and restarted camera in the lab looking at magnet resistance 
+	Did some work with Karl on the Bradley-Ryan resistors
+	Reset camera in the lab
+	Worked on AMI thermometry
+	Worked on AMI thermometry
+	Worked on AMI thermometry
+	Worked on AMI thermometry
+	Worked on AMI thermometry
+	Liquid nitrogen pre-cool of AMI magnet
+	Worked on calibrating AMI thermometry
+	Blew out LN2 from the cryostat to prepare for LHe fill
+	Filled the AMI cryostat with LHe
+	AMI LN2 pre-cool to test Cernox at 77 K
+	Cleaned up the lab a bit and recorded current AMI temperature readings
+	Meeting with Zain to fill him in on the cool-down and his new projects: digitizing our run sheets and getting LabView working
+	UNH local collaboration meeting
+	Transferred all video files from the cool-down onto the big 2TB hard drive
+	Moved the turbopump back into the senior lab
+	Cleaned up our lab a bit
+	Put together a nicer version of the AMI magnet's pins and wire color coding
+	Drafted UNH DNP wiki page on the NPG's wiki
+	Fixed Zain's spreadsheet of the recent cool-down
+	Did breif analysis of the data in the cool-down spreadsheet
+	Contacted and got an update with Oxford regarding the broken temperature sensor card
+	Local UNH collaboration meeting
+	Went through cool-down video to add more LHe level meter points to understand the slopes
+	Continued analyzing cool-down data
+	Calculated the LHe loss rates from the cool-down analysis data
+	Meeting with Zain about his URC poster
+	UNH Collaboration Meeting
+	Second UNH Collaboration Meeting
+	Meeting with Justin about the Q Meter
+	UNH Collaboration Meeting
+	Second UNH Collaboration Meeting
+	Meeting with Zain about his URA proposal
+	Meeting with Zain to discuss his URA proposal
+	UNH Collaboration Meeting
+	Installed new Temperature Sensor into the iTC -- It works!
+	Read through and commented on Zian's URA proposal
+	Met with Zain to discuss in depth his URA proposal
+	Read through and commented on Zain's URA proposal changes from last night
+	Worked with Zain to finalize his proposal
+	Worked with Zain A LOT to finalize his proposal
+	Made final comments on Zain's URA proposal
+	Put the magnetic field mapping from the January cool-down into plots
+	UNH Collaboration Meeting
+	Looked into systems needed for DNP-in-solution
+	Meeting with Hugh Bishop from CPI
+	Epscor grant meeting
+	Long Epscor grant meeting
+	Maintenance run on the pumps
+	Wrote paragraph of DNP in solution for medical applications for the DOE proposal
+	Meeting with Zain
+	Cleaned up Zain's LabView software a bit and am letting it run for awhile
+	Updated Karl on the work that Zain and Justin have been doing
+	Maintainance run on the roots pumps
+	Tested water chiller in the lab (to be used to cool the microwave) 
+	Read through and commented on Zain's URA paper draft
+	UNH Collaboration Meeting
+	Inquired Microstock about the tools needed for UT-85 cable handling
+	UNH Collaboration Meeting
+	Commented on Zain's URC poster
+	Added vendors to equipment list for EPSCOR grant
+	Commented on Zain's poster
+	Meeting with Zain on his poster
+	Put together b1 and Azz plots for the EPSCOR grant proposal
+	Meeting with Zain about his URC poster
+	UNH Collaboration Meeting
+	Meeting with Zain to talk about his poster
+	Double-checking Zain's work for the poster
+	Meeting with Zain to help him with his poster
+	Made final comments on Zain's poster
+	Meeting with Zain to finish his poster
+	UNH Collaboration Meeting
+	Brought new microwave into the lab and inspected it for damage
+	Went to URC to support Zain
+	Went through the lab and isolated all equipment that is ours from that which isn't
+	Put in request for quote of Teledyne Storm cables
+	UNH Collaboration Meeting
+	Put together order for UT-85 cable
+	Meeting with Zain
+	Installed new temp/humidity sensor in the lab
+	Checked the lab for tomorrow's (potential) move
+	Checked out the progress in the lab of moving out old equipment
+	UNH Collaboration Meeting
+	Helped Chris, an undergrad in engineering, determine if our gausmeter could be used for his project
+	Adjusted lab humidity meter and set up dehumidifiers
+	Sent in quote request for UT85 cable
+	Planning UVA Cool-down trip
+	UNH Collaboration Meeting
+	Booked UVA Cool-down trip
+	Put in order for cryowire
+	Meeting with Zain and Karl to figure out his summer projects
+	UNH Collaboration Meeting
+	Helped Zain in the lab
+	Prepped the lab for student visit on Friday
+	Cleaned up the electronics rack in the lab
+	Grabbed cryostat electronics feedthrough measurements to order a new connector
+	Tinkered with the Q-meter
+	Played with the Q-meter a bit
+	Gave tour of the lab to teachers coming in
+	Moved everything on the Windows box from XP to Win7
+	Set up github in the lab
+	Got GPIB working through the network again
+	UNH Collaboration Meeting
+	Set up Win7 box to run Win7, github, and THUM on start-up
+	Worked with Zain on getting the CCS calibration working
+	Played around with the Q-meter
+	Meeting with Karl and Zain to plan the next magnet lift
+	(Unsucessfully) attempted to separate the strands of cryowire
+	Looked into the Q-meter some more
+	Trying to figure out how the Q-meter works
+	Learning how to design circuit boards
+	Working on understanding the Q-meter
+	Worked on understanding the Q-meter
+	Attempted to pick up the lift, but John wasn't there
+	Travelled to UVA for their cool-down
+	Took part in the UVA cool-down
+	Took part in the UVA cool-down
+	Took part in the UVA cool-down
+	Travelled back to New Hampshire
+	Picked up magnet lift
+	Put in last quote for semi-rigid NMR cable
+	UNH Collaboration Meeting
+	Read through SBIR/STTR call for proposals
+	Trying to source NMR parts
+	Meeting with Karl to discuss potential to apply for STTR grant
+	Set up the UVA fridge that arrived in the lab
+	Looking up prices and getting quotes for lab equipment
+	Put together diagram for the microwave subsystem
+	Put together an item list for the microwave subsystem
+	Pushed for Karl to place the order with Teledyne for the NMR cable
+	Prepping the UVA crate for shipping
+	Working with Millitech to get a quote for the microwave subsystem
+	Shipped the fridge crate back to UVA
+	UNH collaboration meeting
+	Put together english version of the fridge schematics
+	Sourced more equipment for the lab
+	Put together master list of the equipment we've purchased for the lab
+	Meeting with Makenzie to show him the lab
+	Prepared information that Makenzie will need for getting started
+	Put together examples of what Makenzie will be making for his first few weeks in the lab
+	Made test piece of NMR cable
+	Preparing information for Makenzie
+	Gave Makenzie introduction to the lab and what we need him to do
+	Checked on the progress that Makenzie is making on the NMR cable
+	Unboxed NMR cable from Teledyne
+	Sourced the remaining items we need to finish the NMR subsystem
+	Sourced replacement for 19-pin connector on the cryostat
+	Read and commented on Zain's URA paper
+	Put together a list of items that need to be done in the lab, and figured out the next projects for everyone to work on
+	Worked on setting up computer for Peter Sieg, the high school student that will be joining us this semester
+	UNH collaboration meeting
+	Set up SciPy on the Mac Mini in the lab for Peter's use
+	Put together simple python fitting script that can be used as-is to get Peter started tomorrow
+	Got Peter started up in the lab
+	Installed variable capacitor in the Q meter
+	Put together order for making our own PCBs
+	UNH Collaboration Meeting
+	Read and commented on Zain's URA paper
+	Worked on testing the Q meter with the proton cable
+	Read through and followed up on information about the HP 432A Power Meter
+	Trying to source a power head for the microwave system
+	Worked on setting up the Q meter
+	Played with the Q meter to try and get the first diode signal working
+	Worked on Q meter with Ryan and Makenzie
+	Worked on Q meter with Ryan and Makenzie
+	Worked on Q meter with Ryan and Makenzie
+	UNH Collaboration Meeting
+	Worked on figuring out the Q meter
+	Worked on Q meter
+	Continued working on the Q meter
+	Attempted to dig up information on competing MMW power supply company (not CPI)
+	Contacted Pulse Systems, Inc. (the Not CPI company) with details on our EIO tube for a power supply quote
+	Worked on the Q-meter
+	GOT THE Q-METER WORKING!!!!
+	Worked on the Q meter
+	Worked on the Q meter
+	Got the first visible "proton" signal from the Q-meter, proving that it is doing what it's supposed to
+	UNH Collaboration Meeting
+	Worked on Q meter 
+	Meeting with Karl about where we are
+	Got Q meter working with 32 MHz oscillator
+	Went over the status of the helium fridge with Karl
+	Trying to source mating piece to helium fridge large vacuum port
+	Put together layout of the lab post-rearranging
+	UNH collarboation meeting
+	Rearranged lab space
+	Found alternative PCB board software that will print larger sheets
+	Tested vacuum pump for the helium fridge
+	Tested vacuum gauge in the lab
+	UNH Collaboration Meeting
+	Worked on designing Helium fridge-to-Roots pump connector
+	Meeting to go over helium fridge mount plans with Karl
+	Got quote for modifying the helium fridge vacuum port

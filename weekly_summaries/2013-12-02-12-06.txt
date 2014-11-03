@@ -1,0 +1,44 @@
+Weekly Summary
+
+12/2/2013 - 12/6/2013
+
+EG4
+EG4 Meeting
+Continuing to debug recsis/user_ana so that it can run on the interactive farm
+
+
+g2p
+Local UNH collaboration meeting
+g2p Meeting
+
+
+b1
+Prepared gaseous He hose for cool down later this week
+Preppared lab for installation of cylinder wall mounts
+Tested new Hall probe
+Installed mount for gas cylinders in the lab
+Tested out various aspects of the gaseous helium tank and pressurizing the cryostat
+Pre-Cooled the AMI magnet with LN2 and left sit overnight
+Blew out LN2 from AMI magnet
+Went through video recording of the LN2 blow-out
+
+
+Quasi-Elastic
+Put together travel request form and sent it to Karl
+Attempting to get the MCEEP utilities to run on a 64 bit system
+Updated flight information for Hall A Collaboration Meeting trip
+Trying to get MCEEP ntuple files to open in ROOT
+Quasi-Elastic Meeting
+Finalized travel plans for Hall A Collaboration Meeting
+
+
+Job Issues
+Put together monthly summary
+Prepared UNH laptop for Toby's use
+Received training for ODH monitors (meeting)
+
+
+Other
+oSTEM TWG Meeting
+
+

@@ -1,0 +1,39 @@
+Weekly Summary
+
+6/3/2013 - 6/7/2013
+
+EG4/g2p
+Local g2p meeting
+EG4 Meeting
+Worked on averaging drift uncertainty in sysematic band
+g2p Meeting
+
+
+b1
+Made Azz plots for Dustin that contain new drift estimates
+Incorporated the new drift estimates into the rebinned-x plots
+Redid Azz and b1 plots for Pzz=20% and 40% for the TAC response
+Edited new systematics into Azz Rates technote
+Worked on b1 Defense talk
+b1 Meeting
+Worked on updating the PAC defense talk
+Worked on making new plot estimates -- having difficulty with the Pzz=30 plots (The systematic band doesn't seem right)
+
+
+Quasi-Elastic
+Quasi-Elastic Meeting
+Finally got the analyzer working!!!
+
+Job Issues
+Set up UNH Ultrabook to prepare it for the PAC
+Prepping ultrabook for travel
+Continuing to prep computer for travel (antivirus)
+Contacted ReadyTalk about captioning -- they use Colorado Captions
+
+
+Other
+LGBTPhys GO meeting
+
+
+
+

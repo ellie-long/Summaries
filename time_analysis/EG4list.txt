@@ -1,0 +1,142 @@
+	EG4 Meeting
+	Eg4 Meeting
+	EG4 Meeting
+	Gained access to /work/clas/claseg4 workspace
+	EG4 Meeting
+	Began looking at EG4 *.root files
+	EG4 Meeting
+	EG4 Meeting
+	EG4 Meeting
+	Began looking through the EG4 data
+	EG4 meeting
+	EG4 Meeting
+	EG4 meeting
+	EG4 meeting
+	EG4 Meeting
+	EG4 Meeting 
+	Played with EG4 data, attempted to create Q^2 and x
+	EG4 Meeting
+	EG4 Meeting
+	EG4 Meeting
+	Playing with EG4 data
+	Mapped out EG4 masses for different particle tags
+	Updated EG4 Wiki with what I was playing with yesterday
+	Continued looking at EG4 data
+	Working more on EG4 kinematics
+	Added more plots to EG4 site
+	Double-checked 2GeV run plots against a previous talk -- they seem to make sense, so the variables I'm using seem correct
+	Added new mass plots to EG4 wiki
+	Began playing with GSIM
+	EG4 Meeting
+	EG4 Meeting
+	EG4 meeting
+	EG4 Meeting
+	EG4 Meeting
+	EG4 Meeting
+	EG4 Meeting
+	Set up gsim, root, and analyzer on the new ifarm CENT OS 6.2 system
+	Played with gsim, attempting to understand Marco's e-mail
+	Figured out why all of my EG4 runs from the weekend failed
+	Fixed EG4 simulation problem and resubmitted the jobs to the farm
+	EG4 Meeting
+	Played a bit with Marco's EG4 simulation code and submitted a number of jobs to the farm to play with
+	EG4 Meeting
+	Attempted to get GSIM working on CentOS 6.2
+	Trying to fix gsim on CentOS 6.2
+	gsim not running due to library compilation errors on mysql -- attempted to get mysql working to see if that fixes the problem
+	EG4 Meeting
+	Set EG4 ifarm CentOS 6.2 to the newest working (test3) gsim
+	Changed batch farm OS to CentOS 6.2 and submitted new jobs
+	EG4 Meeting
+	Reached out to Marco to figure out how to test that gpp and RECSIS are working correctly
+	EG4 Meeting
+	EG4 Meeting
+	EG4 Meeting
+	EG4 Meeting
+	EG4 Meeting
+	EG4 Meeting
+	Testing that my gsim code still works on the new CentOS
+	EG4 Meeting
+	Looked at results (errors) from EG4 submission last week and summarized them on the EG4 wiki
+	EG4 Meeting
+	EG4 Meeting
+	Worked on fixing the EG4 software on CentOS 6.2
+	EG4 Meeting
+	Continuing to debug recsis/user_ana so that it can run on the interactive farm
+	Attempted Marco's user_ana test, but it didn't work
+	EG4 Meeting
+	EG4 Meeting
+	EG4 Meeting
+	EG4 Meeting
+	Responded to Lamiaa's questions regarding user_ana
+	Played with Lamiaa's new eg4 environmental variables
+	EG4 Meeting
+	Wrote down all of my starting position for where I am in regards to the EG4 software
+	Worked with Lamiaa a bit to see if I can get all of the Hall B software running
+	Cleaned up my $PATH variable on the JLab ifarm to only include things I know I'm using
+	Wrote up the user_ana fix on the EG4 wiki 
+	Looked at results from last night's EG4 recsis run on job.shell_1
+	EG4 Meeting
+	Running EG4 job_launch script to see if it gives usable results
+	Played around with steg_e2a files to try and get a simulation running for EG4
+	EG4 meeting
+	Made some edits to job.shell producing script, testing to see if it works
+	Looked into EG4 simulation problems
+	Checked on status of EG4 simulation running
+	Looked into EG4 runs from last week and submitted test simulations
+	EG4 Meeting
+	Catching up with the last thing I worked on for EG4
+	EG4 Meeting
+	Continuing running through steg job steps to see where the hold-ups are
+	EG4 Meeting
+	Troubleshooting steg files with Lamiaa
+	Continuing to trouble-shoot EG4 problems
+	Wrote up wiki entry for today's EG4 Meeting
+	EG4 Meeting
+	Running through steg software again to see why it's not creating output histograms
+	EG4 Meeting
+	Continuing parsing through the steg code to find why it's not plotting any histograms
+	Continued to go through steg code to find bugs
+	Worked on figuring out what's wrong with user_ana
+	Wrote up wiki with findings of what's wrong with user_ana, but still no conclusions
+	EG4 Meeting
+	Got user_ana working! (I think...)
+	Running full simulation run to test user_ana
+	EG4 Meeting
+	Continued doing test run of EG4 simulation
+	EG4 Meeting
+	EG4 Meeting
+	EG4 Meeting
+	Testing EG4 analysis with new prlink definitions that Lamiaa gave me
+	EG4 Meeting
+	Trying to go through EG4 fix, but having problems with ifarm being shut down repeatedly
+	Going through EG4 process to see if prlinks update fixed the problems
+	GOT STEG WORKING!!!1!!!(*@&!!!1!
+	Double-checking results from steg simulation from last week
+	Added recent EG4 success to wiki
+	EG4 Meeting
+	Set up BlueJeans meeting for EG4 and prepared e-mail to go out on Monday
+	Fixed steg problem where ntuple was empty, then submitted steg jobs
+	Checked results of steg farm runs
+	Fixed problem in steg farm runs where it was using the wrong tcl file and not outputting all of the correct files
+	EG4 Meeting
+	Looking into why the steg runs are failing on the farm but work locally
+	Working through steg to find out why the farm submissions aren't working
+	Continuing debugging steg batch farm script
+	EG4 meeting
+	EG4 meeting
+	Worked on comparing steg output to EG4 data for 2.2GeV using Golden Run 51111
+	Wrote up the comparison on the EG4 wiki
+	EG4 Meeting
+	EG4 Meeting
+	EG4 Meeting
+	Working on understanding how to compile the Steg code
+	Worked on understanding how to compile Steg
+	EG4 Meeting
+	Very long EG4 meeting
+	EG4 meeting
+	Got gemc installed
+	Played with gemc to start learning how it works
+	Trying to figure out if there's a way to convert GSIM to gemc
+	Meeting with Maurik about feasibility of CLAS6 in gemc
+	EG4 Meeting

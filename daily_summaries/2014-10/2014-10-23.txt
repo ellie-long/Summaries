@@ -1,0 +1,10 @@
+Daily Summary
+
+10/23/2014
+
+Finished installing Geant4
+Tested vacuum gauge in the lab
+Learning how to program in Geant4
+Setting up JLab software and gemc 
+
+

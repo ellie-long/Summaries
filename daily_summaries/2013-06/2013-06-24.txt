@@ -1,0 +1,11 @@
+Daily Summary
+
+6/24/2013
+
+Local g2p meeting
+Updated the backlog of lab temperature and humidity data
+Recompiled ellana directory so that I can analyze runs locally
+Trying to figure out bbftp so that I can transfer raw data files from JLab to UNH
+
+
+

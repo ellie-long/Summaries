@@ -1,0 +1,12 @@
+Daily Summary
+
+2/21/2013
+
+Found out that we need to move the milling machine and the mass spectrometer out of the lab, preferably today
+Came up with a plan to move them so that the magnet will still be able to fit through the hall
+Got the wireless network working in the lab
+Moved the milling machine and the mass spectrometer into the hallway
+Filled out surplus form for the spectrometer -- for future notice, our department is Physics and the BSC is CEPS (College of Engineering and Physical Sciences)
+Figured out how git works and used it to version control my batch/inputs/neutron_hunt files
+Attempted (and failed) to try and figure out a way that I can process Ay0 *.root files from off-site
+

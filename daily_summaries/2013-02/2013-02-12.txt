@@ -1,0 +1,12 @@
+Daily Summary
+
+2/12/2013
+
+Backed-up JLab website locally to make uploads for it easier in the future
+Figured out sizes needed to transport UVA magnet
+Measured lab space where UVA magnet is going to end up so that it fits
+Played with error estimate for QE Ay0 Q2=0.5 point, trying to find the best way to present the data
+Checked out different groupings of QE Ay0 Q2=0.5 data to try and get the best error bars
+Finished measuring maximum size that the target has to fit through (1.30m x 2.39 m x 1.943 m)
+Played around some more with the QE Ay0 Q2=0.5 data to figure out how to best handle the uncertainty
+

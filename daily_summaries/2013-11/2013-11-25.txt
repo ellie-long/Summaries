@@ -1,0 +1,13 @@
+Daily Summary
+
+11/25/2013
+
+Local UNH Collaboration Meeting
+Worked with Zain on testing the thermocouples with liquid nitrogen
+Tested the cryostat top plate under pressure at LN2 temperature
+Installed MCEEP and attempted to understand how to run and analyze a test run on it
+Worked with Zain to see about getting the thermocouples working on the iTC
+
+
+
+

@@ -1,0 +1,10 @@
+Daily Summary
+
+8/8/2013 
+
+Recorded yesterday's temp/humidity data
+Wrote script to automatically merge necessary files to get asymmetries
+Organized incoming equipment for the lab
+Organized next LGBTPhys-GO meeting
+Finalizing Ay0 Q2=0.1 results
+

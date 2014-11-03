@@ -1,0 +1,13 @@
+Daily Summary
+
+9/18/2013
+
+g2p Meeting
+Edited b1 rates code to properly plot the kinematics when only a single spectrometer is being looked at
+Scanned over both Q2 and incoming beam energy ranges with b1 rates code
+Added results to b1 wiki
+Routine mainetaince run on the roots pump
+Measured noise level (dB) of the pumps at various locations inside and outside of the lab
+
+
+

@@ -1,0 +1,11 @@
+Daily Summary
+
+6/28/2013
+
+Updated LinkedIn CV
+Added new mass plots to EG4 wiki
+Began playing with GSIM
+Looked at Yawei's analysis to figure out if it's worth redoing my code
+Working on using awk to integrate counts and Ch/LT information so that I don't have to reply on copy/pasting it in OpenOffice spreadsheets
+
+

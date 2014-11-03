@@ -1,0 +1,11 @@
+Daily Summary
+
+2/11/2013
+
+Figured out UNH time sheets
+UNH Meeting for g2p
+Checked out results of QE bug-squashing
+Figured out what progress has previously been made with the UVA magnet so that I can take over getting it here
+Worked on QE Ay0 Q2=0.5 data in a final attempt to local the discrepencies
+Set up UNH webpage (http://nuclear.unh.edu/~elong)
+

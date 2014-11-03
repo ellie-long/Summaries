@@ -1,0 +1,37 @@
+Weekly Summary
+
+3/4/2013 - 3/8/2013
+
+Structure Functions
+Local g2p meeting
+Secured GPIB cabling in the electronics rack
+Looking into where the LN2 and LHe probes are/if we have them
+Signed up for manual support at mymercurysupport.com to find out what type of ILM LN2 level probe we need (there are multiple types without descriptions of their differences)
+Attempted to figure out what type of LN2 and LHe level probes we need -- in progress
+Continued looking into pricing of hoists and I-beams
+Called Oxford Instruments and found out what we need for N2/He probes
+EG4 Meeting
+b1 Meeting
+Measured the diamater of the holes in the AMI magnet to make sure that a N2 probe will fit into it
+Continued putting together list of items needed for a summer cool-down of the AMI magnet
+Organized cryogen transfer lines onto a rack
+Finalized list of items needed for magnet cooldown -- need to look into specific measurements for a few items yet
+g2p Meeting
+
+Quasi-Elastic
+Repeating the process done for QE Ay0 Q2=0.5 for 0.1 and 1.0 (GeV/c)^2 so that all the systematic uncertainties are done the same way
+Put together website for Quasi-Elastic meeting
+Quasi-Elastic meeting
+Made edits to Ay0 paper
+Included new charge and lt information for Q2=0.1 and 1.0 to run-by-run spreadsheet
+
+Job Issues
+Added # tags to all previous ELog entries to make finding non-summary posts easier
+
+Other
+oSTEM TWG Meeting
+LGBTPhys-Org General Organizers' Meeting
+Showed Chris (potential new grad student) around the lab
+oSTEM-TWG call
+
+

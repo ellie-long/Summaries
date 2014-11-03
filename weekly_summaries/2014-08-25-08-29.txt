@@ -1,0 +1,49 @@
+Weekly Summary
+
+8/25/2014 - 8/28/2014
+
+
+EG4
+Worked on comparing steg output to EG4 data for 2.2GeV using Golden Run 51111
+Wrote up the comparison on the EG4 wiki
+
+
+g2p
+g2p Meeting
+
+
+UNH Lab
+UNH collaboration meeting
+Put together english version of the fridge schematics
+Sourced more equipment for the lab
+Put together master list of the equipment we've purchased for the lab
+
+
+b1
+
+
+Azz
+
+
+Quasi-Elastic 3He
+
+
+Conference Planning
+Edited Tensor Workshop proceedings
+Edited Tensor Workshop proceedings
+Edited Tensor Workshop proceedings
+Edited Tensor Workshop proceedings
+Finished editing Tensor Workshop Proceedings that were submitted
+
+
+SysAdmin
+Troubleshooting library problems that Ryan is having
+
+
+Job Issues
+Put together summary of STTR LOI process for Karl
+
+
+Other
+
+

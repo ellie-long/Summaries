@@ -1,0 +1,48 @@
+Weekly Summary
+
+2/25/2013 - 3/1/2013
+
+Structure Functions
+Called Facilities to move the magnet -- they're working on figuring out who's in charge of the crank hoist and will get back to me later to scheduling the pick up
+Local g2p meeting
+EG4 Meeting
+Got the padding out from underneath the magnet
+Rearranged the lab to give us a bit more space
+Made sure that all items that are on the magnet packing slip actually arrived (There are three items I want Karl to double-check)
+Read AMI magnet manual
+Cleaned up workspace in the lab
+Installed Oxford Intsruments cards into the Mercury tCI box
+Scanned AMI Magnet manual into PDFs
+Began testing the Oxford Instruments cards
+Created *.pdf file of the AMI Magnet manual
+Collaboration g2p meeting
+Cleaned up the rack in the lab
+Figured out what it would take to lift the magnet internals out of the dewar
+
+Quasi-Elastic
+Tried to change how QE analysis script runs so that I can run it from the UNH desktop
+Attempted to reinstall ROOT using gcc 4.6 so that I can use parallel threading (#pragma, openMP) -- Failed
+Left ROOT compiling last night -- no go, it still is freezing at libPyRoot.o
+Got updated charge and livetime information from Q2=0.1 Ay0 data
+In process of getting updated charge and livetime information from Q2=1.0 Ay0 data
+Still attempting to recompile ROOT, still failing. It works fine with gcc 3.4, but I need it to work with 4.6 so that I can use parallel threading. :-P
+Updated QE website for meeting
+Quasi-Elastic meeting
+Met with Yawei to help him use InkScape
+Edited Ay0 vs nu plots in Ay0 paper
+
+New Job Isssues
+Inquired how to receive training to use the Machine Shop (DeMerritt 109)
+Put in key request form for DeMerritt 109
+Signed up for benefits
+
+Other
+LGBTPhys-Org BPG meeting
+Took care of small LGBTPhys-Org BPG items
+Copied BPG from Google Docs into LaTeX
+Final read-through of the BPG as a whole
+
+
+
+
+

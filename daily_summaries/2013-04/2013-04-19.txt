@@ -1,0 +1,11 @@
+Daily Summary
+
+4/19/2013
+
+g2p Meeting
+Playing with b1 rates spreadsheet
+Updated labbook with the work I've been doing
+Began implementing He and N cross sections into spreadsheet
+Working on figuring out how dAzz is calculated from the rates
+
+

@@ -1,0 +1,116 @@
+Monthly Summary
+
+1/2014
+
+EG4
+	EG4 Meeting
+
+
+g2p
+
+
+UNH Lab
+	Worked on AMI thermometry
+	Worked on AMI thermometry
+	Worked on AMI thermometry
+	Worked on AMI thermometry
+	Worked on AMI thermometry
+	Liquid nitrogen pre-cool of AMI magnet
+	Worked on calibrating AMI thermometry
+	Blew out LN2 from the cryostat to prepare for LHe fill
+	Filled the AMI cryostat with LHe
+	AMI LN2 pre-cool to test Cernox at 77 K
+	Cleaned up the lab a bit and recorded current AMI temperature readings
+	Meeting with Zain to fill him in on the cool-down and his new projects: digitizing our run sheets and getting LabView working
+	UNH local collaboration meeting
+	Transferred all video files from the cool-down onto the big 2TB hard drive
+	Moved the turbopump back into the senior lab
+	Cleaned up our lab a bit
+	Put together a nicer version of the AMI magnet's pins and wire color coding
+	Drafted UNH DNP wiki page on the NPG's wiki
+	Fixed Zain's spreadsheet of the recent cool-down
+	Did breif analysis of the data in the cool-down spreadsheet
+
+
+b1
+	Worked on AMI magnet
+	Worked on AMI magnet
+	Cleaned up the lab some
+	Took a few measurements of the remaining LHe
+	Meeting with Karl about where we're headed in February
+
+
+Azz
+	Began putting together Azz proposal
+	Put together nice Azz plots for the Azz proposal
+	Continued working on Azz proposal
+	Worked on Azz proposal
+	Struggled with TexMaker to get everything to compile correctly
+	Continued working on Azz proposal
+	Worked on the Azz Proposal
+	Worked on Azz proposal
+
+
+Quasi-Elastic 3He
+
+
+Papers and Grants
+
+
+Conference Planning
+	Tensor Polarized Workshop Meeting
+	Designed mock-up poster for Tensor Polarized Workshop
+	Tensor Workshop meeting
+	Meeting with Karl about PYS, Tensor Workshop, and February's goals
+	Submitted PTHC proposal
+	Meeting with Doug to prioritize Tensor Workshop speakers
+	Drafted invitation letters for Tensor Workshop speakers
+	Sent invitation letters for the Tensor Workshop speakers
+	Tensor Workshop Meeting
+	Sent the Tensor Workshop poster draft to be pretty-fied
+
+
+SysAdmin
+
+
+Job Issues
+	Wrote Zain a letter of recommendation for the SULI program
+	Edited time analysis work to include 2014 (and arbitrary number of future years)
+	Uploaded photos and videos from the cooldown to the Flickr page
+	Machine shop training
+	Machine shop training
+	Machine shop training
+	Got caught up on e-mails that were left in limbo during the cooldown
+	Machine shop training
+	Got caught up on daily, weekly, and monthly summaries
+	Worked on PYS talk
+	Brought in physics books to office
+	Worked on PYS talk
+	Worked on PYS talk
+	Worked on PYS talk
+	Worked on PYS talk
+	Worked on PYS talk
+	Flew to Winnipeg, Manitoba, Canada
+	Worked on PYS talk
+	Met with a number of people from the U of Winipeg
+	Met with a number of people from the U of Manitoba
+	Mock interviews all over the place
+	Met with more U of Manitoba faculty
+	Gave PYS colloquium
+	Flew back from Winnipeg to NH
+	Filled out reimbursement form for PYS trip to Manitoba
+	Got caught up on daily summaries from last week's trip
+	Completed and returned the PYS evaluation
+	Updated CV to include PYS talk, as well as add previous funding that I received from outside sources
+	Took care of a slight mix-up with the hotel receipts for the PYS trip
+	Added a few new categories to my time analysis script
+	Began RCR training for NSF grants
+	Continued RCR training modules
+
+
+Other
+	oSTEM TWG Meeting
+	Car inspection
+	Troubleshooting computer since it's having problems updating
+
+

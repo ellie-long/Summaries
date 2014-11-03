@@ -1,0 +1,54 @@
+Weekly Summary
+
+11/3/2013 - 11/8/2013
+
+EG4
+Testing that my gsim code still works on the new CentOS
+EG4 Meeting
+
+
+g2p
+UNH Collaboration Meeting
+g2p Meeting
+Really really long g2p Meeting
+UNH Collaboration Lunch Meeting
+
+
+b1
+Worked on NSF MRI proposal 
+Worked on proposal for NSF MRI
+Reading through older tensor-polarized papers
+Began writing a document to put all tensor-polarized formalism in the same space
+Meeting in the lab with Harry Nordyke from AirGas about equipment we need
+Meeting with Harry and Karl, continuing conversation about equipment
+Continued working on the formalism document
+Continued working on the JSA workshop proposal
+Worked on tensor-polarized formalism tech note
+Worked on JSA workshop proposal
+Worked on formalism tech note
+Worked on JSA workshop proposal
+Got in contact with the director of the Morse Machine Shop about building a top plate for the cryostat
+Created CAD drawing of the cryostat top plate that we need to order
+Meeting with Karl and Patricia about JSA Workshop proposal
+Meeting with Kathy Cataneo about MRI and grants
+Revisited the CAD drawing of the cryostat top
+Finished the JSA proposal and sent it around to potential collaborators
+Meeting with Zain about his progress with the thermocouples
+
+
+Quasi-Elastic
+Attempting to run quasi-elastic code again, since coming back from difficulties about a month ago
+
+
+Job Issues
+Received, configured, and figured out how to use assistive listening device
+Caught up on monthly, weekly, and daily reports since ELog was having trouble when I first tried to submit them
+Answered Adopt-a-Physicist questions (meeting)
+
+
+Other
+Meeting of the President's Commission on the Status of GLBT Issues
+Meeting with Ellen about Safe Zones in the physics department
+
+
+

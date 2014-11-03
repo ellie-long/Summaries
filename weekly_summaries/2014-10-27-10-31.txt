@@ -1,0 +1,59 @@
+Weekly Summary
+
+10/27/2014 - 10/31/2014
+
+EG4
+Meeting with Maurik about feasibility of CLAS6 in gemc
+EG4 Meeting
+
+
+g2p
+g2p Meeting
+
+
+UNH Lab
+UNH Collaboration Meeting
+Worked on designing Helium fridge-to-Roots pump connector
+Meeting to go over helium fridge mount plans with Karl
+Got quote for modifying the helium fridge vacuum port
+
+
+b1
+
+
+Azz
+
+
+Quasi-Elastic 3He
+Playing more with gemc
+Phone meeting with Doug
+Took out edge bars from Ay0 analysis code and resubmitted jobs
+Played with gemc some more
+Working with Maurizio on getting gemc to create magnetic fields
+Worked on understanding gemc magnetic fields
+Worked on Hall A gemc simulation
+Doing HAND analysis of recent Ay0 runs that made it through the farm
+WOrking on building Hall A in gemc
+Worked on Hall A in gemc
+Worked on Hall A in gemc
+
+
+Papers and Grants
+
+
+Conference Planning
+oSTEM conference preparation
+
+
+SysAdmin
+
+
+Job Issues
+
+
+Other
+
+
+
+
+

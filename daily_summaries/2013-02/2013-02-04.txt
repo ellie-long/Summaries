@@ -1,0 +1,14 @@
+Daily Summary
+
+2/4/2013
+
+Re-arranged workspace in lab into a user-friendly configuration
+EG4 Meeting
+Took care of payroll information
+Got UNH main e-mail working (elena.long@unh.edu)
+Familiarized self with ELog
+Got ELog working on unh1 machine
+It needs to run on an older version of Firefox -- there are connection issues with both the latest Chrome and Firefox
+It's running fine on Firefox 9
+Use the command "elog" to enter FF9 and be taken immediately to the log
+

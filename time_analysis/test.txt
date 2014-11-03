@@ -1,0 +1,17 @@
+	b1 Meeting
+	Set up git for the b1 proposal at https://github.com/ellie-long/b1_documents.git
+	Began looking through the rates information from Patricia
+	b1 Meeting
+	Inquired about structure of b1_rates folder from Patricia
+	Skype call with Patricia to go over how the rates code works
+	Attempting to translate fortran code to C++ so that I can read it easily
+	Played with b1_rates 
+	Played with b1 rates code -- succesfully translated qvec.f to qvec.cpp
+	Attempted to install GEMC to play with SoLID in GEANT4 -- failed
+	Working on the b1 cross sections to add LiD and (He+D)D
+	Attempted to find the densities of LiD and ND3 -- failed (but did find NH3 and LiH)
+	Played around with the b1 rates code to check the cross section between LiD and (HeD)D
+	Added lumi*sig calculations to ptrates code to see where the difference in rates b/t LiD & He2D are coming from
+	Continued looking into rates difference between LiD & He2D
+	Fixed LiD/He2D rates in b1 code & wrote up conclusions with all things being the same
+	Looked into D and N cross sections again

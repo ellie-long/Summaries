@@ -1,0 +1,10 @@
+Daily Summary
+
+9/23/2014
+
+Trying to figure out why Ay0 jobs that are not Q2=0.1 aren't submitting
+Worked on setting up computer for Peter Sieg, the high school student that will be joining us this semester
+UNH collaboration meeting
+Set up SciPy on the Mac Mini in the lab for Peter's use
+Put together simple python fitting script that can be used as-is to get Peter started tomorrow
+

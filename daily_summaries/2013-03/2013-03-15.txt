@@ -1,0 +1,11 @@
+Daily Summary
+
+3/15/2013
+
+Local g2p Meeting
+Replied to Adopt-a-Physicist questions
+Began looking through the rates information from Patricia
+Began looking through the EG4 data
+Cleaned up paper filesystem in Dropbox
+Set up static IP and ssh server to UNH box
+

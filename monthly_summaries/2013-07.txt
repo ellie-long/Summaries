@@ -1,0 +1,133 @@
+Monthly Summary
+
+7/2013
+
+EG4
+	EG4 Meeting
+	EG4 Meeting
+	EG4 meeting
+	EG4 Meeting
+	EG4 Meeting
+
+
+g2p
+	g2p Meeting
+	g2p Meeting
+	g2p Meeting
+	g2p Meeting
+
+
+UNH Lab
+	Local g2p meeting
+	Local g2p meeting
+	Local g2p meeting
+	Local g2p/Progress Report meeting
+	Recorded humidity data from the weekend
+	Contacted Katie and Facilities about the humidity problem down in the lab
+	Borrowed and set up dehumidifier from the Physics Library in the lab
+	Keeping a close eye on the humidity situation in the lab
+	Talked with facilities about getting dehumidifiers installed -- was told that two big ones are on their way (talked to James from HVAC Unit #2)
+	New dehumidifiers have been installed in the lab
+	Continuing to keep an eye on the humidity situation in the lab
+	Added last night's humidity data to the spreadsheet
+	Rearranged the lab so that the dehumidifiers could go on a desk near the sink
+	Bought and installed hoses onto the dehumidifiers so that they will drain into the sink
+	Set up the camera so that if the dehumidifiers shut off, the red blinking light that indicates that is visible in the view
+	Recorded indoor and outdoor humidities from the long weekend
+	Added yesterday's humidty data to the plot
+	Updated the humidity information
+	Rearranged the lab so that the dehumidifiers are no longer sitting on a wooden desk
+	Recorded humidity levels
+	Recorded humidity data
+	Added historical humidity and temperature data for April, May, and June
+	Updated humidity plots
+	Recorded humidity data
+	Updated temp/humidity data
+	Recorded temp/humidity data
+	Recorded the weekend's temp/humidity data
+	Reset camera in the lab due to a power outtage that started sometime between 4-5am
+	Recorded yesterday's temp/humidity data
+	Cleaned out dehumidifier air filters
+	Recorded temp/humidity data
+	Recorded temp/humidity data
+	Added yesterday's temp/humidity data
+	Recorded last week's lab temp/humidity
+	Recorded temp/humidity data from the weekend
+	Recorded yesterday's temp/humidity data
+	Recorded yesterday's temp/humidity data
+
+
+b1
+	Looked into possibilities for dipping into medical research that uses a polarized target
+	Read through NSF funding programs to see what is applicable for our target system
+	Began writing the NPG status report on b1
+	Worked on NPG Update Report for b1
+	Finished a draft of the NPG update for b1
+
+
+Azz
+
+
+Quasi-Elastic 3He
+	Worked on plotting Ay0 v. Run # using xmgrace instead of a spreadsheet (to help remove input errors)
+	Found errors in old spreadsheets by comparing to xmgrace plots
+	Editing the output of the 3He(e,e'n) Ay0 script to match that of 3He(e,e') so that the script I wrote yesterday is interchangable with each
+	Added proper uncertainty (instead of simple 1/sqrt(N)) to Ay0 run-by-run calculations
+	Put together Quasi-Elastic website for tomorrow's meeting
+	Quasi-Elastic Meeting
+	Ran Q2=0.5 Ay0 data through the new script
+	Ran Q2=1.0 Ay0 data through the new script
+	Getting raw data files off of the cache
+	Began transferring all Ay0 vertical raw datafiles to UNH machine
+	Prepared Quasi-Elastic webpage
+	Quasi-Elastic Meeting
+	Maintenance on Globus file transfer of Ay0 data from JLab to UNH
+	Submitted last of the Ay0 data to be transferred through GlobusOnline
+	Figured out how to run multiple replays in parallel!
+	Replaying Q2=0.1 Ay0 *.dat files with EDTM information
+
+
+Papers and Grants
+	Submitted Rates technote to JLab's technote page
+
+
+Conference Planning
+	Submitted oSTEM Proposal
+
+
+SysAdmin
+
+
+Job Issues
+	Took care of reimbursement questions
+	Helped clean out the Physics fridge
+	Meeting with Wendy and Karl about disability stuff
+	Got moderncv.cls working on LaTeX so that I can remake my CV using Linux so that I can apply to the Promising Young Scientist 
+	Fixed Michelle's computer
+	Began updating CV in LaTeX
+	Continued updating CV
+	Received key from Ryan for my new office
+	Set up new computer to work with UNH network and e-mail
+	Preparing office for move this afternoon
+	Moved into new office
+	Noticed the internet in the new office is 2 orders of magnitude faster than in the old office -- Patricia was informed
+
+
+Other
+	LGBTPhys-Org Physics Today Article meeting
+	Attended Parry's defense
+	oSTEM TWG Meeting
+	LGBTPhys-Org GO Meeting
+	Completed the Survey of Earned Doctorates
+	Went to the White House Office of Science and Technology Policy for a meeting with Kei Koizumi, the Assistant Director for Federal R&D
+	LGBTPhys-Org Poster Subcommittee meeting
+	Responded to Queer in STEM survey
+	Meeting with Tom Waidzunas who is working on an LGBT STEM survey
+	Worked on putting together my Promising Young Scientists package
+	Put together Research Statement for PYS award
+	Worked on other documents for PYS award
+	Wrote a Teaching Statement for PYS
+	Wrote Cover Letter for PYS
+	Finished putting together the entire PYS package (first draft)
+
+

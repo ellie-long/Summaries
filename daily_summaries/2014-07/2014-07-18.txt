@@ -1,0 +1,12 @@
+Daily Summary
+
+7/18/2014
+
+Debugging Ay0 charge/lt scripts
+Continuing debugging steg batch farm script
+Learning how to design circuit boards
+Working on understanding the Q-meter
+Charge/lt Ay0 script fixed, sending new Q2=0.1 batch to the farm
+Worked on understanding the Q-meter
+
+

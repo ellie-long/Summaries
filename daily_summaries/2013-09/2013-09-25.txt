@@ -1,0 +1,13 @@
+Daily Summary
+
+9/25/2013
+
+Installed calendar in the lab
+g2p Meeting
+Wrote up comparison between Azz for x>0.75 and x<0.75
+Ay0 submissions failed -- looked into why
+Fixed bug where Ay0 was crashing when defining event type
+Submitted new batch of Ay0 analysis to the farm
+
+
+

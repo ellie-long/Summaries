@@ -1,0 +1,39 @@
+Weekly Summary
+
+3/11/2013 - 3/15/2013
+
+Structure Functions
+Put together generalized list of items needed to cool down the AMI magnet this summer
+EG4 Meeting
+Called AMI and got specifics on fringe magnet fields, types of connectors and cables needed
+Found out what type of fittings we need to connect the LN2 transfer line to the blow-out tube (from 3/8'' NPT to 3/8" ID surgical tubing)
+Called hoist company about possibility of a cross-beam: Really expensive and probably not worth it
+Finalized list of items needed for summer AMI magnet cool-down
+Set up git for the b1 proposal at https://github.com/ellie-long/b1_documents.git
+Local g2p Meeting
+Began looking through the rates information from Patricia
+Began looking through the EG4 data
+
+
+Quasi-Elastic
+Quasi-Elastic Meeting
+Finished run-by-run systematic error analysis of Ay0 at Q2=0.1 and 1.0 (GeV/c)^2
+
+
+Job Issues
+Cleaned up paper filesystem in Dropbox
+Set up static IP and ssh server to UNH box
+
+
+Other
+Responded to Adopt-a-Physicist schools
+Put together final edits for LGBTPhys-Org BPG
+Finished LGBTPhys-Org BPG
+Obtained NH driver's license and applied for vehicle registration
+Answered Adopt-a-Physicist questions
+Replied to Adopt-a-Physicist questions
+
+
+
+
+

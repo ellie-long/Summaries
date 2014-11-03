@@ -1,0 +1,11 @@
+Daily Summary
+
+8/7/2014
+
+Finalized poster and sent for printing
+Removed SL6 and installed Ubuntu 14.04 LTS
+Setting up Ubuntu 14.04 LTS
+Getting auto_asym working on ifarm
+Set up vncviewer on unh1 to make analysis not fill up my working screens
+
+

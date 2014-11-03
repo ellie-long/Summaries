@@ -1,0 +1,11 @@
+Daily Summary
+
+3/2/2013
+
+Local g2p meeting
+Secured GPIB cabling in the electronics rack
+Looking into where the LN2 and LHe probes are/if we have them
+Signed up for manual support at mymercurysupport.com to find out what type of ILM LN2 level probe we need (there are multiple types without descriptions of their differences)
+Attempted to figure out what type of LN2 and LHe level probes we need -- in progress
+Continued looking into pricing of hoists and I-beams
+

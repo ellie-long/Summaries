@@ -1,0 +1,53 @@
+Weekly Summary
+
+9/16/2013 - 9/20/2013
+
+EG4
+Set EG4 ifarm CentOS 6.2 to the newest working (test3) gsim
+Changed batch farm OS to CentOS 6.2 and submitted new jobs
+EG4 Meeting
+
+
+g2p
+UNH collaboration meeting
+g2p Meeting
+
+
+b1
+Local b1 meeting
+Worked on b1 rates code to continue allowing for quasi-elastic and SRC-range physics
+Added more x bins (up to 11) to b1 rates code
+Edited b1 rates code to properly plot the kinematics when only a single spectrometer is being looked at
+Scanned over both Q2 and incoming beam energy ranges with b1 rates code
+Added results to b1 wiki
+Routine mainetaince run on the roots pump
+Getting kinematics for Azz in 0.75<x<1.8 region
+Added results to b1 wiki
+Checked that I already checked the cross section results against data
+Fixed the uncertainties to reflect the large asymmetry
+Estimated rates for a one-week-long Azz experiment
+Worked on Azz rates code and summary
+Azz Meeting
+Fixed rates estimate (they were about 10% too high)
+Cleaned up Azz rates code (removed ~1/3 of lines, all unnecessary)
+Scanned over W
+Uploaded results to b1 wiki
+
+
+Quasi-Elastic
+
+
+Job Issues
+Prepped the lab to move the milling machine out this morning
+Moved the milling machine into the machine shop
+Measured noise level (dB) of the pumps at various locations inside and outside of the lab
+Changed JLab, UNH, and UNH Physics passwords
+Caught up on old e-mails
+
+
+Other
+
+
+
+
+

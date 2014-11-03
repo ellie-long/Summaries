@@ -1,0 +1,11 @@
+Daily Summary
+
+2/21/2014
+
+Got flights & bus for the Tensor Workshop
+Continued looking into (e,e'p) measurement
+Played around with steg_e2a files to try and get a simulation running for EG4
+Looked into why Ay0 runs were failing, and re-submitted them slightly fixed
+Picked up book from the library on (e,e'p) scattering and read through it
+
+

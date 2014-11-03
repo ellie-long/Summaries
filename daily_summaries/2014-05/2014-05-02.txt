@@ -1,0 +1,10 @@
+Daily Summary
+
+5/2/2014
+
+Worked on figuring out what's wrong with user_ana
+Wrote up wiki with findings of what's wrong with user_ana, but still no conclusions
+Worked on smoothing out the "bump" in f_dil
+Trying to find out what wavefunctions to trust for the Azz calculations
+
+

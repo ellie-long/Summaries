@@ -1,0 +1,12 @@
+Daily Summary
+
+4/21/2014
+
+Made final comments on Zain's poster
+Meeting with Zain to finish his poster
+Played with gyroscopes some more to look at theta=90deg properties
+Looked at b1 and compared to proposal, to make sure that everything matches what we said it did
+Ran Pzz scan of x=0.4 optimized b1 code to find sigma from zero 
+Ran x scan for Azz
+UNH Collaboration Meeting
+

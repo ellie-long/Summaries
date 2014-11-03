@@ -1,0 +1,15 @@
+Daily Summary
+
+9/10/2013
+
+Added tag to find when I'm in me*etings to the time analysis code
+EG4 Meeting
+Played with b1 rates code to stake a claim on the x>1 measurement
+Completed first magnet lift
+Got measurements on the bottom plate for future thermometry stand
+Measured the inner diameter in the top and bottom of the cryostat
+Figured out how to move the cryostat
+Found out we'll need to solder more wires to include the thermometry
+Promoted oSTEM at U-Day
+
+

@@ -1,0 +1,12 @@
+Daily Summary
+
+4/23/2013
+
+EG4 meeting
+Added He-4 and N-14 rates into the b1 rates code
+Attended "Creating a Gender-Inclusive Campus" webinar by Sue Rankin and Genny Beemyn
+Included total rates in the output of the b1 rates code
+Fixed the time calculation (it was in days, I switched it to hours)
+Began playing the rates game in two parts: 1) with total rate < 1kHz, 2) with total rate < 50kHz
+
+

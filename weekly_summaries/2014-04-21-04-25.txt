@@ -1,0 +1,67 @@
+Weekly Summary
+
+4/21/2014 - 4/25/2014
+
+
+EG4
+Wrote up wiki entry for today's EG4 Meeting
+EG4 Meeting
+
+
+g2p
+g2p Meeting
+
+
+UNH Lab
+Made final comments on Zain's poster
+Meeting with Zain to finish his poster
+UNH Collaboration Meeting
+Brought new microwave into the lab and inspected it for damage
+Went to URC to support Zain
+Went through the lab and isolated all equipment that is ours from that which isn't
+
+
+b1
+Looked at b1 and compared to proposal, to make sure that everything matches what we said it did
+Ran Pzz scan of x=0.4 optimized b1 code to find sigma from zero 
+
+
+Azz
+Played with gyroscopes some more to look at theta=90deg properties
+Ran x scan for Azz
+Played with potential kinematics for Azz
+Meeting with Donal to discuss x>1 Azz
+Plotting the S- and D-state wavefunctions that I got from Donal yesterday
+Attempted to recreate Azz from S- and D-state models
+Attempting to figure out the relationship between psi_s & psi_d with u(r) and w(r)
+Continued playing with Frankfurt and Strikman's calculations
+Succesfully reproduced F&S calculation for D(e,e'N) at 180 degrees
+
+
+Quasi-Elastic 3He
+
+
+Conference Planning
+Virtually attended the APEX collaboration meeting
+
+
+SysAdmin
+Meeting with Josh
+Put in order for new HDDs and toner
+Picked up key to the server room
+Quick scan of the computer room to make sure everything looks fine
+
+
+Job Issues
+Read and commented on Transversity paper to be submitted to PRC
+Set up RAID to automatically alert me in case of failure and to give occassional updates on RAID status
+Meeting with Peter Monaghan for his PYS award
+Attended Peter Monaghan's colloquium
+
+
+Other
+
+
+
+
+

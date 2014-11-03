@@ -1,0 +1,14 @@
+Daily Summary
+
+8/27/2013
+
+EG4 Meeting
+Running analysis locally is taking forever (one run is still going from last night)
+Re-setup globusconnect because it was having problems
+Sent Q2=0.1 Ay0 files to JLab for farm analysis
+Organized new equipment in the lab
+Did dry run-through of magnet cool down
+Played with roots pump vacuum gauge to see if I could fix it -- no luck :-(
+Submitted Ay0 Q2=0.1 jobs to the farm
+
+

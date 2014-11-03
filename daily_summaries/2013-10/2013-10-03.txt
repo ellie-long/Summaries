@@ -1,0 +1,11 @@
+Daily Summary
+
+10/3/2013
+
+Added QE and IE parts of F1 and F2 into the cross section calculations
+President's Commission on the Status of GLBT Issues Meeting
+Plotted cross sections with full (DIS+QE) Bosted functions
+Spilt up QE and DIS parts of the Bosted cross sections to see contributions from each
+
+
+

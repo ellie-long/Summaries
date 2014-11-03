@@ -1,0 +1,12 @@
+Daily Summary
+
+11/13/2013
+
+Meeting with Kevan Carpenter at the Kingsbury Machine Shop to discuss machining the cryostat top plate
+Researched the structural integrity of polycarbonate at cryogenic temperatures
+g2p Meeting
+Remade *.eps versions of the most updated b1 plots for Karl
+
+
+
+

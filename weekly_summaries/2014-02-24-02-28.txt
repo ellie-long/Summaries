@@ -1,0 +1,60 @@
+Weekly Summary
+
+2/24/2014 - 2/28/2013
+
+EG4
+EG4 meeting
+Made some edits to job.shell producing script, testing to see if it works
+Looked into EG4 simulation problems
+Checked on status of EG4 simulation running
+
+
+g2p
+g2p Meeting
+Long g2p Meeting
+
+
+UNH Lab
+UNH Collaboration Meeting
+Second UNH Collaboration Meeting
+Meeting with Zain about his URA proposal
+
+
+b1
+Looking into different spectrometer settings to increase b1 statistics
+Wrote up results from b1 HMS scan from last night
+
+
+Azz
+Worked on Azz talk for Tensor Workshop
+Worked on Azz talk
+
+
+Quasi-Elastic 3He
+Checked on the status of Ay0 runs
+Checked on status of Ay0 runs
+
+
+Conference Planning
+Worked on Tensor Workshop talk
+oSTEM Meeting with the conference hotel and NOGLSTP
+Put together agenda for Tensor Workshop meeting for this afternoon
+Tensor Workshop meeting
+Put together list of speakers and their registration status
+E-mail workshop speakers to encourage them to register
+
+
+SysAdmin
+Was introduced to the computer systems at UNH for preparation of taking over Sarah's old role
+Meeting with Josh to discuss sysadmin details
+Played around with the NPG systems
+
+
+Job Issues
+
+
+Other
+
+
+
+

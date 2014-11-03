@@ -1,0 +1,62 @@
+Weekly Summary
+
+5/19/2014 - 5/24/2014
+
+EG4
+EG4 Meeting
+
+
+g2p
+
+
+UNH Lab
+
+
+b1
+
+
+Azz
+Added Mark's contribution to the TAzz proposal
+Figuring out if the relativistic equations that Mark gave me work or not
+Worked a bunch on the relativistic wf for Azz
+Worked a bunch on the relativistic wf for Azz
+Worked a bunch on the relativistic wf for Azz
+Worked a bunch on the relativistic wf for Azz
+Worked a bunch on the relativistic wf for Azz
+Worked a bunch on the relativistic wf for Azz
+Answered Dustin's questions on our observable
+Hand-calculated the difference between rel & nonrel, since I can't make the theta=0 & 180 parts asymmetric
+Figured out correct definition of Azz in terms of F&S's ratios
+Meeting with Donal to try and figure out why Azz isn't asymmetric with theta
+Started working on creating a different R(k) that's unique from R(p)
+Meeting with Simonetta, who is excited for Azz!
+Put together example plots and tables of wavefunction for Simonetta
+Got the relativistic Azz working!! :-D
+Got Azz for (e,e') working!
+Wrote up all of the work I did with Azz on the wiki
+Wrote up how I converted from Azz(alpha) to Azz(x)
+Taking a closer look at helicities
+Smoothed out Azz calculations
+Worked on understanding the uncertainty in my light cone model
+TAzz meeting
+Long TAzz meeting
+Worked on Azz proposal
+
+
+Quasi-Elastic 3He
+
+
+Conference Planning
+
+
+SysAdmin
+Meeting with Josh
+
+
+Job Issues
+
+
+Other
+Meeting with Eliza
+
+

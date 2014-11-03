@@ -1,0 +1,7 @@
+Daily Summary
+
+4/16/2013
+
+Judged Graduate Research Conference talks
+Got the b1 rates code to accept x values up to x=0.9
+

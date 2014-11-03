@@ -1,0 +1,10 @@
+Daily Summary
+
+7/8/2013
+
+Local g2p meeting
+Recorded indoor and outdoor humidities from the long weekend
+Worked on plotting Ay0 v. Run # using xmgrace instead of a spreadsheet (to help remove input errors)
+Found errors in old spreadsheets by comparing to xmgrace plots
+
+

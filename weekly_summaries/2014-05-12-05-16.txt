@@ -1,0 +1,65 @@
+Weekly Summary
+
+5/12/2014 - 5/16/2014
+
+
+EG4
+Got user_ana working! (I think...)
+Running full simulation run to test user_ana
+EG4 Meeting
+Continued doing test run of EG4 simulation
+
+
+g2p
+g2p meeting
+Long g2p meeting
+
+
+UNH Lab
+UNH Collaboration Meeting
+
+
+b1
+
+
+Azz
+Added other wavefunctions to attempted Azz calculation
+Reading for Azz proposal
+Wrote script to automatically (attempt to) calculate Azz and output the plot
+Trying to understand Mark's Azz calculations
+Trying to understand light cone variables
+Working on Azz calculations
+Put together summary of what we can do with existing equipment at Pzz=25% and 20% for Azz
+Meeting with Mark Strikman
+Wrote up wiki page on the work I've been doing in recreated Azz from the 1981 report
+Worked on the kinematics in the Azz calculation code
+Organized TAzz meeting for today
+Continued looking into Azz calculations
+Meeting with Doug and Misak about his calculations on Azz
+TAzz meeting
+Meeting with Dustin
+Put together e-mail to ask theorists if there is any more physics to draw in from TAzz
+Working on calculation Azz in light-cone
+Meeting with Mark
+
+
+Quasi-Elastic 3He
+
+
+Conference Planning
+Put together proposals for oSTEM National Conference
+
+
+SysAdmin
+Meeting with Josh
+Put together "How to Use" section for the SysAdmin logbook
+
+
+Job Issues
+Scheduling meetings for the week
+
+
+Other
+Organized next LGBTPhys-Org GO meeting
+
+

@@ -1,0 +1,8 @@
+Daily Summary
+
+4/12/2013
+
+Attending EIC meeting
+Began implementing total rates into b1 rates code
+
+

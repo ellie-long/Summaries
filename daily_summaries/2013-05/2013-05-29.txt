@@ -1,0 +1,12 @@
+Daily Summary
+
+5/29/2013
+
+Added error table to b1 Rates tech note
+Researched into luminosity monitor
+Played with EG4 data, attempted to create Q^2 and x
+
+
+
+
+

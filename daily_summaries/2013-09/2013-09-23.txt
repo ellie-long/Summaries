@@ -1,0 +1,15 @@
+Daily Summary
+
+9/23/2013
+
+Confirmed that magnet only has a few wires attached to the backside of the 19-pin cable (We'll need to add extra for the thermometry)
+UNH Collaboration Meeting
+Reached out to Marco to figure out how to test that gpp and RECSIS are working correctly
+Added systematic uncertainty band to Azz plot
+Split Azz into 1.25*Azz and 0.75*Azz
+Send Q2 and new Azz plots to Patricia and Karl to catch the eye of theorists
+Roots pump maintenaince run
+Fixed GlobusConnect connection
+Submitted Q2=0.1 Ay0 jobs to the farm (turns out I analyzed them as neutrons-only instead of no-vetos)
+
+

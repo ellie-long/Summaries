@@ -1,0 +1,9 @@
+Daily Summary
+
+2/14/2014
+
+Worked on getting Ay0 replays to run on the farm
+Succeeded in getting Ay0 replays to run on the farm!
+Submitted Q2=0.1 jobs to be analyzed on the farm
+
+

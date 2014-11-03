@@ -1,0 +1,15 @@
+Daily Summary
+
+2/26/2013
+
+Left ROOT compiling last night -- no go, it still is freezing at libPyRoot.o
+Got updated charge and livetime information from Q2=0.1 Ay0 data
+In process of getting updated charge and livetime information from Q2=1.0 Ay0 data
+EG4 Meeting
+Still attempting to recompile ROOT, still failing. It works fine with gcc 3.4, but I need it to work with 4.6 so that I can use parallel threading. :-P
+Got the padding out from underneath the magnet
+Rearranged the lab to give us a bit more space
+Made sure that all items that are on the magnet packing slip actually arrived (There are three items I want Karl to double-check)
+Read AMI magnet manual
+
+

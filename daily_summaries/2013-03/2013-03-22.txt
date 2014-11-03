@@ -1,0 +1,13 @@
+Daily Summary
+
+3/22/2013
+
+Answered Adopt-a-Physicist questions
+Checked that the Minuteman turbo pump we have access to will suit AMI's vacuum jacket needs
+Contacted Seth at AMI to confirm that the pressure gauge we have access to will working
+Finished pricing/ordering list for cool down items
+Inquired about structure of b1_rates folder from Patricia
+Began looking at EG4 *.root files
+Attempted to install ROOT v. 5.24-00b
+
+

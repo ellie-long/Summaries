@@ -1,0 +1,55 @@
+Weekly Summary
+
+10/20/2014 - 10/24/2014
+
+
+EG4
+EG4 meeting
+Got gemc installed
+Played with gemc to start learning how it works
+Trying to figure out if there's a way to convert GSIM to gemc
+
+
+g2p
+g2p Meeting
+
+
+UNH Lab
+Trying to source mating piece to helium fridge large vacuum port
+Put together layout of the lab post-rearranging
+UNH collarboation meeting
+Rearranged lab space
+Found alternative PCB board software that will print larger sheets
+Tested vacuum pump for the helium fridge
+Tested vacuum gauge in the lab
+
+
+b1
+
+
+Azz
+
+
+Quasi-Elastic 3He
+Working on comparing cascading layer veto method vs veto box method for Ay0
+Continued to look at Ay0 for different cases
+Put together summary of yesterday's Ay0 check results
+Trying to get GEANT4 installed to simulate Ay0 efficiencies
+Finished installing Geant4
+Learning how to program in Geant4
+Setting up JLab software and gemc 
+
+
+Papers and Grants
+
+
+Conference Planning
+
+
+SysAdmin
+
+
+Job Issues
+
+
+

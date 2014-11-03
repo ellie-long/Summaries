@@ -1,0 +1,13 @@
+Daily Summary
+
+7/15/2014
+
+EG4 Meeting
+UNH Collaboration Meeting
+Set up Win7 box to run Win7, github, and THUM on start-up
+Worked with Zain on getting the CCS calibration working
+Fixing ungated charge information for Ay0 analysis runs
+Checked on lentil's status and updated SysAdmin notebook with the lab's network fix
+Played around with the Q-meter
+
+

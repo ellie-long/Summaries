@@ -1,0 +1,41 @@
+Weekly Summary
+
+5/28/2013 - 5/31/2013
+
+EG4/g2p
+EG4 Meeting
+Played with EG4 data, attempted to create Q^2 and x
+
+
+b1
+Making edits to both b1 tech notes
+Added systematic uncertainty bands on Azz and b1 estimates
+Edited b1 tech notes to include systematic uncertainty bands
+Added error table to b1 Rates tech note
+Researched into luminosity monitor
+Fixed full error bars on b1 wiki
+b1 meeting
+Worked on optimizing systematic uncertainty with Oscar
+Changed how the b1 rates code works so that it output the number of events for each setting that fall in each x bin
+Found and debugged some errors in the b1 rates code
+
+
+Quasi-Elastic
+Working on figuring out what's wrong with the ROOT/analyzer installation
+Continued trying to debug ROOT/analyzer problem
+
+
+Job Issues
+
+
+Other
+Scheduling LGBTPhys-Org GO meeting
+Scheduled GO and Physics Today meetings for LGBTPhys
+LGBTPhys Physics Today Article meeting
+
+
+
+
+
+
+

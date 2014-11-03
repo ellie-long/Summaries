@@ -1,0 +1,14 @@
+Daily Summary
+
+2/14/2013
+
+Finished cleaning up computer accounts on the Mac Minis in the lab
+Scheduled LGBTPhys-Org General Organizers' Meeting
+LGBTPhys-Org BPG Meeting
+Heard back from facilities -- they won't take the mineral oil in the lab
+Following up with UNH Hazardous Waste Management
+Set up ssh proxy so that I can access Science Direct papers using the JLab server
+Read P. Hoodbhoy et al., Nucl. Phys. B312, 571 (1989)
+
+
+

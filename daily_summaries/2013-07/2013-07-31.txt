@@ -1,0 +1,15 @@
+Daily Summary
+
+7/31/2013
+
+Recorded yesterday's temp/humidity data
+g2p Meeting
+Noticed the internet in the new office is 2 orders of magnitude faster than in the old office -- Patricia was informed
+Figured out how to run multiple replays in parallel!
+Replaying Q2=0.1 Ay0 *.dat files with EDTM information
+
+
+
+
+
+

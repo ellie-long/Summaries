@@ -1,0 +1,11 @@
+Daily Summary
+
+7/16/2014
+
+g2p Meeting
+Checked status of Ay0 runs to make sure that all the variables I need are put in correctly
+Looking into why the steg runs are failing on the farm but work locally
+Meeting with Karl and Zain to plan the next magnet lift
+(Unsucessfully) attempted to separate the strands of cryowire
+Looked into the Q-meter some more
+

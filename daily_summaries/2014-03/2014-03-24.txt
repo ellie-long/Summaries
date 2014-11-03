@@ -1,0 +1,11 @@
+Daily Summary
+
+3/24/2014
+
+Renewed APS membership
+Fixed LiD/He2D rates in b1 code & wrote up conclusions with all things being the same
+Meeting with Zain
+Began looking into how Misak's code works
+Cleaned up Zain's LabView software a bit and am letting it run for awhile
+
+

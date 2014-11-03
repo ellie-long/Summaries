@@ -1,0 +1,227 @@
+	Quasi-Elastic Meeting
+	Squashed bug in QE charge analysis code
+	Code used to get charge per 3He target state from ungated u3c
+	Checked out results of QE bug-squashing
+	Worked on QE Ay0 Q2=0.5 data in a final attempt to local the discrepencies
+	Backed-up JLab website locally to make uploads for it easier in the future
+	Played with error estimate for QE Ay0 Q2=0.5 point, trying to find the best way to present the data
+	Checked out different groupings of QE Ay0 Q2=0.5 data to try and get the best error bars
+	Played around some more with the QE Ay0 Q2=0.5 data to figure out how to best handle the uncertainty
+	QE weekly meeting
+	More work on QE Q2=0.5 point
+	Made plot of Ay0 vs nu for Q2=0.1
+	Remade all Ay0 vs nu plots
+	Worked on Ay0 paper
+	Put together QE website for meeting
+	Worked on Ay0 run-by-run systematic uncertainties for Q2=0.1 and 1.0
+	Attempted (and failed) to try and figure out a way that I can process Ay0 *.root files from off-site
+	Worked a bit on trying to compile ROOT *.C files using g++ so that I can run them using GNU parallel
+	Tried to change how QE analysis script runs so that I can run it from the UNH desktop
+	Attempted to reinstall ROOT using gcc 4.6 so that I can use parallel threading (#pragma, openMP) -- Failed
+	Left ROOT compiling last night -- no go, it still is freezing at libPyRoot.o
+	Got updated charge and livetime information from Q2=0.1 Ay0 data
+	In process of getting updated charge and livetime information from Q2=1.0 Ay0 data
+	Still attempting to recompile ROOT, still failing. It works fine with gcc 3.4, but I need it to work with 4.6 so that I can use parallel threading. :-P
+	Updated QE website for meeting
+	Quasi-Elastic meeting
+	Met with Yawei to help him use InkScape
+	Edited Ay0 vs nu plots in Ay0 paper
+	Repeating the process done for QE Ay0 Q2=0.5 for 0.1 and 1.0 (GeV/c)^2 so that all the systematic uncertainties are done the same way
+	Put together website for Quasi-Elastic meeting
+	Quasi-Elastic meeting
+	Made edits to Ay0 paper
+	Included new charge and lt information for Q2=0.1 and 1.0 to run-by-run spreadsheet
+	Quasi-Elastic Meeting
+	Finished Ay0 run-by-run systematics for Q2=0.1 and 1.0 (GeV/c)^2
+	Prepared website for Quasi-Elastic meeting
+	Attempted to install ROOT v. 5.24-00b
+	Prepared Quasi-Elastic website for meeting
+	Quasi-Elastic Analysis Meeting
+	Made # of Pos/Neg Events vs Run # plots for Doug
+	Running Ay0 data without HAND -- trying to see if (e,e') matches Yawei's results
+	Quasi-Elastic meeting
+	Re-running Ay (e,e') for vertically polarized 3He at Q2=0.1, 0.5, and 1.0 to compare with Yawei's analysis of the same runs
+	Plotted run-by-run 3He(e,e') Ay asymetries to compare to Yawei
+	Quasi-Elastic Meeting
+	Matching 3He(e,e') run set so that Yawei and I are using the same runs to compare our data
+	Compared Nup, Ndown, ChargeUp, ChargeDown, LTup, and LTdown of my analysis and Yawei's
+	Continued comparison between Yawei's and my Ay0 data to try and find errors (LT is off the most)
+	Put together website for Quasi-Elastic meeting
+	Quasi-Elastic Meeting
+	Quasi-Elastic Meeting
+	Wrote a python script to extract charge and LT information from Yawei's *.log files
+	Comparing my information to Yawei's
+	Nailed the problem causing a difference between my results and Yawei's -- the charge
+	Checked charge script for bugs -- moving the initial counter to first event instead of second to see if that helps
+	Prepared Quasi-Elastic website
+	Quasi-elastic meeting
+	Met with Yawei to diagnose issue with charge (happened to also find small issue with LT)
+	Still working on reinstalling ROOT...
+	Put together Quasi-Elastic website
+	Worked on reinstalling the analyzer
+	Quasi-Elastic Meeting
+	Put together plots for the Hall A Collaboration meeting
+	Continued trying to install Hall A Analyzer
+	Working on figuring out what's wrong with the ROOT/analyzer installation
+	Continued trying to debug ROOT/analyzer problem
+	Quasi-Elastic Meeting
+	Finally got the analyzer working!!!
+	Quasi-Elastic Meeting
+	Recompiled ellana directory so that I can analyze runs locally
+	Trying to figure out bbftp so that I can transfer raw data files from JLab to UNH
+	Set up Globus Online to transfer data files from JLab to UNH
+	Looked at Yawei's analysis to figure out if it's worth redoing my code
+	Working on using awk to integrate counts and Ch/LT information so that I don't have to reply on copy/pasting it in OpenOffice spreadsheets
+	Worked on plotting Ay0 v. Run # using xmgrace instead of a spreadsheet (to help remove input errors)
+	Found errors in old spreadsheets by comparing to xmgrace plots
+	Editing the output of the 3He(e,e'n) Ay0 script to match that of 3He(e,e') so that the script I wrote yesterday is interchangable with each
+	Added proper uncertainty (instead of simple 1/sqrt(N)) to Ay0 run-by-run calculations
+	Put together Quasi-Elastic website for tomorrow's meeting
+	Quasi-Elastic Meeting
+	Ran Q2=0.5 Ay0 data through the new script
+	Ran Q2=1.0 Ay0 data through the new script
+	Getting raw data files off of the cache
+	Began transferring all Ay0 vertical raw datafiles to UNH machine
+	Prepared Quasi-Elastic webpage
+	Quasi-Elastic Meeting
+	Maintenance on Globus file transfer of Ay0 data from JLab to UNH
+	Submitted last of the Ay0 data to be transferred through GlobusOnline
+	Figured out how to run multiple replays in parallel!
+	Replaying Q2=0.1 Ay0 *.dat files with EDTM information
+	Replayed Q2=0.1 Ay0 data
+	Running Q2=0.5 Ay0 data
+	Replayed Q2=1.0 Ay0 data
+	Found that *.root files were coming out large due to an old problem with outputting too many histograms -- This was fixed (the same way as in https://userweb.jlab.org/~ellie/QEA-meetings/2010-03-10.html )
+	Worked on running the charge/lt locally
+	Wrote code so that the charge/livetime information can be analyzed in parallel on my local machine
+	Wrote script to automatically merge necessary files to get asymmetries
+	Finalizing Ay0 Q2=0.1 results
+	Confirmed that the charge/lt Q2=0.1 Ay0 runs from last night ran successfully 
+	Updated plots of Ay0 and Ay for Q2=0.1
+	Prepared Quasi-Elastic website for next week's meeting
+	Plotted new Q2=0.5 Ay0 plots
+	Plotted new Q2=1.0 Ay0 plots
+	Made final Ay0 plots
+	Finished up Ay0 analysis for Friday's meeting
+	Quasi-Elastic Meeting
+	Finalized Ay0 data, including adding prescale uncertainties to the Q2=0.1 point
+	Worked on making pretty the final Ay0 plots, but found they were quite a bit different from previous results
+	Looked into why the Ay0 plots were different
+	Worked on code that will let me reanalyze some Ay0 data to double-check with older data
+	Set up an analysis account so that I can run QE analysis without having hundreds of windows popping up on me drawing histograms
+	Tested QE analysis account to make sure that it's working correctly
+	Running analysis locally is taking forever (one run is still going from last night)
+	Re-setup globusconnect because it was having problems
+	Sent Q2=0.1 Ay0 files to JLab for farm analysis
+	Submitted Ay0 Q2=0.1 jobs to the farm
+	Ay0 farm anaylsis is still failing -- looked into figuring out why
+	Made pretty Ay0 vs. Q2 plots for Simon
+	Fixed GlobusConnect connection
+	Submitted Q2=0.1 Ay0 jobs to the farm (turns out I analyzed them as neutrons-only instead of no-vetos)
+	Ay0 submissions failed -- looked into why
+	Fixed bug where Ay0 was crashing when defining event type
+	Submitted new batch of Ay0 analysis to the farm
+	Looked into why Ay0 jobs continued to fail
+	Became really confused as to why Ay0 jobs are failing
+	Changed ~/.cshrc variables back to linux64 (instead of CentOS 6.2) and re-instally ROOT and the analyzer to try and get Ay0 running
+	Attempting to run quasi-elastic code again, since coming back from difficulties about a month ago
+	Installed MCEEP and attempted to understand how to run and analyze a test run on it
+	Put together travel request form and sent it to Karl
+	Attempting to get the MCEEP utilities to run on a 64 bit system
+	Updated flight information for Hall A Collaboration Meeting trip
+	Trying to get MCEEP ntuple files to open in ROOT
+	Quasi-Elastic Meeting
+	Finalized travel plans for Hall A Collaboration Meeting
+	Worked on Hall A Collaboration Talk
+	Continued working on the Hall A Collaboration Talk
+	Worked on Hall A Collaboration Talk
+	Continued working on the Hall A Collaboration Talk
+	Worked on Hall A Collaboration Talk
+	Continued working on the Hall A Collaboration Talk
+	Pretty much worked on the Hall A Collaboration Talk all day
+	Still working on the Hall A Collaboration Talk
+	Worked on Hall A Collaboration Mtg talk
+	Attended Hall A Collaboration Mtg
+	Attended Hall A Collaboration Mtg
+	Gave talk for Hall A Collaboration Meeting
+	Pulled some QE 3He raw data files to start debugging and re-coding Ay0
+	Reinstalled analyzer on ifarm
+	Worked on reloading everything in ellana on ifarm
+	Worked on trying to get analyzer running on the farm again
+	Got analyzer working on the ifarm!
+	Worked on getting Ay0 replays to run on ifarm
+	Continued working on getting Ay0 replays to run on ifarm
+	Worked on getting Ay0 replays to run on the farm
+	Succeeded in getting Ay0 replays to run on the farm!
+	Submitted Q2=0.1 jobs to be analyzed on the farm
+	Checked on ifarm Ay0 replays -- only took two hours to run! (I should have start this 5 years ago...)
+	Fixed neutron hunt Ay0 analysis code and submitted Q2=0.1 data to the farm
+	Checked last night's Ay0 analysis runs -- having troubles
+	Continued troubleshooting Ay0 analysis problems
+	Got Ay0 analysis running on the farm
+	Submitted Q2=0.1 to the farm
+	Noticed ifarm Ay0 runs weren't going to finish, so re-submitting them in smaller chunks
+	Looked into why Ay0 runs were failing, and re-submitted them slightly fixed
+	Checked on the status of Ay0 runs
+	Checked on status of Ay0 runs
+	Began transferring Ay0 analysis files to UNH to finish analyzing
+	Copied Ay0 runs from JLab to UNH
+	Began looking into Ay0 analysis, which isn't working like it used to
+	Set up git repository on ifarm for batch
+	Set up git repository on ifarm for analysis-scripts
+	Testing Ay0 replay code to make sure it still works
+	Checked status of Ay0 run test from Friday
+	Working on new submission script to make Ay0 analysis work faster
+	Trying to figure out why the new Ay0 batch code isn't working
+	Checking results of Ay0 runs from last night and made appropriate fixes before sending off another batch
+	Still working on debugging Ay0 replay code
+	Checked results of the Ay0 batch replay from last week
+	Added proton run information, and ch/lt information to Ay0 replays
+	Checked on Ay0 runs status
+	Checking status of finished Ay0 runs
+	Updated charge/lt information getting to Ay0 runs
+	Moved Ay0 analysis files from desktop to ifarm
+	Fixed charge/lt problem in Ay0 analysis and submitted a new batch to the farm
+	Checked results of Ay0 farm runs
+	Re-running Ay0 ch/lt analysis and including *.root files to make sure it's running properly
+	Fixing ungated charge information for Ay0 analysis runs
+	Checked status of Ay0 runs to make sure that all the variables I need are put in correctly
+	Continuing to debug problem with the Ay0 charge/lt information
+	Debugging Ay0 charge/lt scripts
+	Charge/lt Ay0 script fixed, sending new Q2=0.1 batch to the farm
+	Getting auto_asym working on ifarm
+	Set up vncviewer on unh1 to make analysis not fill up my working screens
+	Worked on finishing automation of Ay0 analysis
+	Continued working on automating Ay0 analysis
+	Edited how vetos are handled in HAND analysis so that it is done by layer instead of by groups of bars
+	Trying to figure out why Ay0 jobs that are not Q2=0.1 aren't submitting
+	Fixed Ay0 submissions scripts and submitted jobs with and without new neutron vetos (by plane) for all Q2
+	Resubmitting failed Ay0 jobs to ifarm
+	Went through recently analyzed jobs and resubmitted ones that failed
+	Moving and analyzing results from the Ay0 farm runs over the past few weeks
+	Trying to 2nd-pass analyze the recently analyzed Ay0 runs to extract asymmetries
+	Debugging 1st-pass Ay0 analysis scripts
+	Debugging why Ay0 analysis is failing on the farm
+	Testing whether the Ay0 submitted jobs are actually running
+	Checking results of recently finished cascading veto bar method on Ay0
+	Getting run-by-run results for Ay0 analysis
+	Getting run-by-run results for cascading veto analysis of Q2=0.5 Ay0
+	Working on figuring out why new Q2=0.5 Ay0 values are twice that of the old ones
+	Working on comparing cascading layer veto method vs veto box method for Ay0
+	Continued to look at Ay0 for different cases
+	Put together summary of yesterday's Ay0 check results
+	Trying to get GEANT4 installed to simulate Ay0 efficiencies
+	Finished installing Geant4
+	Learning how to program in Geant4
+	Setting up JLab software and gemc 
+	Playing more with gemc
+	Phone meeting with Doug
+	Took out edge bars from Ay0 analysis code and resubmitted jobs
+	Played with gemc some more
+	Working with Maurizio on getting gemc to create magnetic fields
+	Worked on understanding gemc magnetic fields
+	Worked on Hall A gemc simulation
+	Doing HAND analysis of recent Ay0 runs that made it through the farm
+	WOrking on building Hall A in gemc
+	Worked on Hall A in gemc
+	Worked on Hall A in gemc

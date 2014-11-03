@@ -1,0 +1,10 @@
+Daily Summary
+
+9/5/2013
+
+Wrote script to analyze the amount of time I've spent on different projects
+Got Zain started on getting the software to talk to the electronics rack
+Set up new hardware and pegboard equiment in the lab
+
+
+

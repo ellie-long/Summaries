@@ -1,0 +1,12 @@
+Daily Summary
+
+5/31/2013
+
+Continued trying to debug ROOT/analyzer problem
+Worked on optimizing systematic uncertainty with Oscar
+Changed how the b1 rates code works so that it output the number of events for each setting that fall in each x bin
+Found and debugged some errors in the b1 rates code
+
+
+
+

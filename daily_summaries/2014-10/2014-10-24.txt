@@ -1,0 +1,9 @@
+Daily Summary
+
+10/24/2014
+
+EG4 meeting
+Got gemc installed
+Played with gemc to start learning how it works
+Trying to figure out if there's a way to convert GSIM to gemc
+

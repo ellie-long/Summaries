@@ -1,0 +1,8 @@
+Daily Summary
+
+10/7/2014
+
+Debugging why Ay0 analysis is failing on the farm
+UNH Collaboration Meeting
+Worked on figuring out the Q meter
+

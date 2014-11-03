@@ -1,0 +1,44 @@
+Weekly Summary
+
+2/18/2013 - 2/22/2013
+
+Structure Functions
+	Local Meeting for g2p
+	Read LOI for b1 at PAC 37
+	Meeting for b1
+	Organized papers, both physically and virtually, to allow easier future access
+	Eg4 Meeting
+	Found out the magnet we thought was going to arrive second (and in April) is arriving later this week
+	Figured out how to choreograph the palette mover so that the magnet can get into the lab
+	Inquired about how to remove surplus equipment from the lab
+	Found out that we need to move the milling machine and the mass spectrometer out of the lab, preferably today
+	Came up with a plan to move them so that the magnet will still be able to fit through the hall
+	Moved the milling machine and the mass spectrometer into the hallway
+	Filled out surplus form for the spectrometer -- for future notice, our department is Physics and the BSC is CEPS (College of Engineering and Physical Sciences)
+	g2p Meeting
+	Magnet arrived and was put in lab
+	Magnet was secured in place
+	Inquired facilities about lifting the magnet to get the padding out from under it -- Will need to call them back Monday morning (2-1437)
+
+
+Quasi-Elastic
+	Made plot of Ay0 vs nu for Q2=0.1
+	Remade all Ay0 vs nu plots
+	Worked on Ay0 paper
+	Put together QE website for meeting
+	Worked on Ay0 run-by-run systematic uncertainties for Q2=0.1 and 1.0
+	Attempted (and failed) to try and figure out a way that I can process Ay0 *.root files from off-site
+	Worked a bit on trying to compile ROOT *.C files using g++ so that I can run them using GNU parallel
+
+
+New Job Issues
+	Installed LaTeX with all packages
+
+
+Other
+	LGBTPhys-Org Climate Survey Subcommittee Meeting
+	Digitized all to-do lists
+	Got the wireless network working in the lab
+	Figured out how git works and used it to version control my batch/inputs/neutron_hunt files
+
+

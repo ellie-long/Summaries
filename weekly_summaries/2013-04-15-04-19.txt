@@ -1,0 +1,44 @@
+Weekly Summary
+
+4/15/2013 - 4/19/2013
+
+EG4/g2p
+Local g2p Meeting
+g2p Meeting
+
+
+b1
+Working on adding QE peak to b1 rates code
+Got the b1 rates code to accept x values up to x=0.9
+Got quasi-elastic peak kind of working in b1 code (can get up to x=0.98)
+Added dx error bars in b1 rates code
+Trying to double-check that the cross section part of the code is working correctly -- I think there's a problem
+Made sure the cross section calculations in the b1 rates code works correctly
+Making a copy of the rates script in a spreadsheet so that I understand absolute everything that it's doing
+Made website for b1 meeting
+b1 Meeting
+Completely understand what the b1 rates code is doing (Finally!! :-D )
+Matched up back-of-envelope calculation of rates to the b1 rates code -- they are within the same order of magnitude! :-D (Off by about 0.6, but that could be due to kinematic clipping that the b1 rates code does that the quick estimate doesn't take into account)
+Playing with b1 rates spreadsheet
+Updated labbook with the work I've been doing
+Began implementing He and N cross sections into spreadsheet
+Working on figuring out how dAzz is calculated from the rates
+
+
+Quasi-Elastic
+Continued comparison between Yawei's and my Ay0 data to try and find errors (LT is off the most)
+Put together website for Quasi-Elastic meeting
+Quasi-Elastic Meeting
+
+
+Job Issues
+
+
+Other
+Judged Graduate Research Conference posters
+Judged Graduate Research Conference talks
+
+
+
+
+

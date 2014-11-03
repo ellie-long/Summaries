@@ -1,0 +1,13 @@
+Daily Summary
+
+3/3/2013
+
+Put together monthly summary
+Sent out summary of Tensor Workshop registrants status
+Added new topic (SysAdmin) to list of summary topics
+Meeting with Zain to discuss his URA proposal
+Looked into EG4 runs from last week and submitted test simulations
+Began transferring Ay0 analysis files to UNH to finish analyzing
+UNH Collaboration Meeting
+Installed new Temperature Sensor into the iTC -- It works!
+

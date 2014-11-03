@@ -1,0 +1,35 @@
+Weekly Summary
+
+3/18/2013 - 3/22/2013
+
+EG4/g2p
+Local g2p Meeting
+Gained access to /work/clas/claseg4 workspace
+EG4 Meeting
+g2p Meeting
+Began looking at EG4 *.root files
+
+b1
+Began pricing of cool down equipment list
+b1 Meeting
+Finished pricing equipment needed for the summer cool-down
+Checked that the Minuteman turbo pump we have access to will suit AMI's vacuum jacket needs
+Contacted Seth at AMI to confirm that the pressure gauge we have access to will working
+Finished pricing/ordering list for cool down items
+Inquired about structure of b1_rates folder from Patricia
+
+Quasi-Elastic
+Finished Ay0 run-by-run systematics for Q2=0.1 and 1.0 (GeV/c)^2
+Prepared website for Quasi-Elastic meeting
+Attempted to install ROOT v. 5.24-00b
+
+Job Issues
+
+Other
+Responded to Adopt-a-Physicist questions
+Answered Adopt-a-Physicist questions
+
+
+
+
+

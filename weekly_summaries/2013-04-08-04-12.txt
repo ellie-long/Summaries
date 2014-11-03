@@ -1,0 +1,43 @@
+Weekly Summary
+
+4/8/2013 - 4/12/2013
+
+EG4/g2p
+Local g2p Meeting
+Went over Toby's talk
+EG4 Meeting
+Critiqued g2p student talks for the APS April Meeting
+
+
+b1
+Working on scheduling Magnetic Safety Training
+Finished "Setting the Board" for the b1 rates game
+Began playing with the rates to get a sense of where we want to be
+All items for SEED have been removed from the lab! Huzzah!! :-D
+Seeing how rates change when adjusting Q^2
+Created animated *.gif files to show how the rates change with a scan over Q^2
+Found best-case physics rates for x=0.1, 0.3, 0.5, and 0.625 (assuming that ptrates.f is working correctly)
+Created b1 wiki site for rates update
+Implemented PAC time into b1 rates code
+Began figuring out how to implement total rates into b1 rates code
+Began implementing total rates into b1 rates code
+
+
+Quasi-Elastic
+Plotted run-by-run 3He(e,e') Ay asymetries to compare to Yawei
+Quasi-Elastic Meeting
+Matching 3He(e,e') run set so that Yawei and I are using the same runs to compare our data
+Compared Nup, Ndown, ChargeUp, ChargeDown, LTup, and LTdown of my analysis and Yawei's
+
+
+Job Issues
+Got some insurance information fixed
+
+
+Other
+TPAC Meeting
+Attending EIC meeting
+
+
+
+

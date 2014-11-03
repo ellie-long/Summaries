@@ -1,0 +1,13 @@
+Daily Summary
+
+9/20/2013
+
+Worked on Azz rates code and summary
+Azz Meeting
+Fixed rates estimate (they were about 10% too high)
+Cleaned up Azz rates code (removed ~1/3 of lines, all unnecessary)
+Scanned over W
+Uploaded results to b1 wiki
+
+
+

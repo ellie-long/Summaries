@@ -1,0 +1,9 @@
+Daily Summary
+
+2/8/2013
+
+g2p Meeting
+Squashed bug in QE charge analysis code
+Code used to get charge per 3He target state from ungated u3c
+Read Spin Structure paper
+

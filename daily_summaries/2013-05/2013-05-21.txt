@@ -1,0 +1,14 @@
+Daily Summary
+
+5/21/2013
+
+EG4 Meeting 
+Tried out new captioning service (Caption Colorado) for the EG4 meeting 
+Finally (!!!) go ROOT working again!! :-D :-D :-D 
+Put instructions of how I fixed ROOT into the ELog
+...now the analyzer isn't working. :-(
+Put together Quasi-Elastic website
+Worked on reinstalling the analyzer
+
+
+

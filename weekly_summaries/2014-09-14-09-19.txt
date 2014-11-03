@@ -1,0 +1,54 @@
+Weekly Summary
+
+9/14/2014 - 9/19/2014
+
+EG4
+EG4 Meeting
+
+
+g2p
+
+
+UNH Lab
+Checked on the progress that Makenzie is making on the NMR cable
+Unboxed NMR cable from Teledyne
+Sourced the remaining items we need to finish the NMR subsystem
+Sourced replacement for 19-pin connector on the cryostat
+Read and commented on Zain's URA paper
+
+
+b1
+
+
+Azz
+
+
+Quasi-Elastic 3He
+
+
+Papers and Grants
+Worked on Tensor Workshop Proceedings
+Worked on Tensor Workshop Proceedings
+Finished and submitted Tensor Workshop Proceedings
+
+
+Conference Planning
+Attended DNP LRP Me*ting
+Attended DNP LRP Me*ting
+Drove back to NH from Philadelphia
+Put together reimbursement paperwork for DNP LRP trip
+
+
+SysAdmin
+Interviewed Chris Chin for the second SysAdmin position
+
+
+Job Issues
+Meeting with Karl to go over my performance review
+Fixed and updated my CV (My edits to moderncv were lost when I reinstalled Ubuntu)
+
+
+Other
+
+
+

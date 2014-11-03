@@ -1,0 +1,11 @@
+Daily Summary
+
+5/2/2013
+
+Put together monthly summary
+Added A_meas^(2) method to the b1 code
+I've also been neglecting it in my daily reports, but I've spent a lot of time working on the A_zz formalism on the b1 wiki ( https://hallcweb.jlab.org/wiki/index.php/User:Ellie )
+Put the total kinematic spread into the b1 rates code
+Working on making the b1 kinematics plots acceptable for the proposal
+
+

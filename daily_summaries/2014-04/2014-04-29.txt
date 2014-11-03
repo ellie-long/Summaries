@@ -1,0 +1,11 @@
+Daily Summary
+
+4/29/2014
+
+EG4 Meeting
+Attempting to decipher the difference between u(r) and psi(r) wavefunctions
+Grabbing u(r) and w(r) from different potentials
+Contacted Brad about moving my repos to JLab's git servers
+Continuing parsing through the steg code to find why it's not plotting any histograms
+More work on trying to reproduce Strikman's plots
+

@@ -1,0 +1,11 @@
+Daily Summary
+
+3/20/2014
+
+Maintenance run on the pumps
+TPACC meeting
+Working on the b1 cross sections to add LiD and (He+D)D
+Attempted to find the densities of LiD and ND3 -- failed (but did find NH3 and LiH)
+Played around with the b1 rates code to check the cross section between LiD and (HeD)D
+
+

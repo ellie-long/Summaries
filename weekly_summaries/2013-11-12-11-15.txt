@@ -1,0 +1,46 @@
+Weekly Summary
+
+11/12/2013 - 11/15/2013
+
+EG4
+Looked at results (errors) from EG4 submission last week and summarized them on the EG4 wiki
+EG4 Meeting
+
+
+g2p
+g2p Meeting
+
+
+b1
+Finished CAD design for the cryostat cap
+Finished going through the Spin96 Proceedings and saving useful papers from it
+Read through and commented on Karl's proceedings for the XVth International Workshop on Polarized Sources, Targets, and Polarimetry
+Put together a checklist for the installation of the AMI solenoid
+Meeting with Kevan Carpenter at the Kingsbury Machine Shop to discuss machining the cryostat top plate
+Researched the structural integrity of polycarbonate at cryogenic temperatures
+Remade *.eps versions of the most updated b1 plots for Karl
+Began installing solenoid into the AMI cryostat
+Pulled out magnet internals
+Measured LHe sensor length
+Installed solenoid onto bottom plate
+Attempted to solder solenoid, but it didn't go work
+Undid solenoid soldering
+With help from Jim Williams, soldering the two bus bar-to-lead joints
+Finished installing the AMI magnet
+Set the AMI magnet to where it's going to stay
+Uploaded pictures from the magnet installation to Flickr
+
+
+Quasi-Elastic
+
+
+Job Issues
+Safe Zones Training (Meeting)
+
+
+Other
+
+
+
+
+

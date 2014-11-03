@@ -1,0 +1,120 @@
+Monthly Summary
+
+9/2014
+
+
+EG4
+	EG4 Meeting
+	EG4 Meeting
+
+
+g2p
+	g2p Meeting
+	Long g2p meeting
+	g2p Meeting
+	Long g2p meeting
+	g2p Meeting
+
+
+UNH Lab
+	Meeting with Makenzie to show him the lab
+	Prepared information that Makenzie will need for getting started
+	Put together examples of what Makenzie will be making for his first few weeks in the lab
+	Made test piece of NMR cable
+	Preparing information for Makenzie
+	Gave Makenzie introduction to the lab and what we need him to do
+	Checked on the progress that Makenzie is making on the NMR cable
+	Unboxed NMR cable from Teledyne
+	Sourced the remaining items we need to finish the NMR subsystem
+	Sourced replacement for 19-pin connector on the cryostat
+	Read and commented on Zain's URA paper
+	Put together a list of items that need to be done in the lab, and figured out the next projects for everyone to work on
+	Worked on setting up computer for Peter Sieg, the high school student that will be joining us this semester
+	UNH collaboration meeting
+	Set up SciPy on the Mac Mini in the lab for Peter's use
+	Put together simple python fitting script that can be used as-is to get Peter started tomorrow
+	Got Peter started up in the lab
+	Installed variable capacitor in the Q meter
+	Put together order for making our own PCBs
+	UNH Collaboration Meeting
+	Read and commented on Zain's URA paper
+
+
+b1
+	Double-checked b1 calculations for Karl's proceedings and for my 2-slide DNP LRP talk
+	Going through old papers by Teryaev
+
+
+Azz
+
+
+Quasi-Elastic 3He
+	Edited how vetos are handled in HAND analysis so that it is done by layer instead of by groups of bars
+	Trying to figure out why Ay0 jobs that are not Q2=0.1 aren't submitting
+	Fixed Ay0 submissions scripts and submitted jobs with and without new neutron vetos (by plane) for all Q2
+	Resubmitting failed Ay0 jobs to ifarm
+	Went through recently analyzed jobs and resubmitted ones that failed
+	Moving and analyzing results from the Ay0 farm runs over the past few weeks
+
+
+Papers and Grants
+	Meeting with Karl about STTR
+	Double-checking LOI subission process in current STTR FOA
+	Put together breif statement on medical applications of DNP
+	Commented on the STTR
+	Edited Tensor Workshop proceedings
+	Edited Tensor Workshop proceedings
+	Worked on Tensor Workshop Proceedings
+	Worked on Tensor Workshop Proceedings
+	Worked on Tensor Workshop Proceedings
+	Finished and submitted Tensor Workshop Proceedings
+	Made edits to Ay0 paper
+	Worked on Ay0 paper
+
+
+Conference Planning
+	Worked on DNP LRP slides
+	Worked on DNP LRP talk
+	Continued working on DNP LRP talk
+	Sent out request for *.tex files of Tensor Workshop Proceedings submissions
+	Worked on Juniata Seminar talk
+	Worked on Juniata talk
+	Worked on converting DNP LRP slides to correct format for presentation
+	Drove to Pennsylvania
+	Drove to Pennsylvania for the Juniata Colloquium
+	Worked on DNP LRP talk
+	Put final touches on Juniata Colloquium
+	Gave Juniata Colloquium
+	Drove to Philadelphia for DNP LRP Mini-conference 
+	Attended DNP LRP Me*ting
+	Gave talk at DNP LRP Me*ting
+	Attended DNP LRP Me*ting
+	Attended DNP LRP Me*ting
+	Drove back to NH from Philadelphia
+	Put together reimbursement paperwork for DNP LRP trip
+	Planning trip to Frascati for the HiX workshop
+	Submitted pre-approval paperwork for Italy trip
+
+
+SysAdmin
+	Meeting with Tyler about NPG system-wide upgrade to CentOS6.2
+	Interviewed Chris Chin for the second SysAdmin position
+	Okra stopped working, so I set up each of the Macs downstairs as individual client machines without a shared server directory
+	Upgrading Mac Mini in the lab to OSX Maverick so that I can install GitHub for the new student
+	Learning LDAP so I can add users to the NPG 
+
+
+Job Issues
+	Put together monthly summary
+	Meeting with Karl to go over my performance review
+	Fixed and updated my CV (My edits to moderncv were lost when I reinstalled Ubuntu)
+	Got caught up with Daily & Weekly summaries
+	Checked that my desktop backups are working like they should be
+	Updated LinkedIn profile
+	Updated resume
+
+
+Other
+	oSTEM TWG meeting
+
+

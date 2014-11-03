@@ -1,0 +1,62 @@
+Weekly Summary
+
+2/10/2014 - 2/14/2014
+
+EG4
+Played with Lamiaa's new eg4 environmental variables
+EG4 Meeting
+Wrote down all of my starting position for where I am in regards to the EG4 software
+Worked with Lamiaa a bit to see if I can get all of the Hall B software running
+Cleaned up my $PATH variable on the JLab ifarm to only include things I know I'm using
+Wrote up the user_ana fix on the EG4 wiki 
+Looked at results from last night's EG4 recsis run on job.shell_1
+
+
+g2p
+g2p Meeting
+Really long g2p Meeting
+
+
+UNH Lab
+
+
+b1
+
+
+Azz
+
+
+Quasi-Elastic 3He
+Pulled some QE 3He raw data files to start debugging and re-coding Ay0
+Reinstalled analyzer on ifarm
+Worked on reloading everything in ellana on ifarm
+Worked on trying to get analyzer running on the farm again
+Meeting with Doug to discuss Ay0 paper
+Got analyzer working on the ifarm!
+Worked on getting Ay0 replays to run on ifarm
+Continued working on getting Ay0 replays to run on ifarm
+Worked on getting Ay0 replays to run on the farm
+Succeeded in getting Ay0 replays to run on the farm!
+Submitted Q2=0.1 jobs to be analyzed on the farm
+
+
+Conference Planning
+Went over first draft of Tensor Workshop poster
+Tensor Workshop meeting
+
+
+Job Issues
+Attempting to recover RAID from degraded status....
+Wrote python script to pull data from ELog (In case all is lost)
+Recovered the RAID!!! :-D :-D :-D
+Backing up all important files
+Checking HDDs for health status
+Meeting with Josh to discuss HD problems
+
+
+Other
+
+
+
+
+

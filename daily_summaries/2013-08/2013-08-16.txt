@@ -1,0 +1,12 @@
+Daily Summary
+
+8/16/2013
+
+Quasi-Elastic Meeting
+LGBTPhys GO Meeting
+Finalized Ay0 data, including adding prescale uncertainties to the Q2=0.1 point
+Finalized edits and submitted PYS package
+Recorded this week's temp/humidity data
+
+
+

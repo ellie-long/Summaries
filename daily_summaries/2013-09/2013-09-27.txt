@@ -1,0 +1,12 @@
+Daily Summary
+
+9/27/2013
+
+Combined b1 DIS, QE, and Azz plots into a single, large x-range Azz and kinematics plots
+Checked cross sections and dilution factor changes vs x -- need to change how this is handled for x>1
+Plotted dilution factor vs. x for the SHMS
+Attended Karl's tenure colloqiuum
+
+
+
+

@@ -1,0 +1,57 @@
+Weekly Summary
+
+9/29/2014 - 10/3/2014
+
+EG4
+EG4 Meeting
+
+
+g2p
+g2p Meeting
+Long g2p meeting
+
+
+UNH Lab
+UNH Collaboration Meeting
+Read and commented on Zain's URA paper
+Worked on testing the Q meter with the proton cable
+Read through and followed up on information about the HP 432A Power Meter
+Trying to source a power head for the microwave system
+Worked on setting up the Q meter
+Played with the Q meter to try and get the first diode signal working
+
+
+b1
+Going through old papers by Teryaev
+
+
+Azz
+
+
+Quasi-Elastic 3He
+Went through recently analyzed jobs and resubmitted ones that failed
+Moving and analyzing results from the Ay0 farm runs over the past few weeks
+
+
+Papers and Grants
+
+
+Conference Planning
+Submitted pre-approval paperwork for Italy trip
+Setting up travel for upcoming conferences
+
+
+SysAdmin
+Set up backup drives for the Mac machines in the lab
+Meeting with SysAdmins
+
+
+Job Issues
+Updated LinkedIn profile
+Updated resume
+
+
+Other
+E-mail meeting with lgbt+physicists folks about the BPG brochure
+
+

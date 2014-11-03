@@ -1,0 +1,154 @@
+Monthly Summary
+
+4/2014
+
+EG4
+	EG4 Meeting
+	Continuing running through steg job steps to see where the hold-ups are
+	EG4 Meeting
+	Troubleshooting steg files with Lamiaa
+	Continuing to trouble-shoot EG4 problems
+	Wrote up wiki entry for today's EG4 Meeting
+	EG4 Meeting
+	Running through steg software again to see why it's not creating output histograms
+	EG4 Meeting
+	Continuing parsing through the steg code to find why it's not plotting any histograms
+	Continued to go through steg code to find bugs
+
+
+g2p
+	g2p Meeting
+	g2p Meeting
+	Long g2p Meeting
+	g2p Meeting
+	g2p meeting
+	Found dilution factor using unradiated Bosted code for g2p to compare with what Toby sees
+
+
+UNH Lab
+	Inquired Microstock about the tools needed for UT-85 cable handling
+	UNH Collaboration Meeting
+	Commented on Zain's URC poster
+	Added vendors to equipment list for EPSCOR grant
+	Commented on Zain's poster
+	Meeting with Zain on his poster
+	Put together b1 and Azz plots for the EPSCOR grant proposal
+	Meeting with Zain about his URC poster
+	UNH Collaboration Meeting
+	Meeting with Zain to talk about his poster
+	Double-checking Zain's work for the poster
+	Meeting with Zain to help him with his poster
+	Made final comments on Zain's poster
+	Meeting with Zain to finish his poster
+	UNH Collaboration Meeting
+	Brought new microwave into the lab and inspected it for damage
+	Went to URC to support Zain
+	Went through the lab and isolated all equipment that is ours from that which isn't
+	Put in request for quote of Teledyne Storm cables
+	UNH Collaboration Meeting
+
+
+b1
+	Meeting with Karl on what to focus on this week for the b1 meeting
+	Finding out what we can do at Pzz=15% for a single x=0.4 point
+	Set up b1 and Azz meetings for later this week
+	Continued attempting to optimize a worst-case scenario for b1 with ND3 at Pzz=15%
+	Wrote up wiki about results in the worst-case scenario for b1
+	b1 meeting
+	Working on pulling the points from G. Miller's b1 calculations
+	Looked at b1 and compared to proposal, to make sure that everything matches what we said it did
+	Ran Pzz scan of x=0.4 optimized b1 code to find sigma from zero 
+
+
+Azz
+	Running Q2 scan for LiD Azz
+	Running Q2 scan for LiD Azz with no Q2 cut
+	Running Q2 scan of ND3 Azz with no Q2 cut
+	Organized Tensor Workshop presentations to make it easier to refer to when writing the Azz proposal
+	Worked on seeing how many Q2 points we can squeeze out of an Azz measurement
+	Fixed Q^2=0.3 Azz issues
+	Wrote up Azz Q^2 scan measurements on wiki and contacted collaborators to organize a meeting
+	Created git repo for the Azz proposal
+	Worked on Azz proposal
+	Read papers to get a better sense of the Azz background to make writing the proposal easier
+	Worked on the Azz proposal a bunch
+	Really, most of the day spent on Azz
+	Mostly putting in quotes I found in papers so that I can eventually build up a proposal
+	Worked on Azz proposal
+	Continued working on Azz proposal
+	Spent most of the day working on the Azz proposal
+	Worked on Azz proposal
+	Built over-simplified model of the relationship between SRC and tensor polarization
+	Continued working on Azz proposal
+	Worked on Azz proposal
+	Meeting with Karl to discuss my insights from the past few days
+	Continued to work on the Azz proposal
+	Took videos to end my experiments with the gyroscopes
+	Meeting with Patricia to attempt to understand tensor polarization
+	Worked on understanding tensor polarization
+	Meeting with Karl and Patricia about understanding tensor polarization
+	Still trying to figure out tensor polarization
+	TAzz proposal meeting
+	Played with gyroscopes some more to look at theta=90deg properties
+	Ran x scan for Azz
+	Played with potential kinematics for Azz
+	Meeting with Donal to discuss x>1 Azz
+	Plotting the S- and D-state wavefunctions that I got from Donal yesterday
+	Attempted to recreate Azz from S- and D-state models
+	Attempting to figure out the relationship between psi_s & psi_d with u(r) and w(r)
+	Continued playing with Frankfurt and Strikman's calculations
+	Succesfully reproduced F&S calculation for D(e,e'N) at 180 degrees
+	Attempting to decipher the difference between u(r) and psi(r) wavefunctions
+	Grabbing u(r) and w(r) from different potentials
+	More work on trying to reproduce Strikman's plots
+	Working on understanding Frankfurt & Strikman's angular dependence Azz plot (Fig. 7.6)
+
+
+Quasi-Elastic 3He
+
+
+Papers and Grants
+
+
+Conference Planning
+	Wrote abstract for GRC
+	Put together GRC application
+	Virtually attended the APEX collaboration meeting
+	Sent call for proposals for the Tensor Workshop
+	Sent in application for the Gordon Conference
+
+
+SysAdmin
+	Meeting with Tyler to show him around our computer systems
+	Meeting with Josh
+	Put in order for new HDDs and toner
+	Picked up key to the server room
+	Quick scan of the computer room to make sure everything looks fine
+
+
+Job Issues
+	Put together monthly summary
+	Wrote up state & CV for JLab User's Group Board of Directors
+	Finalized and submitted UGBoD bio and statement
+	Send problem request to JLab regarding the Wiki's security certificates and formatting problems
+	Attended Physics Colloquium (Meeting)
+	Meeting with potential undergrad student interested in the department
+	Read and commented on Transversity paper to be submitted to PRC
+	Set up RAID to automatically alert me in case of failure and to give occassional updates on RAID status
+	Meeting with Peter Monaghan for his PYS award
+	Attended Peter Monaghan's colloquium
+	Finished setting up RAID so that it sends me a weekly status e-mail
+	Organized papers better
+	Updated monthly summary plots to a better format
+	Contacted Brad about moving my repos to JLab's git servers
+
+
+Other
+	Worked on lgbt+physicists BPG
+	oSTEM TWG Meeting
+	Meeting for the President's Commission on the Status of GLBT Issues 
+	Pancake Breakfast Awards Cermony/Meeting
+	TPACC meeting
+	LGBTPhys-Org GO Meeting
+
+

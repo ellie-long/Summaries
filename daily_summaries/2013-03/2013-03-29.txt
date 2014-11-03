@@ -1,0 +1,11 @@
+Daily Summary
+
+3/29/2013
+
+Set up Dragon Diction in the lab
+g2p Meeting
+Made spreadsheet for lab temp/humidity
+Played with b1 rates code -- succesfully translated qvec.f to qvec.cpp
+Attempted to install GEMC to play with SoLID in GEANT4 -- failed
+
+

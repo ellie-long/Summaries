@@ -1,0 +1,13 @@
+Daily Summary
+
+7/10/2013
+
+Quasi-Elastic Meeting
+Updated the humidity information
+g2p Meeting
+LGBTPhys-Org GO Meeting
+Ran Q2=0.5 Ay0 data through the new script
+Ran Q2=1.0 Ay0 data through the new script
+
+
+

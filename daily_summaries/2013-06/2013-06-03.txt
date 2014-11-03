@@ -1,0 +1,11 @@
+Daily Summary
+
+6/3/2013
+
+Made Azz plots for Dustin that contain new drift estimates
+Local g2p meeting
+Incorporated the new drift estimates into the rebinned-x plots
+
+
+
+

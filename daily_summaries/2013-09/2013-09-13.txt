@@ -1,0 +1,13 @@
+Daily Summary
+
+9/13/2013
+
+Debugging QE b1 rates code
+Scanned over Q2 for HMS b1 point in QE
+Wrote bash script to automatically loop over Q2 values
+Scanned over Q2 for HMS and SHMS to check QE b1 rates
+Edited script so that it scans over each of the four x bins on its own
+Edited script to allow for 5 bins in x
+Edited plotting script to show all 5 bins in x for both the HMS and the SHMS
+Recorded progress on b1 wiki
+

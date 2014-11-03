@@ -1,0 +1,9 @@
+Daily Summary
+
+10/30/2014
+
+Meeting to go over helium fridge mount plans with Karl
+Doing HAND analysis of recent Ay0 runs that made it through the farm
+WOrking on building Hall A in gemc
+
+

@@ -1,0 +1,9 @@
+Daily Summary
+
+7/21/2014
+
+Hot-swapped failed drive in Endeavour RAID
+Attempted to pick up the lift, but John wasn't there
+Attempted to upgrade Ubuntu, but it failed horribly and I couldn't get it to boot
+
+

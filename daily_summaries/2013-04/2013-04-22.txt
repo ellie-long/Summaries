@@ -1,0 +1,11 @@
+Daily Summary
+
+4/22/2013
+
+Added He-4 and N-14 rates to spreadsheet
+Local g2p Meeting
+Meeting with Dawn about how to start an oSTEM Chapter
+Added Mott and unpolarized cross sections for He-3 and N-14 into the b1 rates FORTRAN script -- haven't included in the total yet
+Changed the b1 rates FORTRAN script so that it uses absolute error bars instead of relative ones
+
+

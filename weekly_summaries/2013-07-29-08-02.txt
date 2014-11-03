@@ -1,0 +1,43 @@
+Weekly Summary
+
+7/29/2013 - 8/2/2013
+
+EG4
+EG4 Meeting
+
+
+g2p
+g2p Meeting
+
+
+b1
+Reading through DNP in medicine papers and keeping track of potentially useful information for a proposal
+
+
+Quasi-Elastic
+Figured out how to run multiple replays in parallel!
+Replaying Q2=0.1 Ay0 *.dat files with EDTM information
+Running Q2=0.5 Ay0 data
+
+
+Job Issues
+Set up new computer to work with UNH network and e-mail
+Preparing office for move this afternoon
+Moved into new office
+Recorded temp/humidity data from the weekend
+Recorded yesterday's temp/humidity data
+Recorded yesterday's temp/humidity data
+Noticed the internet in the new office is 2 orders of magnitude faster than in the old office -- Patricia was informed
+Recorded yesterday's temp/humidity data
+Rearranged office
+
+
+Other
+Wrote a Teaching Statement for PYS
+Wrote Cover Letter for PYS
+Finished putting together the entire PYS package (first draft)
+
+
+
+
+

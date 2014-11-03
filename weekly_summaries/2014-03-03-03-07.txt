@@ -1,0 +1,63 @@
+Weekly Summary
+
+3/3/2014 - 3/7/2014
+
+EG4
+Looked into EG4 runs from last week and submitted test simulations
+
+
+g2p
+g2p Meeting
+
+
+UNH Lab
+Meeting with Zain to discuss his URA proposal
+UNH Collaboration Meeting
+Installed new Temperature Sensor into the iTC -- It works!
+Read through and commented on Zian's URA proposal
+Met with Zain to discuss in depth his URA proposal
+Read through and commented on Zain's URA proposal changes from last night
+Worked with Zain to finalize his proposal
+Worked with Zain A LOT to finalize his proposal
+Made final comments on Zain's URA proposal
+Put the magnetic field mapping from the January cool-down into plots
+
+
+b1
+
+
+Azz
+Worked on Azz talk for Tensor Workshop
+Send Azz talk first draft around for comments
+Discussed Azz talk with Patricia and Karl
+Worked on Azz talk
+Worked on Azz talk
+Redid Azz cross section-check calculations
+Finished Azz talk
+
+Quasi-Elastic 3He
+Began transferring Ay0 analysis files to UNH to finish analyzing
+Copied Ay0 runs from JLab to UNH
+Began looking into Ay0 analysis, which isn't working like it used to
+
+
+Conference Planning
+Sent out summary of Tensor Workshop registrants status
+Tensor Workshop Meeting
+
+
+SysAdmin
+
+
+Job Issues
+Put together monthly summary
+Added new topic (SysAdmin) to list of summary topics
+Started reading and commenting on the d2n paper
+
+
+Other
+Spreading work on TGNH of the resolution that passed last night in Portsmouth
+oSTEM TWG Meeting
+Meeting with Wendy to show someone the hearing aid
+
+

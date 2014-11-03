@@ -1,0 +1,12 @@
+Daily Summary
+
+5/12/2014
+
+Scheduling meetings for the week
+Got user_ana working! (I think...)
+Running full simulation run to test user_ana
+Put together proposals for oSTEM National Conference
+Added other wavefunctions to attempted Azz calculation
+UNH Collaboration Meeting
+
+

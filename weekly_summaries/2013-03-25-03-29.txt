@@ -1,0 +1,48 @@
+Weekly Summary
+
+3/25/2013 - 3/29/2013
+
+EG4/g2p
+Local g2p meeting
+Made comments to Ryan's dissertation proposal
+EG4 Meeting
+g2p Meeting
+
+
+b1
+Skype call with Patricia to go over how the rates code works
+Attempting to translate fortran code to C++ so that I can read it easily
+Set up camera to record temp/humidity in the lab every 6 hours (In the future, might want to look into Amazon Mechanical Turk to analysis data from pictures)
+Met with safety services who walked through the lab
+Played with b1_rates 
+Moved packing items to the attic
+Cleaned up lab floorspace
+Made spreadsheet for lab temp/humidity
+Played with b1 rates code -- succesfully translated qvec.f to qvec.cpp
+Attempted to install GEMC to play with SoLID in GEANT4 -- failed
+
+
+Quasi-Elastic
+Edited Ay0 paper to include uncertainties from run-by-run flucuations
+Prepared Quasi-Elastic website for meeting
+Quasi-Elastic Analysis Meeting
+Made # of Pos/Neg Events vs Run # plots for Doug
+
+
+Job Issues
+Set request for SEED to pick up more unused equipment
+Helped John Dawson use Inkscape to extract information from a plot
+Figured out how to extract exact data points from a vector plot using XML information
+Met with disability services about hearing stuff
+Set up Dragon Diction in the lab
+
+
+Other
+Sent out scheduling poll for next LGBTPhys-Org GO meeting
+Answered Adopt-a-Physicist questions
+Organized next LGBTPhys-Org GO Meeting & Minutes
+
+
+
+
+

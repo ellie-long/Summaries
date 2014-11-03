@@ -1,0 +1,144 @@
+Monthly Summary
+
+2/2014
+
+EG4
+	EG4 Meeting
+	EG4 Meeting
+	Responded to Lamiaa's questions regarding user_ana
+	Played with Lamiaa's new eg4 environmental variables
+	EG4 Meeting
+	Wrote down all of my starting position for where I am in regards to the EG4 software
+	Worked with Lamiaa a bit to see if I can get all of the Hall B software running
+	Cleaned up my $PATH variable on the JLab ifarm to only include things I know I'm using
+	Wrote up the user_ana fix on the EG4 wiki 
+	Looked at results from last night's EG4 recsis run on job.shell_1
+	EG4 Meeting
+	Running EG4 job_launch script to see if it gives usable results
+	Played around with steg_e2a files to try and get a simulation running for EG4
+	EG4 meeting
+	Made some edits to job.shell producing script, testing to see if it works
+	Looked into EG4 simulation problems
+	Checked on status of EG4 simulation running
+
+
+g2p
+	g2p Meeting
+	Really long g2p Meeting
+	g2p meeting
+	Long g2p meeting
+	g2p Meeting
+	Long g2p Meeting
+
+
+UNH Lab
+	Contacted and got an update with Oxford regarding the broken temperature sensor card
+	Local UNH collaboration meeting
+	Went through cool-down video to add more LHe level meter points to understand the slopes
+	Continued analyzing cool-down data
+	Calculated the LHe loss rates from the cool-down analysis data
+	Meeting with Zain about his URC poster
+	UNH Collaboration Meeting
+	Second UNH Collaboration Meeting
+	Meeting with Justin about the Q Meter
+	UNH Collaboration Meeting
+	Second UNH Collaboration Meeting
+	Meeting with Zain about his URA proposal
+
+
+b1
+	Reading G. Miller's recent b1 paper on six-quark, hidden color physics
+	Pulled information from G. Miller's paper to use in the b1 plots
+	Added G. Miller's new b16q calculation plots to the b1 estimates plot
+	Wrote wiki page on my updates to the b1 plots
+	Worked up separating R from m plots in b1 (G. Miller's b16q calculation)
+	Looking into different spectrometer settings to increase b1 statistics
+	Wrote up results from b1 HMS scan from last night	
+
+Azz
+	Reading up on 2H(e,e'p) scattering
+	Attempting to define X(e,e'p) scattering cross sections to add to Azz code
+	Installed GEANT4 locally
+	Reading up on pmin relation to try and include X(e,e'p)
+	Continuing to look into adding (e,e'p) cross section to Azz calculations
+	Continued looking into (e,e'p)
+	Continued looking into (e,e'p) measurement
+	Picked up book from the library on (e,e'p) scattering and read through it
+	Worked on Azz talk for Tensor Workshop
+	Worked on Azz talk
+
+
+Quasi-Elastic 3He
+	Pulled some QE 3He raw data files to start debugging and re-coding Ay0
+	Reinstalled analyzer on ifarm
+	Worked on reloading everything in ellana on ifarm
+	Worked on trying to get analyzer running on the farm again
+	Got analyzer working on the ifarm!
+	Worked on getting Ay0 replays to run on ifarm
+	Continued working on getting Ay0 replays to run on ifarm
+	Worked on getting Ay0 replays to run on the farm
+	Succeeded in getting Ay0 replays to run on the farm!
+	Submitted Q2=0.1 jobs to be analyzed on the farm
+	Checked on ifarm Ay0 replays -- only took two hours to run! (I should have start this 5 years ago...)
+	Fixed neutron hunt Ay0 analysis code and submitted Q2=0.1 data to the farm
+	Checked last night's Ay0 analysis runs -- having troubles
+	Continued troubleshooting Ay0 analysis problems
+	Got Ay0 analysis running on the farm
+	Submitted Q2=0.1 to the farm
+	Noticed ifarm Ay0 runs weren't going to finish, so re-submitting them in smaller chunks
+	Looked into why Ay0 runs were failing, and re-submitted them slightly fixed
+	Checked on the status of Ay0 runs
+	Checked on status of Ay0 runs
+
+
+Papers and Grants
+	Meeting with Doug to discuss Ay0 paper
+
+
+Conference Planning
+	Tensor Workshop Meeting
+	Went over first draft of Tensor Workshop poster
+	Tensor Workshop meeting
+	Updated Joanna on the poster revision
+	Touched base with speakers for Tensor Workshop
+	Meeting with Karl to discuss Tensor Workshop & X(e,e'p) calculations
+	Got second draft of Tensor Workshop poster and sent new comments back
+	Tensor Workshop Meeting
+	Got flights & bus for the Tensor Workshop
+	Worked on Tensor Workshop talk
+	oSTEM Meeting with the conference hotel and NOGLSTP
+	Put together agenda for Tensor Workshop meeting for this afternoon
+	Tensor Workshop meeting
+	Put together list of speakers and their registration status
+	E-mail workshop speakers to encourage them to register
+
+
+SysAdmin
+	Was introduced to the computer systems at UNH for preparation of taking over Sarah's old role
+	Meeting with Josh to discuss sysadmin details
+	Played around with the NPG systems
+
+
+Job Issues
+	Put together monthly summary
+	Updated CV with new Nature publication
+	Hard drive crash! D-:
+	Attempted to recover from degraded RAID...
+	Attempting to recover RAID from degraded status....
+	Wrote python script to pull data from ELog (In case all is lost)
+	Recovered the RAID!!! :-D :-D :-D
+	Backing up all important files
+	Checking HDDs for health status
+	Meeting with Josh to discuss HD problems
+
+
+Other
+	OMSA Quench Discussion
+	UNH Snow Day
+	oSTEM TWG Meeting
+	Meeting with Mark Anthony about oSTEM@UNH
+	Updated lgbt+physicists website
+	Read through and commented on new BPG
+	TPACC meeting
+
+

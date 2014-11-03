@@ -1,0 +1,12 @@
+Daily Summary
+
+8/7/2013
+
+g2p Meeting
+Organized incoming materials for the lab
+Wrote code so that the charge/livetime information can be analyzed in parallel on my local machine
+Updated CV and PYS package
+Recorded yesterday's temp/humidity data
+
+
+

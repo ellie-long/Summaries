@@ -1,0 +1,10 @@
+Daily Summary
+
+3/28/2014
+
+Trying to figure out parallel processing in FORTRAN
+Running Q^2 scan using Misak's code
+Meeting with incoming grad students to show them the lab
+Began implementing parallel processing into ptrates
+
+

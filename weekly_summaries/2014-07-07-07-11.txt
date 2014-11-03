@@ -1,0 +1,74 @@
+Weekly Summary
+
+7/7/2014 - 7/11/2014
+
+EG4
+Fixed steg problem where ntuple was empty, then submitted steg jobs
+
+
+g2p
+g2p Meeting
+
+
+UNH Lab
+UNH Collaboration Meeting
+Helped Zain in the lab
+Prepped the lab for student visit on Friday
+Cleaned up the electronics rack in the lab
+Grabbed cryostat electronics feedthrough measurements to order a new connector
+Tinkered with the Q-meter
+Played with the Q-meter a bit
+Gave tour of the lab to teachers coming in
+
+
+b1
+
+
+Azz
+
+
+Quasi-Elastic 3He
+Checked results of the Ay0 batch replay from last week
+Added proton run information, and ch/lt information to Ay0 replays
+Checked on Ay0 runs status
+Checking status of finished Ay0 runs
+Updated charge/lt information getting to Ay0 runs
+Moved Ay0 analysis files from desktop to ifarm
+Fixed charge/lt problem in Ay0 analysis and submitted a new batch to the farm
+
+
+Conference Planning
+
+
+SysAdmin
+Meeting with Josh
+Poked around the NPG website
+Meeting with Tyler where we fixed the Lentil fan and played with denyhosts on endeavour
+
+
+Job Issues
+Updated NPG grant update
+
+
+Other
+Attended the White House LGBT Innovation Summit
+Offer opinions on JLab's insurance policies
+Put together JLab Alumni Group announcement and set up LinkedIn and Facebook groups
+
+
+Daily Summary
+
+7/14/2014
+
+Tried to figure out why Toby and Ryan's mac server is down
+Checked results of Ay0 farm runs
+Checked results of steg farm runs
+Fixed problem in steg farm runs where it was using the wrong tcl file and not outputting all of the correct files
+Re-running Ay0 ch/lt analysis and including *.root files to make sure it's running properly
+Fixed Toby and Ryan's network problems (the switch needed to be reset)
+Moved everything on the Windows box from XP to Win7
+Set up github in the lab
+Got GPIB working through the network again
+Finished GRC registration
+
+

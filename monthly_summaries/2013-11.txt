@@ -1,0 +1,128 @@
+Monthly Summary
+
+11/2013
+
+EG4
+	Testing that my gsim code still works on the new CentOS
+	EG4 Meeting
+	Looked at results (errors) from EG4 submission last week and summarized them on the EG4 wiki
+	EG4 Meeting
+	EG4 Meeting
+	Worked on fixing the EG4 software on CentOS 6.2
+
+
+g2p
+	g2p Meeting
+	Really really long g2p Meeting
+	g2p Meeting
+	g2p Meeting
+	Really long g2p Meeting
+
+
+UNH Lab
+	UNH Collaboration Meeting
+	UNH Collaboration Lunch Meeting
+	UNH Collaboration Meeting
+	UNH Collaboration Lunch Meeting
+	Local UNH Collaboration Meeting
+	Meeting in the lab with Harry Nordyke from AirGas about equipment we need
+	Meeting with Harry and Karl, continuing conversation about equipment
+	Got in contact with the director of the Morse Machine Shop about building a top plate for the cryostat
+	Created CAD drawing of the cryostat top plate that we need to order
+	Revisited the CAD drawing of the cryostat top
+	Meeting with Zain about his progress with the thermocouples
+	Finished CAD design for the cryostat cap
+	Put together a checklist for the installation of the AMI solenoid
+	Meeting with Kevan Carpenter at the Kingsbury Machine Shop to discuss machining the cryostat top plate
+	Researched the structural integrity of polycarbonate at cryogenic temperatures
+	Began installing solenoid into the AMI cryostat
+	Pulled out magnet internals
+	Measured LHe sensor length
+	Installed solenoid onto bottom plate
+	Attempted to solder solenoid, but it didn't go work
+	Undid solenoid soldering
+	With help from Jim Williams, soldering the two bus bar-to-lead joints
+	Finished installing the AMI magnet
+	Set the AMI magnet to where it's going to stay
+	Uploaded pictures from the magnet installation to Flickr
+	Drew up CAD drawing of thermometry stick
+	Drew up CAD drawing of one of the custom blocks
+	Drew up CAD drawing of the second custom block
+	Returned dolly to Morse and picked up the newly-machined cryostat top plate (Meeting)
+	Edited the machining work order to fit within our budget
+	Re-drilled holes on cryostat top plate so that they weren't threaded
+	Picked up second set of machined parts for the AMI magnet
+	Installed the power supply cables for the AMI magnet
+	Cleaned up the lab to prepare for cooldown
+	Had a surprise shipment of cryogens -- working on figuring out what to do
+	Worked with Zain on testing the thermocouples with liquid nitrogen
+	Tested the cryostat top plate under pressure at LN2 temperature
+	Worked with Zain to see about getting the thermocouples working on the iTC
+
+
+b1
+	Reading through older tensor-polarized papers
+	Began writing a document to put all tensor-polarized formalism in the same space
+	Meeting with Kathy Cataneo about MRI and grants
+	Read through and commented on Karl's proceedings for the XVth International Workshop on Polarized Sources, Targets, and Polarimetry
+	Remade *.eps versions of the most updated b1 plots for Karl
+
+
+Azz
+	Continued working on the formalism document
+	Worked on tensor-polarized formalism tech note
+	Worked on formalism tech note
+
+
+Quasi-Elastic 3He
+	Attempting to run quasi-elastic code again, since coming back from difficulties about a month ago
+	Installed MCEEP and attempted to understand how to run and analyze a test run on it
+
+
+Papers and Grants
+	Began organizing NSF MRI proposal
+	Worked on NSF MRI proposal 
+	Worked on proposal for NSF MRI
+	Worked on Quasi-Elastic paper
+	Made further edits to the Ay0 paper
+	Finished current draft of Ay0 manuscript and sent it to the Hall A Collaboration
+	Meeting with Karl and Patricia to talk about the JSA proposal, MRI proposal, and equipment for the lab
+
+
+Conference Planning
+	Working on JSA Tensor-Polarized Workshop proposal
+	Continued working on the JSA workshop proposal
+	Worked on JSA workshop proposal
+	Worked on JSA workshop proposal
+	Meeting with Karl and Patricia about JSA Workshop proposal
+	Finished the JSA proposal and sent it around to potential collaborators
+	Finished going through the Spin96 Proceedings and saving useful papers from it
+
+
+SysAdmin
+
+
+Job Issues
+	New phone finally installed!! :-D
+	Received, configured, and figured out how to use assistive listening device
+	Caught up on monthly, weekly, and daily reports since ELog was having trouble when I first tried to submit them
+	Answered Adopt-a-Physicist questions (meeting)
+	Safe Zones Training (Meeting)
+	Read through and offered comments on Y. Zhang's recent PRL paper
+	Commented on the NPG website
+	Made sure InspireHep and ArXiV papers are up to date
+	Attended a Grant Writing workshop
+	Worked on filling out my yearly performance review
+	Updated personal UNH website to include more recent information and to add my publication list
+	Continued updates to UNH website
+
+
+Other
+	Phone meeting with Ramon about study on trans physicists
+	T-PACC meeting
+	Meeting of the President's Commission on the Status of GLBT Issues
+	Meeting with Ellen about Safe Zones in the physics department
+	oSTEM odds and ends (meeting but not really)
+	Filled out UNH ADVANCE climate survey
+
+

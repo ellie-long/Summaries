@@ -1,0 +1,43 @@
+Weekly Summary
+
+9/30/2013 - 10/4/2013
+
+EG4
+EG4 Meeting
+
+
+g2p
+g2p Meeting
+
+
+b1
+Wrote script to look at the cross sections and dilution factor with a higher resolution in x
+Fixed the hard-coded dilution factor in ptrates.f
+Studied the changes in the dilution factor over x
+Wrote up a summary of this morning's study on the b1 wiki
+Changed cross sections to include F1 and F2 from Bosted
+Wrote up summary of effects on b1 wiki
+Studied b1 cross sections using F1 only simplified cs and F1 & F2 full cs
+Updated b1 wiki with results
+Compared cross sections to data
+Uploaded cross section comparisons to b1 wiki
+Added QE and IE parts of F1 and F2 into the cross section calculations
+Plotted cross sections with full (DIS+QE) Bosted functions
+Spilt up QE and DIS parts of the Bosted cross sections to see contributions from each
+Compared Misak and Bosted code to data
+Wrote up comparisons on b1 wiki
+
+
+Quasi-Elastic
+
+
+Job Issues
+Recorded monthly summary
+
+
+Other
+President's Commission on the Status of GLBT Issues Meeting
+Attended Maurik's colloquium
+
+
+

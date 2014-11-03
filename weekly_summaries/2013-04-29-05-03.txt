@@ -1,0 +1,43 @@
+Weekly Summary
+
+4/29/2013 - 5/3/2013
+
+EG4/g2p
+
+
+b1
+Worked on rates for b1 -- found a problem with the cross sections and dilution factors
+b1 meeting
+Working on the b1 cross sections so that they give a ratio of ~0.3 instead of ~0.0085
+Finalized rates calculations, things look good!
+Writing up what I did for the b1 meeting tomorrow
+Worked on b1 rates with Azz containing a plus- and minus- tensor polarized target
+b1 meeting
+Added A_meas^(2) method to the b1 code
+I've also been neglecting it in my daily reports, but I've spent a lot of time working on the A_zz formalism on the b1 wiki ( https://hallcweb.jlab.org/wiki/index.php/User:Ellie )
+Put the total kinematic spread into the b1 rates code
+Working on making the b1 kinematics plots acceptable for the proposal
+My rates and Patricia's differ by a factor of 4 -- trying to isolate it
+Rates code fixed, it now matches Patricia's
+Working on re-scanning over Q2 now that I have more accurate plots
+Re-scanning over x bins
+Played with cuts to improve Azz errors
+Spent the evening (and the next two days) working on finalizing rates and working on the b1 proposal
+Information on how I spent the weekend can be found here: https://hallcweb.jlab.org/wiki/index.php/User:Ellie
+
+
+Quasi-Elastic
+
+
+Job Issues
+Put together monthly summary
+
+
+Other
+Created poll for LGBTPhys GO meeting
+
+
+
+
+
+

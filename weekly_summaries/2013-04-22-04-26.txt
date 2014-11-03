@@ -1,0 +1,43 @@
+Weekly Summary
+
+4/22/2013 - 4/26/2013
+
+EG4/g2p
+Local g2p Meeting
+EG4 meeting
+g2p Meeting
+
+
+b1
+Added He-4 and N-14 rates to spreadsheet
+Added Mott and unpolarized cross sections for He-3 and N-14 into the b1 rates FORTRAN script -- haven't included in the total yet
+Changed the b1 rates FORTRAN script so that it uses absolute error bars instead of relative ones
+Added He-4 and N-14 rates into the b1 rates code
+Finalized x=0.1 to x=1.0 rates at total rate=1kHz and 50kHz
+Added Oscar's corrections to the b1 rates note document
+Included total rates in the output of the b1 rates code
+Fixed the time calculation (it was in days, I switched it to hours)
+Began playing the rates game in two parts: 1) with total rate < 1kHz, 2) with total rate < 50kHz
+Ran rates code for 50kHz and 500 kHz total rates
+b1 Meeting
+Added spectrometer theta and E' limits to b1 rates code
+Began working on switching the meaning of prec in b1 rates code -- currently, it's dAzz, but I want to make it time so that the code will be easier to run
+Mapped out F1 for each of the x points we're looking at
+Minimized db1 in rates plot
+Wrote script to scan F1 over a large x range, within kinematics we can take
+
+
+Quasi-Elastic
+Quasi-Elastic Meeting
+
+
+Job Issues
+Had issue with my unified inbox not showing any messages
+
+
+Other
+Meeting with Dawn about how to start an oSTEM Chapter
+Attended "Creating a Gender-Inclusive Campus" webinar by Sue Rankin and Genny Beemyn
+
+
+

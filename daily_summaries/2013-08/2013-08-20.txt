@@ -1,0 +1,11 @@
+Daily Summary
+
+8/20/2013
+
+Continuing to pump down the cryostat vacuum chamber
+Worked on code that will let me reanalyze some Ay0 data to double-check with older data
+Worked on designing a system to include temperature sensors in the cryostat
+
+
+
+

@@ -1,0 +1,9 @@
+Daily Summary
+
+4/30/2013
+
+Working on the b1 cross sections so that they give a ratio of ~0.3 instead of ~0.0085
+Finalized rates calculations, things look good!
+Writing up what I did for the b1 meeting tomorrow
+
+

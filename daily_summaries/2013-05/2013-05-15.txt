@@ -1,0 +1,9 @@
+Daily Summary
+
+5/15/2013
+
+Quasi-elastic meeting
+Met with Yawei to diagnose issue with charge (happened to also find small issue with LT)
+Worked on rates tech note
+Working on reinstalling ROOT, since I apparently messed it up at some point
+

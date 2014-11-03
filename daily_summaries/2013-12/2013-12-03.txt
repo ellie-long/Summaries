@@ -1,0 +1,12 @@
+Daily Summary
+
+12/3/2013
+
+EG4 Meeting
+Continuing to debug recsis/user_ana so that it can run on the interactive farm
+Attempting to get the MCEEP utilities to run on a 64 bit system
+Updated flight information for Hall A Collaboration Meeting trip
+Trying to get MCEEP ntuple files to open in ROOT
+
+
+

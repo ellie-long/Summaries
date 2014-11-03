@@ -1,0 +1,11 @@
+Daily Summary
+
+3/26/2013
+
+EG4 Meeting
+Set up camera to record temp/humidity in the lab every 6 hours (In the future, might want to look into Amazon Mechanical Turk to analysis data from pictures)
+Set request for SEED to pick up more unused equipment
+Edited Ay0 paper to include uncertainties from run-by-run flucuations
+Prepared Quasi-Elastic website for meeting
+
+

@@ -1,0 +1,8 @@
+Daily Summary
+
+3/13/2013
+
+Quasi-Elastic Meeting
+Finished run-by-run systematic error analysis of Ay0 at Q2=0.1 and 1.0 (GeV/c)^2
+
+

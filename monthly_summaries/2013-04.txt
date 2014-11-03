@@ -1,0 +1,132 @@
+Monthly Summary
+
+4/2013
+
+EG4
+	EG4 meeting
+	EG4 Meeting
+	EG4 meeting
+
+
+g2p
+	Commented on g2p student talks
+	Went over Toby's talk
+	Critiqued g2p student talks for the APS April Meeting
+	g2p Meeting
+	g2p Meeting
+
+
+UNH Lab
+	Local g2p Meeting
+	Local g2p Meeting
+	Local g2p Meeting
+	Local g2p Meeting
+	Working on scheduling Magnetic Safety Training
+	All items for SEED have been removed from the lab! Huzzah!! :-D
+
+
+b1
+	Continuing attempt to get GEMC working
+	Playing around with b1 rates, trying to match those in proposal
+	ptrates.f isn't compiling -- reloading from tar file to see if I can fix it
+	Recording labels from all of the output files of ptrates.f and incorporating them into LibreOffice Calc to understand how the outputs work
+	Continuing to play with b1 rates and add comments to the FORTRAN code as I figure out how it works
+	Added rates and time bar graphs to rates/scripts/new_proj_b1.sh
+	Worked on rates plots
+	Comparing existing ND3 rates to LiD rates -- this needs to be updated
+	Edited b1 wiki for meeting
+	b1 meeting
+	Worked on 'setting the board' for playing with rates -- added kinematics plots to projection plot analysis
+	Finished "Setting the Board" for the b1 rates game
+	Began playing with the rates to get a sense of where we want to be
+	Seeing how rates change when adjusting Q^2
+	Created animated *.gif files to show how the rates change with a scan over Q^2
+	Found best-case physics rates for x=0.1, 0.3, 0.5, and 0.625 (assuming that ptrates.f is working correctly)
+	Created b1 wiki site for rates update
+	Implemented PAC time into b1 rates code
+	Began figuring out how to implement total rates into b1 rates code
+	Began implementing total rates into b1 rates code
+	Working on adding QE peak to b1 rates code
+	Got the b1 rates code to accept x values up to x=0.9
+	Got quasi-elastic peak kind of working in b1 code (can get up to x=0.98)
+	Added dx error bars in b1 rates code
+	Trying to double-check that the cross section part of the code is working correctly -- I think there's a problem
+	Made sure the cross section calculations in the b1 rates code works correctly
+	Making a copy of the rates script in a spreadsheet so that I understand absolute everything that it's doing
+	Made website for b1 meeting
+	b1 Meeting
+	Completely understand what the b1 rates code is doing (Finally!! :-D )
+	Matched up back-of-envelope calculation of rates to the b1 rates code -- they are within the same order of magnitude! :-D (Off by about 0.6, but that could be due to kinematic clipping that the b1 rates code does that the quick estimate doesn't take into account)
+	Playing with b1 rates spreadsheet
+	Updated labbook with the work I've been doing
+	Began implementing He and N cross sections into spreadsheet
+	Working on figuring out how dAzz is calculated from the rates
+	Added He-4 and N-14 rates to spreadsheet
+	Added Mott and unpolarized cross sections for He-3 and N-14 into the b1 rates FORTRAN script -- haven't included in the total yet
+	Changed the b1 rates FORTRAN script so that it uses absolute error bars instead of relative ones
+	Added He-4 and N-14 rates into the b1 rates code
+	Finalized x=0.1 to x=1.0 rates at total rate=1kHz and 50kHz
+	Included total rates in the output of the b1 rates code
+	Fixed the time calculation (it was in days, I switched it to hours)
+	Began playing the rates game in two parts: 1) with total rate < 1kHz, 2) with total rate < 50kHz
+	Ran rates code for 50kHz and 500 kHz total rates
+	b1 Meeting
+	Added spectrometer theta and E' limits to b1 rates code
+	Began working on switching the meaning of prec in b1 rates code -- currently, it's dAzz, but I want to make it time so that the code will be easier to run
+	Mapped out F1 for each of the x points we're looking at
+	Minimized db1 in rates plot
+	Wrote script to scan F1 over a large x range, within kinematics we can take
+	Worked on rates for b1 -- found a problem with the cross sections and dilution factors
+	b1 meeting
+	Working on the b1 cross sections so that they give a ratio of ~0.3 instead of ~0.0085
+	Finalized rates calculations, things look good!
+	Writing up what I did for the b1 meeting tomorrow
+
+
+Azz
+
+
+Quasi-Elastic 3He
+	Running Ay0 data without HAND -- trying to see if (e,e') matches Yawei's results
+	Quasi-Elastic meeting
+	Re-running Ay (e,e') for vertically polarized 3He at Q2=0.1, 0.5, and 1.0 to compare with Yawei's analysis of the same runs
+	Plotted run-by-run 3He(e,e') Ay asymetries to compare to Yawei
+	Quasi-Elastic Meeting
+	Matching 3He(e,e') run set so that Yawei and I are using the same runs to compare our data
+	Compared Nup, Ndown, ChargeUp, ChargeDown, LTup, and LTdown of my analysis and Yawei's
+	Continued comparison between Yawei's and my Ay0 data to try and find errors (LT is off the most)
+	Put together website for Quasi-Elastic meeting
+	Quasi-Elastic Meeting
+	Quasi-Elastic Meeting
+
+
+Papers and Grants
+	Added Oscar's corrections to the b1 rates note document
+
+
+Conference Planning
+
+
+SysAdmin
+
+
+Job Issues
+	Had some issues with unity window manager -- seems to be fixed now
+	Filled out disability paperwork
+	Got some insurance information fixed
+	Had issue with my unified inbox not showing any messages
+
+
+Other
+	LGBTPhys-Org GO meeting
+	Created oSTEM-TWG Needs Assessment Survey
+	Updated LGBTPhys website
+	TPAC Meeting
+	Attending EIC meeting
+	Judged Graduate Research Conference posters
+	Judged Graduate Research Conference talks
+	Meeting with Dawn about how to start an oSTEM Chapter
+	Attended "Creating a Gender-Inclusive Campus" webinar by Sue Rankin and Genny Beemyn
+	Created poll for LGBTPhys GO meeting
+
+

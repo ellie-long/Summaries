@@ -1,0 +1,37 @@
+Weekly Summary
+
+7/15/2013 - 7/19/2013
+
+Eg4/g2p
+Local g2p meeting
+EG4 meeting
+
+
+b1
+Recorded humidity data from the weekend
+Added historical humidity and temperature data for April, May, and June
+Updated humidity plots
+Recorded humidity data
+Updated temp/humidity data
+Recorded temp/humidity data
+
+
+Quasi-Elastic
+Getting raw data files off of the cache
+Began transferring all Ay0 vertical raw datafiles to UNH machine
+Prepared Quasi-Elastic webpage
+Quasi-Elastic Meeting
+
+
+Job Issues
+Got moderncv.cls working on LaTeX so that I can remake my CV using Linux so that I can apply to the Promising Young Scientist 
+Fixed Michelle's computer
+Began updating CV in LaTeX
+Continued updating CV
+
+
+Other
+Submitted oSTEM Proposal
+Completed the Survey of Earned Doctorates
+Went to the White House Office of Science and Technology Policy for a meeting with Kei Koizumi, the Assistant Director for Federal R&D
+

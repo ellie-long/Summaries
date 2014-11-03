@@ -1,0 +1,11 @@
+Daily Summary
+
+7/10/2014
+
+Put together JLab Alumni Group announcement and set up LinkedIn and Facebook groups
+Fixed steg problem where ntuple was empty, then submitted steg jobs
+Checked on Ay0 runs status
+Updated NPG grant update
+Tinkered with the Q-meter
+Poked around the NPG website
+

@@ -1,0 +1,13 @@
+Daily Summary
+
+7/3/2013
+
+Added last night's humidity data to the spreadsheet
+g2p Meeting
+Rearranged the lab so that the dehumidifiers could go on a desk near the sink
+Bought and installed hoses onto the dehumidifiers so that they will drain into the sink
+Set up the camera so that if the dehumidifiers shut off, the red blinking light that indicates that is visible in the view
+
+
+
+

@@ -1,0 +1,137 @@
+Monthly Summary
+
+8/2013
+
+EG4
+	EG4 Meeting
+	EG4 Meeting
+	Set up gsim, root, and analyzer on the new ifarm CENT OS 6.2 system
+	Played with gsim, attempting to understand Marco's e-mail
+	Figured out why all of my EG4 runs from the weekend failed
+	Fixed EG4 simulation problem and resubmitted the jobs to the farm
+	EG4 Meeting
+	Played a bit with Marco's EG4 simulation code and submitted a number of jobs to the farm to play with
+
+
+g2p
+	g2p Meeting
+	g2p Meeting
+	g2p Meeting
+	g2p Meeting
+
+
+UNH Lab
+	Local g2p meeting
+	Local g2p meeting
+	UNH Collaboration Meeting
+	Began soldering 19-pin connector for the AMI magnet electronics
+	Continuing soldering electronics for AMI magnet
+	Finished soldering electronics for AMI magnet
+	Switched out top vacuum chamber on the big pumps to a 90-degree angle piece
+	Moved turbopump down to the lab
+	Hooked up turbopump and began pumping down the cryostat vacuum jacket
+	Continuing to pump down the cryostat vacuum chamber
+	Worked on designing a system to include temperature sensors in the cryostat
+	Priced soldering iron and fuses for the lab
+	Tried to figure out how to create a better vacuum on the cryostat jacket
+	Rearranged the vacuum tubing to attempt to get a better vacuum
+	Fixed the vacuum tubing! Turns out the gauge had the wrong zero-setting. Set to factory conditions and we seem good to go!
+	Scheduled pick-up of the cryostat lift
+	Opened ballast on the DUO pump and ran the pumps for ~30 minutes -- everything is running great
+	Organized new equipment in the lab
+	Did dry run-through of magnet cool down
+	Played with roots pump vacuum gauge to see if I could fix it -- no luck :-(
+	Set up pegboard in the lab
+	Rearranged lab to prepare for cooldown
+	Attempted to connect the electronics rack to the PC
+	Attempted to get any piece on the rack to talk to the PC via GPIB
+	Recorded yesterday's temp/humidity data
+	Put together monthly activity summary
+	Recorded yesterday's temp/humidity data
+	Cleaned up lab after a fire happened over the weekend
+	Checked all electronics and pumps for problems
+	Ran tests on the electronics controlling the pumps in the lab
+	Contacted Pfeiffer about the cloudiness in the pump oil
+	Recorded the weekend's temp/humidity data
+	Recorded yesterday's temp/humidity data
+	Organized incoming materials for the lab
+	Recorded yesterday's temp/humidity data
+	Recorded yesterday's temp/humidity data
+	Organized incoming equipment for the lab
+	Recorded yesterday's temp/humidity data
+	Recorded the weekend's temp/humidity data
+	Delivered cabinet to the lab
+	Recorded yesterday's temp/humidity data
+	Recorded this week's temp/humidity data
+	Set up safety equipment that arrived for the lab
+	Recorded the past few days' temp/humidity data
+	Recorded yesterday's temp/humidity data
+	Recorded the past week's temp/humidity data
+	Sent request on UT85 cabling and accessories to Microstock
+
+
+b1
+	Read through some more medical DNP papers
+	Reading through DNP in medicine papers and keeping track of potentially useful information for a proposal
+	Read up on DNP theory
+	Read up on DNP
+	b1 Meeting
+
+
+Azz
+
+
+Quasi-Elastic 3He
+	Replayed Q2=0.1 Ay0 data
+	Running Q2=0.5 Ay0 data
+	Replayed Q2=1.0 Ay0 data
+	Found that *.root files were coming out large due to an old problem with outputting too many histograms -- This was fixed (the same way as in https://userweb.jlab.org/~ellie/QEA-meetings/2010-03-10.html )
+	Worked on running the charge/lt locally
+	Wrote code so that the charge/livetime information can be analyzed in parallel on my local machine
+	Wrote script to automatically merge necessary files to get asymmetries
+	Finalizing Ay0 Q2=0.1 results
+	Confirmed that the charge/lt Q2=0.1 Ay0 runs from last night ran successfully 
+	Updated plots of Ay0 and Ay for Q2=0.1
+	Prepared Quasi-Elastic website for next week's meeting
+	Plotted new Q2=0.5 Ay0 plots
+	Plotted new Q2=1.0 Ay0 plots
+	Made final Ay0 plots
+	Finished up Ay0 analysis for Friday's meeting
+	Quasi-Elastic Meeting
+	Finalized Ay0 data, including adding prescale uncertainties to the Q2=0.1 point
+	Worked on making pretty the final Ay0 plots, but found they were quite a bit different from previous results
+	Looked into why the Ay0 plots were different
+	Worked on code that will let me reanalyze some Ay0 data to double-check with older data
+	Set up an analysis account so that I can run QE analysis without having hundreds of windows popping up on me drawing histograms
+	Tested QE analysis account to make sure that it's working correctly
+	Running analysis locally is taking forever (one run is still going from last night)
+	Re-setup globusconnect because it was having problems
+	Sent Q2=0.1 Ay0 files to JLab for farm analysis
+	Submitted Ay0 Q2=0.1 jobs to the farm
+	Ay0 farm anaylsis is still failing -- looked into figuring out why
+	Made pretty Ay0 vs. Q2 plots for Simon
+
+
+Papers and Grants
+
+
+Conference Planning
+
+
+SysAdmin
+
+
+Job Issues
+	Rearranged office
+	Tried out new captioning service (ACS)
+	Picked up lost keys at the lockshop
+
+
+Other
+	Updated CV and PYS package
+	Organized next LGBTPhys-GO meeting
+	LGBTPhys GO Meeting
+	Finalized edits and submitted PYS package
+	Took care of OutList items
+
+

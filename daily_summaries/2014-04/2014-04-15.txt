@@ -1,0 +1,10 @@
+Daily Summary
+
+4/15/2014
+
+Continued attempting to optimize a worst-case scenario for b1 with ND3 at Pzz=15%
+Wrote up wiki about results in the worst-case scenario for b1
+Meeting with Patricia to attempt to understand tensor polarization
+
+
+

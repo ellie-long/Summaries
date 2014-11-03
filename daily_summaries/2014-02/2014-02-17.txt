@@ -1,0 +1,13 @@
+Daily Summary
+
+2/14/2014
+
+UNH Collaboration Meeting
+Read through and commented on new BPG
+Updated Joanna on the poster revision
+Checked on ifarm Ay0 replays -- only took two hours to run! (I should have start this 5 years ago...)
+Touched base with speakers for Tensor Workshop
+Reading up on 2H(e,e'p) scattering
+Second UNH Collaboration Meeting
+Fixed neutron hunt Ay0 analysis code and submitted Q2=0.1 data to the farm
+

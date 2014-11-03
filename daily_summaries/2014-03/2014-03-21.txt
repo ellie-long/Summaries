@@ -1,0 +1,11 @@
+Daily Summary
+
+3/21/2014
+
+Added lumi*sig calculations to ptrates code to see where the difference in rates b/t LiD & He2D are coming from
+Meeting with Josh to discuss issues with the web server
+Wrote paragraph of DNP in solution for medical applications for the DOE proposal
+Continued looking into rates difference between LiD & He2D
+
+
+

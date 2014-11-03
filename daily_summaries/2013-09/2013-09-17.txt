@@ -1,0 +1,9 @@
+Daily Summary
+
+9/17/2013
+
+EG4 Meeting
+Local b1 meeting
+Worked on b1 rates code to continue allowing for quasi-elastic and SRC-range physics
+Added more x bins (up to 11) to b1 rates code
+

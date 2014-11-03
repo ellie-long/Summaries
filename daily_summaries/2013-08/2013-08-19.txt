@@ -1,0 +1,11 @@
+Daily Summary
+
+8/19/2013
+
+Local g2p meeting
+Moved turbopump down to the lab
+Hooked up turbopump and began pumping down the cryostat vacuum jacket
+Worked on making pretty the final Ay0 plots, but found they were quite a bit different from previous results
+Looked into why the Ay0 plots were different
+
+

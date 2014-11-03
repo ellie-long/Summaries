@@ -1,0 +1,45 @@
+Weekly Summary
+
+8/19/2013 - 8/23/2013
+
+EG4
+Set up gsim, root, and analyzer on the new ifarm CENT OS 6.2 system
+Played with gsim, attempting to understand Marco's e-mail
+
+
+g2p
+Local g2p meeting
+g2p Meeting
+Played a bit with Marco's EG4 simulation code and submitted a number of jobs to the farm to play with
+
+
+b1
+Moved turbopump down to the lab
+Hooked up turbopump and began pumping down the cryostat vacuum jacket
+Continuing to pump down the cryostat vacuum chamber
+Worked on designing a system to include temperature sensors in the cryostat
+Priced soldering iron and fuses for the lab
+Tried to figure out how to create a better vacuum on the cryostat jacket
+Rearranged the vacuum tubing to attempt to get a better vacuum
+Fixed the vacuum tubing! Turns out the gauge had the wrong zero-setting. Set to factory conditions and we seem good to go!
+Read up on DNP theory
+
+
+Quasi-Elastic
+Worked on making pretty the final Ay0 plots, but found they were quite a bit different from previous results
+Looked into why the Ay0 plots were different
+Worked on code that will let me reanalyze some Ay0 data to double-check with older data
+
+
+Job Issues
+Picked up lost keys at the lockshop
+Set up safety equipment that arrived for the lab
+Recorded the past few days' temp/humidity data
+Recorded yesterday's temp/humidity data
+
+
+Other
+
+
+
+
