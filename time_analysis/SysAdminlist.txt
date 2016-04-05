@@ -44,3 +44,21 @@
 	Set up backup drives for the Mac machines in the lab
 	Meeting with SysAdmins
 	Fixed John's e-mail problems
+	Replaced failed drive in endeavour
+	Worked on bringing up corn and roentgen
+	Worked on trying to fix the NPG servers
+	Backed up NPG website and wiki from roentgen as it's up, but still being worked on
+	Finished backing up UNH's website files to local PC
+	Replaced failed drives in Endeavour and Gourd
+	SysAdmins meeting
+	SysAdmin meeting
+	SysAdmin meeting
+	Rebooted endeavour
+	Moved drives for Maurik
+	Troublshooting nodes 4 and 5 in endeavour
+	Debugged new endeavour node problems
+	Worked on bringing up LDAP server again
+	Put together SysAdmin ad
+	Meeting with John Calarco to get him set up on his new computer
+	Tried to get Nathaly in the NPG system
+	Fixed wigner

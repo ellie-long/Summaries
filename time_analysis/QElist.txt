@@ -225,3 +225,90 @@
 	WOrking on building Hall A in gemc
 	Worked on Hall A in gemc
 	Worked on Hall A in gemc
+	Finalizing Ay0 uncertainties
+	Finishing Ay0 paper
+	Worked on comparing Ay0 results in different variables
+	Worked on Hall A gemc simulation
+	Worked on gemc Hall A simulation
+	Debugging Hall A gemc simulation
+	Worked on Hall A gemc simulation
+	Updating gemc to v2.2
+	Worked on Hall A gemc simulation
+	Wrote up explanation of gemc materials problem for Maurizo
+	Working on getting evio2root working
+	Worked on Hall A gemc script
+	Worked on Hall A gemc script
+	Worked on Hall A gemc script
+	Worked on Hall A gemc simulation
+	Continued working on Hall A gemc simulation
+	Worked on Hall A gemc simulation
+	Worked on Hall A gemc simulation
+	Worked on Hall A gemc simulation
+	Worked on Hall A gemc simulation
+	Worked on output of Hall A gemc simulation
+	Added plot of Q^2 vs Epsilon to Ay0
+	Running bar vetos, Long. Q2=0.4 test Ay0 analysis
+	Working to get long. QE analysis running again
+	Debugging Ay0 replay issues
+	Worked on Ay0 paper
+	Continued working on Ay0 paper
+	Worked on Hall A gemc simulation
+	Worked on gemc simulation of Hall A
+	Worked on output of gemc simulation
+	Worked on Hall A gemc simulation
+	Put GEN paper in PRC format and fixed author list
+	Worked on Hall A gemc simulation
+	Worked on analyzing coincidence events from Hall A gemc simulation
+	Checked status of Hall A gemc simulation
+	Worked on getting gemc running on ifarm and endeavour
+	Worked on getting gemc submission script to work on ifarm and endeavour
+	Continued working on getting gemc submission scripts to work
+	Continued working on getting gemc submission scripts to work
+	Continued working on getting gemc submission scripts to work
+	Worked on optimizing PBS submission script
+	Worked on a lot on getting the PBS system to play well with my Hall A gemc simulation
+	Worked on gemc script on endeavour
+	Worked on gemc script
+	Worked on Hall A gemc simulation
+	Fixed gemc analysis script as outputs were getting too large for it to handle
+	Analyzing latest set of gemc runs
+	Worked on HAND gemc
+	Worked on neutron analysis for Ay0
+	Worked on Ay0 neutron simulation
+	Worked on gemc simulation
+	Worked on gemc simulation
+	Meeting with Doug on Ay0 progress
+	Worked on trying to get gemc to use tof instead of flux detectors
+	Meeting with Maruizio about gemc
+	Worked on Hall A gemc simulation
+	Worked on gemc
+	Worked on Hall A gemc simulation
+	Worked on Hall A gemc simulation
+	Worked on gemc model
+	Worked on Hall A gemc analysis
+	Began summarizing initial gemc results
+	Finished summarizing first gemc HAND simulation results
+	Worked on getting better angle estimates for HAND simulations
+	Finishing up remaining gemc runs
+	Continued working on gemc runs
+	Analyzed simple-veto gemc runs
+	Wrote up summary of gemc runs
+	Worked on HAND gemc simulations
+	Continued putting together HAND gemc results summary
+	Ay0 Meeting
+	Worked on HAND gemc cascading vetos
+	Running remaining gemc analysis for Ay0
+	Working on running Ay0 simulation analysis
+	Kept running Ay0 simulation anaylisis
+	Re-doing gemc with lead wall simulation
+	Restoring lost Ay0 files on ifarm
+	Playing with Ay0 data, seeing if I can do veto layer instead of cascading vetos
+	Continued working with Ay0 data, seeing why there's a difference between cascading and box vetos
+	Understanding difference between different veto types for Ay0
+	Working on debugging Ay0 batch farm scripts
+	Working on Ay0 anaylsis
+	Continued working on Ay0 analysis
+	Checked on Ay0 analysis in progress
+	Worked on Ay0 analysis
+	Began analysis of finished Ay0 runs
+	Working on Ay0 analysis

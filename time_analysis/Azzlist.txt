@@ -220,3 +220,137 @@
 	Worked on Tensor Workshop proceedings
 	Redid the tensor polarization gif to get a better sense of how vector and tensor states change with equidensity lines
 	Summarized tensor polarization insight for Doug and put together *.gif for future talks
+	Set up and sent out Doodle poll for January Azz meeting
+	Prepared for Azz mtg
+	Azz meeting
+	Reading papers to better understand t20
+	Reading up on t20
+	Added bins out to x=2.2 for Azz rates code
+	Working on adding elastic cross sections into Azz rates code
+	Looking at adding formfactor calculations to Azz rates code for elastic peaks
+	Meeting with Ron Gilman on interesting aspects of t20 (Low Q^2 could be very important for understanding target polarization, as that is the region where t20 is very well known and where statistics are very cheap)
+	Worked on fit to world t20 data
+	Writing up information on deuteron form factor fits
+	Azz meeting
+	Worked on new parameterization for A,B form factors
+	Worked on Azz rates code to include elastic deuteron ff
+	Worked on elastic cross sections
+	Lunch meeting with theorists for Azz
+	Answered Mark Strikman's (& Gerry's?) question about nu at Q2=1.5 for Azz
+	Put together summary of how elastic FF calculations fail in Azz
+	Worked on Azz calculations for x~2
+	Worked on Azz rates code
+	Worked on Azz rates code
+	Worked on Azz calculations
+	Worked on Azz calculations
+	Worked on Azz calculations
+	Worked on Azz calculations
+	Worked on t20 calculations
+	Azz meeting
+	Worked on T20 calculations
+	Double-checking t20 results from Friday
+	Worked on determining the exact relationship between Azz and t20
+	Wrote up findings on the relationship between Azz and t20
+	Reading old t20 papers and understanding tensor convention
+	Worked on Azz proposal
+	Worked on Azz proposal
+	Worked on Azz proposal
+	Azz meeting
+	Meeting with Doug
+	Worked on Azz proposal
+	Worked on Azz rates
+	Worked on Azz proposal
+	Worked on trying to find out why the elastic peak isn't showing
+	Worked on Azz rates code
+	FINALLY GOT t20 ELASTIC PEAK WORKING!!!! :-D :-D :-D
+	Corrected Azz rates code by including cut-off at x=2
+	Redoing t20 statistics using corrected elastic peak and dilution factor
+	Wrote up new t20 calculations on wiki
+	Working on Azz proposal
+	Prepared for Azz mtg
+	Azz meeting
+	Worked on Azz rates code to make the elastic peak a gaussian distribution with width = momentum resolution
+	Fixed dilution factor calculations in Azz rates code to include elastic peak, more accurate kinematics
+	Fixed color coding at lowest Q^2 of Azz rates
+	Plotted updated dilution factors
+	Continued working on Azz rates and kinematics
+	Worked on putting together kinematics plots for Azz
+	Updating kinematics section of Azz proposal
+	Working on Azz proposal
+	Working on Azz proposal
+	Working on Azz proposal
+	Working on Azz proposal
+	Working on Azz proposal
+	Working on Azz proposal
+	Incorporated Dustin's systematics tech note into the Azz proposal
+	Updated PAC42 Concerns and Comments section
+	Updated author list to include all of the NPG group
+	Double-checking T20 extraction method
+	Working on contributions from T21 and T22 on T20
+	Azz meeting
+	Continued working on T20 uncertainties
+	Worked on Azz proposal
+	Got estimates for T20 at Q^2=0.5 to see if it's enticing as a calibration measurement (it's not)
+	Finished Azz proposal version to send for invitations to collaboration
+	Worked on Azz proposal
+	Worked on Azz proposal
+	Working on Azz proposal some more
+	Continued working on Azz proposal
+	Found kinematics at each point for H1 and H2 settings for Misak to update his model predictions
+	Played with kinematics to address the issue Jay Benesch raised about the SHMS angle
+	Worked on Azz proposal
+	Worked on Azz proposal
+	Azz meeting
+	Continued working on Azz proposal
+	Worked on Azz proposal
+	Worked on Azz proposal
+	Submitted Azz proposal
+	Meeting with Doug to discuss Azz PAC presentation
+	Redid visualization of Azz rates estimates for Brad and Doug
+	Booked PAC43 travel
+	Worked on Azz PAC defense talk
+	Worked on Azz plots for Pzz=20% and extended-cell target
+	Worked on Azz gemc simulation
+	Worked on Azz SIMC simulation
+	Finishing up Azz gemc simulations that were run over the weekend
+	Scheduled Azz mtg
+	Working on Azz gemc and SIMC simulations
+	Working on understanding SIMC simulations and trying to output asymmetry errors
+	Worked on Azz SIMC (e,e'p) simulation
+	Worked on Azz SIMC (e,e'p) simulation
+	Worked on Azz SIMC simulation
+	Worked on Azz PAC43 talk
+	Worked on Azz PAC talk
+	Continued working on Azz PAC talk
+	Worked on Azz PAC talk
+	Azz spokespersons meeting
+	Worked on Azz PAC talk
+	Worked on Azz TAC Response
+	Continued working on Azz TAC response
+	Worked on Azz TAC response
+	Worked on Azz TAC response
+	Meeting with Karl to discuss TAC response
+	Worked on Azz TAC response
+	Worked on Azz TAC response
+	Worked on Azz PAC talk
+	Worked on Azz TAC response
+	Worked on Azz PAC talk
+	Worked on Azz PAC talk
+	Travelled to JLab for the PAC
+	Worked on Azz PAC talk
+	Attended PAC43
+	Attended PAC43
+	Worked on PAC talk
+	Meeting with Doug to go over PAC talk
+	Meeting with Donal, Karl, and Patricia to go over PAC talk
+	Gave PAC talk
+	Attended PAC43
+	Attended PAC43
+	Attended PAC43
+	Travelled back to New Hampshire
+	Put together reimbursement paperwork
+	Reviewing tensor talks that I couldn't see the slides of last week
+	Organized meeting scheduling and agenda for Azz spokespersons meeting
+	Worked on Azz vs unpolarized comparisons
+	Trying to understand Misak's e-mail about Azz and wavefunctions
+	Azz meeting

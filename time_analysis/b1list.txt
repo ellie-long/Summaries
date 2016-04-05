@@ -199,3 +199,4 @@
 	Got side-tracked back into reading papers to better understand tensor polarization
 	Double-checked b1 calculations for Karl's proceedings and for my 2-slide DNP LRP talk
 	Going through old papers by Teryaev
+	Worked on b1 rates to check with SHMS limit

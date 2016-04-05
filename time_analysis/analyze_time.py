@@ -60,7 +60,7 @@ print("Analyzing...\n")
 
 monthlySummary.write("Month	EG4	g2p	UNH Lab	b1	Azz	QE	Doc	Conf	JobI	Other	Total\n")
 #year = 2013
-for year in range (2013,2015):
+for year in range (2013,2017):
 		for month in range (1,13):
 			thisMonth = "../monthly_summaries/"
 			thisMonth += str(year)
@@ -204,7 +204,7 @@ Olist.close()
 
 #dailySummary.write("Day		EG4	g2p	Lab	b1	Azz	QE	Doc	Conf	SysAdmin	JobI	Other	Total\n")
 #year = 2013
-for year in range (2013,2015):
+for year in range (2013,2017):
 		for month in range (1,13):
 			for day in range (1,32):
 				thisDay = "../daily_summaries/"

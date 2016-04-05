@@ -140,3 +140,71 @@
 	Trying to figure out if there's a way to convert GSIM to gemc
 	Meeting with Maurik about feasibility of CLAS6 in gemc
 	EG4 Meeting
+	EG4 Meeting
+	EG4 Meeting
+	EG4 Meeting
+	EG4 Meeting
+	Reading background papers on CLAS and EG4
+	Continued reading through Xiaochao's EG4 analysis note
+	Looking at kinematics for EG4
+	EG4 Meeting
+	Designed new script to get EG4 kinematics per run number
+	Worked on EG4 kinematic analysis script
+	Debugged EG4 kinematics script to get it to work on the batch farm
+	Organized and debugged issues from last night's kinematic analysis pass
+	Continued optimizing EG4 kinematics code
+	Worked on EG4 kinematics script
+	Worked a lot on EG4 kinematics script
+	Worked a lot on EG4 kinematics script
+	Worked a lot on EG4 kinematics script
+	Worked a lot on EG4 kinematics script
+	Worked a lot on EG4 kinematics script
+	Worked a lot on EG4 kinematics script
+	Finished analysis of All Sectors for EG4
+	Wrote up summary of analysis in EG4 wiki
+	EG4 Meeting
+	Worked on EG4 kinematics scan
+	EG4 meeting
+	Fixed issue with incorrect calculations of vertex phi in EG4
+	Putting together summary of fixed EG4 angle kinematics
+	EG4 Meeting
+	Checked and fixed calculation of vertex phi in EG4 script
+	EG4 Meeting
+	EG4 Meeting
+	EG4 meeting
+	EG4 meeting
+	EG4 meeting
+	EG4 meeting
+	EG4 Meeting
+	EG4 meeting
+	EG4 Meeting
+	EG4 meeting
+	EG4 Meeting
+	EG4 meeting
+	EG4 meeting
+	EG4 Meeting
+	EG4 meeting
+	EG4 meeting
+	EG4 meeting
+	EG4 Meeting
+	EG4 meeting
+	EG4 Meeting
+	EG4 meeting
+	EG4 meeting
+	EG4 Meeting
+	EG4 meeting
+	EG4 meeting
+	EG4 meeting
+	EG4 Meeting
+	EG4 meeting
+	EG4 Meeting
+	EG4 Meeting
+	EG4 meeting
+	EG4 meeting
+	EG4 meeting
+	EG4 Meeting
+	EG4 meeting
+	EG4 Meeting
+	EG4 Meeting
+	EG4 Meeting
+	EG4 Meeting

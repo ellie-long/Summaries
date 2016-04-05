@@ -462,3 +462,367 @@
 	Worked on designing Helium fridge-to-Roots pump connector
 	Meeting to go over helium fridge mount plans with Karl
 	Got quote for modifying the helium fridge vacuum port
+	UNH Collaboration Meeting
+	Looked into potential Q-meter noise fix (didn't work)
+	Worked with Makenzie to get DesignSpark behaving properly
+	Meeting with Karl about where we're heading into the January cool-down
+	Put together test and answer sheet for Peter to take cryo training this afternoon
+	Helped students work on their projects in the lab
+	Put together example of how ASA fits on the fridge large vacuum port
+	UNH Collaboration Meeting
+	Long UNH Collaboration Meeting
+	Tested switches inside of the root pumps to see if we can individually control each pump turning on (we can't)
+	Looked into getting a blank adapter flange that we can drill into instead of the He fridge
+	Put together Helium 4 vapor pressure vs. temp curve
+	UNH Collaboration meeting
+	Looked into sourcing adapter pipe for He fridge
+	Tested roots pumps to see how the big pump turns on
+	Cleaned lab in preparation for safety inspection
+	Attempted to repair the DV-6 vacuum gauge meter
+	Worked on getting the Q meter working at 13 MHz with the fridge coil
+	Attempted to repair DV-6 vacuum gauge meter, declared it dead
+	Phone call with Chris Mathews from Lesker Company to talk about the helium fridge mating pipe
+	Looked into requirements for a 3-phase power supply
+	Worked with Makenzie on the NMR
+	UNH Collaboration meeting
+	Worked on making our labview program more stable
+	Worked with Caitlyn on a different way of getting LabView and the iTC playing nicely
+	Worked on the iTC timeout error problem
+	Worked on the iTC timeout error
+	Continued working on the iTC timeout error
+	Cleaning up the LabView temperature code
+	Made sure that the LabView/iTC program was still running properly, and did some basic quality checking
+	Wrote up small report of my updated LabView/iTC program and sent to Karl, Zain, and Caitlyn
+	Wired the 19-pin AMI connector so that it can also be used with the fridge, by splitting the outputs
+	Continued working on wiring the helium fridge electronics
+	Sourced DV-6M pressure tube and talked with Kevan Carpenter about getting a 3-phase power supply
+	Continued working on wiring the helium fridge electronics
+	Worked on wiring the helium fridge
+	Worked on installing electronics in the Helium fridge
+	Worked on getting LabView to work with both the iTC and the Fluke multimeter 
+	Worked on getting the Q-meter to work in LabView
+	Worked on getting equipment working in LabView
+	Installed LabView 2014 to see if it fixes some issues by having up-to-date drivers
+	Sized up Lesker custom flange drawing to helium fridge
+	Worked up updating the LabView program
+	Made large To-Do lists for remaining items pre-cooldown
+	Meeting with Karl to walked through To-Do lists
+	Drew up diagram of pump line and sent to Don to inquire whether we need a gate valve
+	Put together summary of options for adding a valve between the roots pumps and the fridge
+	UNH Collaboration Meeting
+	Meeting with Don about whether we need the valve (he will also send us a piece of microwave waveguide)
+	Got sizing needed to order quick connect adapters to seal the fridge
+	Cleaned lab in preparation for safety group arrival
+	Meeting with safety group to discuss issues of having solid ammonia in the lab
+	Tuned the Q meter
+	Attempted (unsucessfully) to remove the double-peaking effect in the Q-mete
+	Worked on improving NMR software
+	Sized up the fridge mount with the second draft from Lesker
+	Worked on NMR program
+	Began figuring out a system for a warning beacon for when the magnet is on
+	Took helium fridge temp sensor calibration point with dry ice
+	Added better error visualization in NMR program
+	Worked on Dem103 lab standard operating procedures document
+	Began analyzing dry ice calibration data for the helium fridge
+	UNH Collaboration Meeting
+	Meeting GafTek to look at rewiring the roots pumps
+	Updated the lab OSP with recommendations and risk assessment from the safety department
+	Made diagram of Helium Fridge with placement of temperature sensors and wire outputs
+	Meeting with Caitlyn to go over LabView software
+	UNH Collaboration Meeting
+	Checked that He fridge flange adapter fits, and put in order for screws
+	Looked into what's needed to connect the separator pump
+	Put together flow diagram for lab pump system
+	Added thermocouple to lab datastream
+	UNH Collaboration Meeting
+	Putting together order list for lab parts
+	Contacted Pfieffer about getting wiring diagram for pumps
+	Worked in the lab with Peter and Caitlyn
+	Looking back into three-phase power supply to the pumps
+	Installed the new vacuum line to the helium fridge
+	Worked on LabView software
+	Worked on LabView, fixed iTC GPIB communication problem
+	Fixed iTC AB1 temp card problem
+	Fixed iTC AB1 temp card problem
+	UNH Collaboration Meeting
+	Hooked up 8" vacuum pipes in the lab
+	Successfully tested the roots pumps with the installed line to make sure it holds vacuum
+	Installed helium fridge to the pump line
+	Cleaned up the lab after yesterday's installation
+	Checked on status of iTC update -- the timeout fix didn't work
+	UNH Collaboration meeting
+	Put together chemical safety test for Peter (Copied from EH&S Blackboard)
+	Phone meeting with Karl updating him on the progress in the lab
+	Checked off a number of pieces ordered for the lab
+	Unpacked lab equipment
+	Meeting with Karl on lab update
+	Put new order arrivals away in the lab
+	Picked up lab equipment at the hardware store
+	Worked on water cooling system for Q-meter in the lab
+	Powered up and tested the safety strobe light
+	Installed magnet safety strobe light and magnetic switch
+	Spec'ed parts still needed for the fridge and Q-meter
+	UNH Collaboration Meeting
+	Installed ISO-200 screen above the helium fridge
+	Vacuum tested fridge -- it leaks, but parts to fix it are alread on their way
+	Installed new vacuum system for the separator pump
+	Continued testing Q meter cooling system
+	Installed new o-ring for the He fridge
+	Set up UVA magnet on the stand
+	UNH Collaboration meeting
+	Worked on UVA magnet
+	Called Pfieffer and Gaftek about wiring up the new pumps
+	Rearranged part of the lab
+	Updated talks on NPG DNP wiki
+	Rearranged the lab to move the Q meter to a better location
+	Assessed lab space for what we have, what we could use
+	Moved equipment from Maurik's lab into our lab
+	Looked into pricing of raw materials for new helium fridge
+	Going through literature on LHe 1.3 K cryostats
+	UNH Collaboration meeting
+	Worked on understanding separator in LHe fridge
+	Fixed the Q meter with Mackenzie
+	Helped Nataly get set up to work on the helium leak detectors in the lab
+	UNH Collaboration meeting
+	Helped Nataly with the leak detectors
+	Helped Nataly get set up in the lab
+	UNH Collaboration Meeting
+	Worked on tuning the Q meter
+	Commented on Caitlyn's URC poster
+	Worked on tuning Q meter
+	Commented on Makenzie's URC poster
+	Attended URC 
+	Continued tuning the Q meter
+	Sourced parts for wiring KNF and roughing pumps
+	UNH Collaboration meeting
+	Helped Caitlyn debug her LabView code
+	UNH Collaboration Meeting
+	Meeting with Peter to work on his thermocouple code
+	Checked dehumidifiers and pumped down the fridge to protect it from humidity
+	Overview of the lab to see the status of things
+	Installing AutoCAD Inventor on lab ultrabook
+	Put in order for remaining pieces needed for the cool-down
+	Prepped shop and equipment for machining separator pump stand, but no one around to be a 2nd safety person
+	Crated PDFs and printed out blueprints of the g2p fridge and insert
+	Continued installing AutoCAD Inventor
+	Updated humidity plots
+	Machined stand for the KNF pump
+	Began running electrical connections for KNF pump
+	Continued working on wiring for KNF separator pump
+	UNH Collaboration Meeting
+	UNH Collaboration meeting
+	Meeting with Karl
+	Tuned Q meter at 13MHz
+	Installed helium reservoir in fridge
+	Met with Karl and Facilities to go over 3 phase power installation
+	Repaired fridge tubing and finished target cup
+	Tested helium fridge electronics and NMR signal
+	UNH Collaboration Meeting
+	Getting Nathaly set in the lab, with trainings, guidance, Dropbox permissions, etc.
+	Wired separator pump
+	Tested separator pump
+	Successfully tested separator pump
+	Wired second roughing pump
+	Sucessfully tested second roughing pump
+	Cleaned the lab to prep for cool-down
+	Tested second roughing pump pull of full vacuum chamber
+	Tested second roughing pump with roots pumps
+	Cleaned out and re-tapped problematic holes in the fridge
+	Drilled out and re-tapped hole with screw stuck in fridge
+	Worked on repairing electronics in fridge
+	Worked on tuning the Q meter
+	UNH Collaboration Meeting
+	Picked up o-ring at the hardware store
+	Worked on getting the fridge vacuum down
+	Worked on getting the fridge vacuum down
+	Worked on getting the fridge vacuum down
+	Worked on getting the fridge vacuum down
+	Worked on helium fridge vacuum
+	Worked more on helium fridge
+	Spent most of the day getting the DV-6 vacuum gauge to be read into LabView
+	Vacuum test of fridge, got to <0.2 mTorr
+	Worked on prepping helium fridge for nitrogen cool-down
+	Nitrogen cool-down of helium fridge
+	Nitrogen cool-down of helium fridge
+	Nitrogen cool-down of helium fridge
+	Analyzing data from last week's cool-down to make rough calibration curves
+	Worked on fridge electronics & getting flow meter to work with LabView
+	Nitrogen cool-down
+	Nitrogen cool-down
+	Worked on methods of enclosing the target cup so that beads aren't blown out under vacuum
+	Worked on NMR software
+	Worked on NMR program
+	Worked on NMR code in the lab
+	UNH Collaboration meeting
+	Uploading a lot of lab photos to Flickr that I hadn't yet
+	Worked on NMR code
+	Worked on NMR code
+	Attempted to debug the iTC timeout problem -- no success. :-(
+	Repaired NMR 
+	Updated iTC software to reboot every 30 minutes
+	Worked on optimizing LabView for cool-down
+	Liquid Nitrogen Cool-down (until 11pm)
+	Looked into VTIs as helium refridgerators
+	Analyzing last week's cooldown data
+	Wrote up Cool Down Procedure
+	Worked with Nathaly on sourcing parts for the new helium fridge
+	Set up new Lakeshore temperature monitor
+	Worked with Nathaly on sourcing parts for the new fridge
+	UNH Collaboration meeting
+	Worked with Nathaly on attempting to polarized at 77K with new coils -- seemed like it worked???
+	Installed AB2, AB3, and AB4 into the Lakeshore Temp Monitor
+	Put iTC temperature sensors into the Lakeshore 224 instead
+	Put CCS calibration sheets into the Lakeshore 224
+	Worked on understanding CCS thermal contacts
+	Worked with Nathaly on sourcing parts for new fridge
+	Installed fridge CCS sensors on thermal pads
+	UNH Collaboration Meeting
+	Worked with Nathaly on new fridge parts
+	Sourced parts for vacuum jacket valve and helium flow meter
+	Finished integrating Lakeshore 224 into LabView
+	Incorporated Ryan's PolCalc into LabView so that we can easily calibrate TEs
+	Began preparing lab for cool-down
+	Prepared lab for cool-down (Stayed until ~10:30pm)
+	Prepared lab for cool dow
+	Successfully reached 1K in the lab!! (Stayed until ~10pm)
+	Prepped AMI magnet for cool-down
+	Worked on getting NMR signal at 4.2K in AMI magnet
+	Tried to get NMR signal in AMI magnet (worked from ~6am-6pm)
+	Worked on getting NMR signal in AMI magnet
+	Meeting to clean up lab a bit
+	Worked on analysis of last week's cool-down
+	Analyzing data from fridge cool-down
+	Went to Morse and Kingsbury machine shops about building the fridge
+	Meeting with Karl about the fridge
+	Worked on analyzing data from fridge cool-down
+	Re-organized and printed out helium fridge blueprints for machine shop
+	Finished analysis of 1K cool-down data
+	Meeting with Scott from the Machine shop
+	Long meeting with Scott
+	Took a closer look at the 2014 field map as compared to the AMI-provided field map for 7T
+	Made new BNC cables for lab equipment
+	Worked with Nathaly on getting the room temperature electromagnets running
+	Worked with Nathaly and Matt in the lab
+	Meeting with Morse machine shop guys
+	Meeting with Karl and Scott to go over fridge plans again
+	Sourced parts for KF-25 vacuum port cool-down
+	Meeting with Karl about new fridge
+	Meeting with Morse machine shop guys about fridge
+	Long meeting with Morse machine shop guys about fridge
+	Drew up CAD drawing for Halbach magnet
+	Discussed ideas of making a fridge with the heat exchanger from the '69 fridge with Nathaly and Karl
+	Built frame for small Halbach magnet
+	UNH Collaboration meeting
+	Did initial (failed) test of assembling a Halbach magnet
+	Short meeting with Nathaly about the fridge
+	Worked on Halbach setup
+	Organized lab receipts from the past few months
+	Meeting with Nathaly to discuss fridge design
+	Worked with Nathaly on fridge design
+	Went over fridge design with Nathaly
+	Worked on feed-through design
+	UNH Collaboration Meeting
+	Modified feedthrough design
+	Worked on getting lathe working in the shop
+	Sized fridge for 8" tubing using crane
+	Worked with Nathly on fridge shell design
+	Speced indium wire for seal
+	Worked on feedthrough design
+	Meeting with Scott to fix the lathe in the DeMeritt machine shop
+	Worked with Taylor on Halbach
+	Trying to get lathe up and running
+	Worked on getting familiar with the lathe for lathing the transfer tube
+	Went over shell designs with Nathaly
+	Introduced to lock-in amplifier from Ryan
+	UNH Collaboration Meeting
+	Worked on turning the test feedthrough port
+	Organized new lab equipment
+	Worked on lathing the feedthrough pipe
+	Worked on feedthrough tube
+	Looked into Stainless Steel properties in book that Bryan lent me
+	Putting together cool-down data for Mike to analyze
+	Worked on milling the feedthrough pipe
+	Worked on feedthrough tube end
+	Finished making test feedthrough pipe
+	Finished feedthrough tube
+	Running vacuum test on feedthrough tube
+	Continued testing the feedthrough tube
+	UNH Collaboration meeting
+	Looked at data from last night's vacuum test -- it's discouraging. Set up and started a new test.
+	Analyzing data from today's vacuum test -- inconclusive.
+	Analyzing pressure data from last night
+	Meeting with Karl & Nathaly to discuss fridge design
+	Looked up how to re-center the South Bend lathe, and then recentered the claw chuck
+	Preparing laptop for PETG printer settings
+	Lathed a new inside to the feedthrough tube nut for better seal, and began vacuum test on (hopefully) improved seal
+	Putting together list of items & tools needed for upcoming fridge mock-up vacuum test
+	Running feedthrough vacuum tests
+	Lining up parts for 4" vacuum test
+	Analyzing recent feedthrough vacuum tests
+	Analyzed last night's pressure data
+	UNH Collaboration Meeting
+	Analyzing last night's pressure data
+	Worked on putting together software graphing of pressure data
+	Machined hole all the way through feedthrough tube, although accidentally broke threading -- needs repaired
+	Analyzed all pressure data and plotted it nice with as a summary
+	Machined parts for Nathaly's epoxy vacuum test rig
+	Put together 3D print designs for target cups and sticks
+	Printed target cups and sticks
+	Wrote script to plot our huge backlog of NMR data to find a good plot for proposals
+	UNH Collaboration Meeting
+	Looked into carcinotron options
+	Back and forth about Fischer connectors and got them figured out
+	Working on new target cup design for printing
+	Improved NMR plotting code to include comments and metadata
+	Meeting with Karl to get caught up on what I missed
+	Meeting with Karl and Nathaly to plan moving forward
+	Meeting with Nathaly in the lab
+	Sourced parts for lab 3D printer
+	Meeting with Karl
+	Tested cryogenically stressed 3D printed target cup for structural integrity
+	UNH Collaboration meeting
+	Looked into sourcing PCTFE filament
+	Printed new designed target cup
+	Fixed target cup cap design
+	Printing and debugging target cup caps
+	Continued sourcing Kel-F filament
+	Updated target cup design and printed new cups
+	Finished/cleaned up new target cups and put them in the stick
+	Tested new target sticks for cryogenically stressed structural integrity
+	Put together new target stick design
+	Attempted to fix target cup cap designs and printed them
+	Worked on target stick design
+	Continued working on target stick
+	Worked on target stick design
+	Worked on target stick design
+	Worked on target stick design
+	UNH collaboration meeting
+	Worked on target stick design
+	Worked on waveguide placement for target stick
+	Machined parts for Nathaly
+	Worked on target stick design
+	Worked on target stick design
+	UNH Collaboration Meeting
+	Worked on target stick design
+	Meeting with Nathaly in the lab
+	Worked on placement of waveguide in target stick
+	Worked on target stick design
+	Worked on sourcing target stick components
+	Worked on Q meter with Nathaly
+	Worked on target stick design
+	UNH Collaboration Meeting
+	Helped Nathaly in the lab
+	UNH Collaboration Meeting
+	Worked on feasibility to 3D print Kel-F
+	Meeting with Karl and Nathaly about what she learned at JLab
+	Meeting with Karl and Matt Dillman
+	UNH Collaboration Meeting
+	Safety meeting with Andy Glode
+	Helped get Nick started in the lab
+	Sourcing parts for safely printing with Kel-F
+	Installed Octopi for the lab 3D printer
+	Worked with E3D to find FEP and PCTFE-capable 3D printer hot end
+	Machined target stick upper tube
+	Machined top of target stick
+	UNH Collaboration Meeting
+	Helped Shana move desk into our lab
